@@ -2,7 +2,8 @@
 Step 3.3 - Read the Methods section and turn it into data rows with the AI.
 
 Input : data/raw_pdfs/<paper>.pdf
-Prompt: prompts/methods_to_rows_v1.txt
+Prompt: prompts/methods_to_rows_v2.txt
+        (v1 kept for the record; v2 = one value per row, years, all treatment codes)
 Output: outputs/stage3/<paper>/methods_text.txt   (the text sent to the AI, for hand-check)
         outputs/stage3/<paper>/methods_long.csv   (one row per value, assignment format)
 
@@ -25,7 +26,16 @@ from openai import OpenAI
 BASE_URL = "https://api.goedelmachines.com/v1"
 MODEL = "deepseek/deepseek-v4.1-flash"
 TEMPERATURE = 0
-PROMPT_FILE = Path("prompts/methods_to_rows_v1.txt")
+PROMPT_FILE = Path("prompts/methods_to_rows_v2.txt")
+
+# A value that is really a LIST: number, then ", " or " and " or "&", then a number.
+#   "0, 40, 60 and 120" -> list      "16th and 19th" -> list
+#   "3,983" (no space)  -> not list  "0–15" (range)  -> not list
+LIST_OF_VALUES = re.compile(r"\d(?:st|nd|rd|th)?\s*(?:,\s+|\s+and\s+|\s*&\s*)\d")
+
+# Columns that make a row unique (used to remove exact duplicates)
+DUPLICATE_KEYS = ["category", "variable", "value", "unit", "crop", "treatment",
+                  "depth_cm", "year", "Source"]
 
 # Methods starts at "Materials and Methods" / "Methods and Materials" (any case)
 # and ends at "Results and Discussion" or a heading that is only "Results".
@@ -124,6 +134,10 @@ def check_row(r, pages):
     # 3. Depth must look like "0-15" (or be empty)
     if r["depth_cm"] and not re.fullmatch(r"\d+(\.\d+)?-\d+(\.\d+)?", str(r["depth_cm"])):
         problems.append(f"depth_cm '{r['depth_cm']}' is not like '0-15'")
+
+    # 4. One value per row: a list like "0, 40, 60 and 120" must be split
+    if LIST_OF_VALUES.search(str(r["value"])):
+        problems.append("value is a list of several values (should be one row each)")
     return problems
 
 def main():
@@ -172,6 +186,12 @@ def main():
         })
 
     df = pd.DataFrame(out_rows)
+
+    # 5. Remove exact duplicate rows (same information given twice by the AI)
+    before = len(df)
+    df = df.drop_duplicates(subset=DUPLICATE_KEYS).reset_index(drop=True)
+    print(f"Duplicates removed: {before - len(df)}")
+
     df["Model"] = MODEL
     df["Temperature"] = TEMPERATURE
     df["Prompt file"] = PROMPT_FILE.as_posix()
