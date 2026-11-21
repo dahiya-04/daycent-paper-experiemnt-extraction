@@ -1,0 +1,100 @@
+Material and Methods
+[p2] Soil and Site Characteristics
+[p2] The data reported here were generated from two long-term experiments carried out at main research farm of the ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India (26270N, 80140E and 152.4 m above mean sea level). The soils of study site belong to taxonomic class Typic Ustochrept (Inceptisol) with sandy-loam texture. The climate of the research site comes in sub-humid tropical, receives an annual rainfall of 722 mm with the mean annual maximum and minimum temperature is 33.0 and 20.0 C, respectively. At the initiation of the experiment, the SOC was 2.8 g kg-1 soil in upland and lowland experiment.
+[p2] Experimental Design and Treatments
+[p2] These two long-term experiments were initiated during the rainy season (July) of 2003 with a major objective to investigate the effect of different cropping systems and nutrient management practices on soil health and crop productivity. Both the experiments were laid in a split-plot design with three replications; and the treatment comprised of four cropping systems in the main-plot and three nutrient managements in subplot in each year. In the present study, the authors emphasized to unfold the impact of chickpea inclusion in cereal–cereal systems. Therefore, the authors selected alternate-year chickpea included rotation and conventional cereal–cereal rotation from both production system. Accordingly, the authors separated (1) maize– wheat (MW), (2) maize–wheat–maize–chickpea (MWMC) from upland; and (1) rice–wheat (RW), (2) rice–wheat– rice–chickpea (RWRC) from lowland system. Both the long-term experiments had common nutrient management practices viz., (1) control (2) inorganic (NPKSZnB) and (3) organic (all crop residues incorporation ? biofertiliz- ers ? farmyard manure (FYM) with 5 Mg ha-1). The cultivar Azad Uttam (maize), PBW 343 (wheat), and DCP- 92-3 (chickpea) were used in the upland production sys- tem; where, Pant Dhan 12 (rice), PBW 343 (wheat), and KWR-108 (chickpea) were used in the lowland rice-based experiment. Fertilizer nitrogen (N), phosphorus (P2O5) and potassium (K2O) (kg ha-1) were applied in the form of urea, diammonium phosphate and muriate of potash respectively; and the detailed rate is presented in Table 1. Sulphur was applied in the form of gypsum at 20 kg S ha-1, zinc as ZnSO4 at 25 kg ha-1 and boron as
+[p2] 430 P. K. Ghosh et al.
+[p2] 123
+[p3] borax at 10 kg ha-1. Well decomposed FYM was spread uniformly at the rate of 5 Mg ha-1 well in advanced before sowing of rainy season crops which provided approxi- mately 28, 9, 26, and 448 kg ha-1 of N, P, K and C, respectively. Under organic nutrient management, full crop residue of all component crops was chopped properly using a rotatory machine, then uniformly spread and mixed with the soil before sowing of the succeeding crop. The annual nutrient input (means of last 2 years) under different crop rotation and nutrient management practices are presented in Table 2. Biofertilizers (Azotobacter for cereals, Rhizo- bium for pulses and phosphate solubilising bacteria Bacil- lus polymyxa for both cereals and pulses) were applied at 20 g kg-1 seed ([ 107 bacteria g-1 inert material) through seed treatment (PUSA, New Delhi).
+[p3] Soil Sampling and Analysis
+[p3] Soil samples were collected from four soil depths (0–0.2, 0.2–0.4, 0.4–0.6, 0.6–0.8 m). Soil samples were taken with post-hole auger from four random spots in each plot (three replications) after harvesting the last crop in the crop cycle. The sampled soils were air dried, ground followed by passing through a 2 mm sieve and stored at room tem- perature for analyzing oxidisable organic C by wet oxida- tion method [12]. Total organic C was calculated using the formula: oxidizable organic carbon 9 1.33 [13]. In surface and sub-surface depths, organic C-fractions were analyzed through modified Walkley and Black method as described by Chan et al. [14]. The concentrated H2SO4 of 5, 10 and 20 ml resulted in three acid aqueous solution ratios of 0.5:1, 1:1, and 2:1 corresponding to 12 N, 18 N and 24 N
+[p3] of H2SO4, respectively [15]. The organic C determined using 5, 10 and 20 ml of concentrated H2SO4, when compared with TOC allowed separation of TOC into fol- lowing four different fractions of decreasing oxidisability: fraction I (Cfrac1), organic C oxidisable under 12 N H2SO4; fraction II (Cfrac2), the difference in organic C extracted between 18 N and 12 N H2SO4; fraction III (Cfrac3), the difference in organic C extracted between 18 N and 24 N H2SO4 (24 N H2SO4 is equivalent to the standard Walkley and Black method); and fraction IV (Cfrac4), residual organic C after reaction with 24 N H2SO4 when compared with TOC [16].
+[p3] Carbon Pools
+[p3] After determining, different fractions of TOC under a gradient of oxidizing condition the active and passive C- pools were determined as follows:
+[p3] Active C-pool 1⁄4 Cfrac1 þ Cfrac2 Passive C-pool 1⁄4 Cfrac3 þ Cfrac4:
+[p3] Carbon Management Index (CMI)
+[p3] Carbon management index was calculated using the fol- lowing formulas.
+[p3] First, lability index (LI) was determined using three of the C-fractions (Cfrac1, Cfrac2 and Cfrac3) as mentioned earlier. Subsequently, a weightage of 3, 2 and 1 was given to Cfrac1, Cfrac2, and Cfrac3, respectively and their actual values were transformed to a proportional amount of TOC and weighed with the weighing factor to get a lability index for the organic C content [17].
+[p3] Table 1 Agronomic practices and cultivars used for component crops in lowland and upland experiments
+[p3] Production system
+[p3] Crop Cultivar Seed rate (kg ha-1)
+[p3] Spacing Crop season (seed to seed)a Nutrient rate (N– P–K, kg ha-1)
+[p3] Time of fertilizer application No of irrigationb
+[p3] Lowland Rice Pant
+[p3] Dhan12
+[p3] 40 20 9 20 June (2)– October (4)
+[p3] 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 25 DAT; 1/3 N at 45 DAT 8–10
+[p3] Wheat PBW 343 100 22.5 cont.
+[p3] November (3)–
+[p3] March (3)
+[p3] 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS 5
+[p3] Chickpea KWR 108 70 30 9 10 April (1)–June (1)
+[p3] 20–60–40 N ? P ? K at basal 2
+[p3] Upland Maize Azad
+[p3] Uttam
+[p3] 18–20 50 9 20 June (3)– October (3)
+[p3] 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 25 DAS; 1/3 N at 45 DAS 2
+[p3] Wheat PBW 343 100 22.5 cont.
+[p3] November (3)–
+[p3] March (3)
+[p3] 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS 5
+[p3] Chickpea DCP-92-3 70 30 9 10 April (1)–June (1)
+[p3] 20–60–40 N ? P ? K at basal 2
+[p3] DAT days after transplanting, DAS days after sowing aFigures in parenthesis indicate week of the month bNeed-based irrigation was given and the numbers of irrigations listed are averages of 4 years
+[p3] Increasing Soil Organic Carbon Through Crop Diversification in Cereal–Cereal Rotations of... 431
+[p3] 123
+[p4] LI 1⁄4 Cfrac1=TOC ð Þ  3 þ Cfrac2=TOC ð Þ  2 1⁄2 þ Cfrac3=TOC ð Þ  1 ð1Þ
+[p4] Then, Carbon pool index (CPI) was derived as follows,
+[p4] CPI 1⁄4 Sample TOC mg kg1  
+[p4] =Reference TOC mg kg1  
+[p4] ð2Þ
+[p4] where, reference total carbon is the total carbon content (mg kg-1) of control plots for a crop rotation [17]. Finally, CMI was calculated using the following formula:
+[p4] CMI 1⁄4 CPI  LI  100: ð3Þ
+[p4] Particulate Organic Carbon (POC)
+[p4] Particulate organic C was analyzed taking after the strategies depicted by Sollins et al. [18]. Briefly, 20 g soil was defloc- culated by adding 100 ml of sodium hexametaphosphate. The soil solution was shaken for 18 h with 90 rpm min-1 in a reciprocating shaker. The suspension was washed with 53 lm screen with the consistent stream of distilled water. The rest of the soil on the screen was washed, collected, and dried (60 C for 12 h) for estimation of POC.
+[p4] Carbon Stabilization
+[p4] Carbon Stabilized % ð Þ 1⁄4
+[p4] P0:8
+[p4] d1⁄40:0 Corg  Cct
+[p4]  
+[p4] P8
+[p4] y1⁄41 C
+[p4]  100 ð4Þ
+[p4] where, Corg represents TOC content of soil treated with crop residue ? FYM, and Cct is the TOC content of soil of control plots at depth 0–0.8 m. C represents the amount of C applied through FYM and crop residue during last 8 years. Carbon stabilization in soils is based on the transfor- mation of C into such active and passive C-pools derived through the following equations [4]:
+[p4] Carbon stabilized in active C-pool % ð Þ
+[p4] 1⁄4
+[p4] P0:8
+[p4] d1⁄40:0 Corg active pool ð Þ  Cct active pool ð Þ  
+[p4] P8
+[p4] y1⁄41 C active pool þ passive pool ð Þ
+[p4] ð5Þ
+[p4] Carbon stabilized in passive C-pool % ð Þ
+[p4] 1⁄4
+[p4] P0:8
+[p4] d1⁄40:0 Corg passive pool ð Þ  Cct passive pool ð Þ  
+[p4] P8
+[p4] y1⁄41 C active pool þ passive pool ð Þ
+[p4] ð6Þ
+[p4] Statistical Analysis
+[p4] The data were analyzed using windows-based SPSS soft- ware (SPSS, 2001, Version 11.0, SPSS, Chicago, IL). The treatment means were statistically separated using Duncan multiple-range-test (DMRT) at the 5% probability level for the different production system (upland and lowland). The principal component analysis (PCA) was performed using
+[p4] Table 2 Annual nutrient input (kg ha-1 a-1) and cumulative C-input (Mg C ha-1) under different crop rotation and nutrient management practices
+[p4] Production system Crop rotation Nutrient management Annual nutrient input (kg ha-1 a-1) Cumulative C-input (Mg C ha-1)
+[p4] N P K S Zn FYM Crop residue* Total
+[p4] Lowland R–W CT - - - - - - - -
+[p4] RDF 240.0 52.4 43.7 20.0 4.2 - - -
+[p4] ORG 103.6 25.9 142.5 24.4 0.29 6.5a 36.8b 43.3b R–W–R–C CT - - - - - - - -
+[p4] RDF 190.0 52.4 43.7 20.0 4.2 - - -
+[p4] ORG 107.0 26.8 146.0 28.2 0.40 6.5a 43.0a 49.5a
+[p4] Upland M–W CT - - - - - - - -
+[p4] RDF 240 52.4 43.7 20 4.20 - - -
+[p4] ORG 91.6 18.9 122.3 10.8 0.42 6.5a 36.2b 42.7b
+[p4] M–W–M–C CT - - - - - - - -
+[p4] RDF 190 52. 4 43. 7 20 4.20 - - -
+[p4] ORG 109.9 22.3 142.5 16.1 0.50 6.5a 43.8a 50.31a
+[p4] Based on last 2 years data 2009–2010 and 2010–2011
+[p4] Nutrient input through crop residue (kg ha-1a-1) = R (nutrient concentration in straw/stover (%) 9 residue returned in a year (kg ha-1) to the soil in respective treatment) for all crop in rotation. R–W rice–wheat, R–W–R–C rice–wheat–rice–chickpea, M–W maize–wheat, M–W–M–C maize–wheat–maize–chickpea, CT control, RDF recommended dose of fertilizer (NPKSZnB), ORG all the crop residue ?FYM at 5 Mg ha-1 ? bio-fertilizer. Annual nutrient input was calculated based on last 2 years data (2009–2010 and 2010–2011). Different letters in upland and lowland column values are significantly different at P \ 0.05 according to Duncan multiple range test (DMRT) for separation of means
+[p4] * Aboveground crop residue
+[p4] 432 P. K. Ghosh et al.
+[p4] 123
+[p5] PAST software. The statistical analysis for upland and lowland was done separately.
+[p5] 

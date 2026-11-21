@@ -1,0 +1,19 @@
+# Ghosh_2017 | Table 1 | page 3 | area [51, 60, 544, 280]
+Table 1 Agronomic practices and cultivars used for component crops in lowland and upland experiments
+Production Crop Cultivar Seed rate Spacing Crop season Nutrient rate (N– Time of fertilizer application No of
+system (kg ha-1) (seed to seed)a P–K, kg ha-1) irrigationb
+Lowland Rice Pant 40 20 9 20 June (2)– 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 8–10
+Dhan12 October (4) 25 DAT; 1/3 N at 45 DAT
+Wheat PBW 343 100 22.5 November (3)– 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 5
+cont. March (3) 21 DAS; 1/3 N at 45 DAS
+Chickpea KWR 108 70 30 9 10 April (1)–June 20–60–40 N ? P ? K at basal 2
+(1)
+Upland Maize Azad 18–20 50 9 20 June (3)– 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 2
+Uttam October (3) 25 DAS; 1/3 N at 45 DAS
+Wheat PBW 343 100 22.5 November (3)– 120–60–40 1/3 N ? P ? K at basal; 1/3 N at 5
+cont. March (3) 21 DAS; 1/3 N at 45 DAS
+Chickpea DCP-92-3 70 30 9 10 April (1)–June 20–60–40 N ? P ? K at basal 2
+(1)
+DAT days after transplanting, DAS days after sowing
+aFigures in parenthesis indicate week of the month
+bNeed-based irrigation was given and the numbers of irrigations listed are averages of 4 years

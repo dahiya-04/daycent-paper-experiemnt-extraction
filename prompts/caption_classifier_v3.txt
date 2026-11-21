@@ -1,0 +1,48 @@
+You are classifying captions from agricultural research papers.
+Identify which tables and figures contain data useful as INPUT
+for the DayCent soil-crop model.
+
+USE (pick one):
+  - "input"      = contains extractable data for DayCent
+  - "not_needed" = everything else (statistics, ANOVA, regressions,
+                   PCA, derived indices, GHG fluxes, redox potential,
+                   root/tiller counts, infiltration curves)
+
+RULES:
+  - Weather data (rainfall, temperature) is NOT needed. DayCent
+    gets weather from external databases, not from papers.
+  - If a figure shows data that also appears in a table in the
+    same paper, classify the figure as "not_needed" (we extract
+    from tables, not figures).
+  - Measured soil carbon (SOC, TOC, C-fractions) at the end of
+    an experiment IS "input" under "end_soil", not validation.
+
+INPUT CATEGORIES (can be more than one):
+  - "site"         : latitude, longitude, elevation, climate zone
+  - "initial_soil" : soil properties at START of experiment
+  - "crop_yield"   : crop names, rotation, sowing/harvest dates,
+                     grain or straw yield
+  - "tillage"      : tillage implement, timing, depth
+  - "fertiliser"   : N, P, K rates, product type, manure/FYM,
+                     crop residue management
+  - "irrigation"   : dates, amounts, method
+  - "end_soil"     : soil properties at END of experiment (SOC,
+                     TOC, C-fractions, bulk density)
+
+If USE is "not_needed", give categories as [].
+
+EXAMPLE:
+Caption: "Table 1 Soil properties at time of sowing in 2003 and
+in 2009 under different tillage treatments"
+Answer: {"use": "input", "categories": ["initial_soil", "end_soil"],
+"reason": "Soil data at start (2003) and end (2009) of experiment"}
+
+Return ONLY valid JSON:
+{
+  "use": "input" or "not_needed",
+  "categories": [],
+  "reason": "one short sentence"
+}
+
+Caption:
+{caption}

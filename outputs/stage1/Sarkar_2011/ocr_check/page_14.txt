@@ -1,0 +1,50 @@
+Soil under Contrasting Tillage-Crop Residue Management 275
+
+TABLE 3 Changes in Bulk Density and Saturated Hydraulic Conductivity After Harvest of
+Transplanted Rice Crop (2003)
+
+Tillage Crop residue Depth of Bulk density Saturated hydraulic
+treatments treatments soil (cm) (Mg/m?) conductivity (cm/day)
+TT TyWo 0-15 1.69 7.81
+15-30 1.73 6.68
+30-45 1.75 1.28
+toW) 0-15 1.66 7.85
+15-30 1.72 6.70
+30-45 1.72 1.26
+11 Wo 0-15 1.65 7.82
+15-30 1.71 6.72
+30-45 1.73 1.32
+rw, 0-15 1.63 6.48
+15-30 1.72 6.65
+30-45 1.73 1.12
+To ToWo 0-15 1.68 8.24
+15-30 1.70 6.89
+30-45 1.71 1.40
+toW) 0-15 1.66 8.02
+15-30 1.7 6.94
+30-45 1.69 1.30
+TW 0-15 1.67 8.15
+15-30 1.71 6.90
+30-45 1.72 1.42
+rW) 0-15 1.66 7.96
+15-30 1.72 6.82
+30-45 1.69 1.25
+
+layer with a slight decrease in SHC (Table 4). The changes in BD and SHC
+were minimum under less intensive shallow tillage (T,;). The increases in BD
+and decreases in SHC in surface soil were noticeably mitigated by the appli-
+cation of crop residues. When residues of both rice and wheat crops were
+applied, BD of surface soil was 1.68 Mg/m? under T, and 1.69 Mg/m? under
+T,. Due to this decrease in BD, SHC of surface layer increased marginally
+to 8.48 and 8.96 cm/day, respectively, under T;r;w, and T r,;w,. Similar
+trends of the changes in BD and SHC due to crop-residue application were
+also observed with dryland tillage (T,; and T,). The minimum BD of surface
+layer under dryland tillage was measured under Tyr;w,, which resulted in
+maximum hydraulic conductivity of 14.38 cm/day. Bulk density and SHC
+of surface soil, respectively, decreased and increased under treatment of
+crop-residue application for rice. Decrease in BD of surface soil with the
+application of crop residues might be due to an increase in soil porosity,
+which ultimately increased the SHC of soil (Boparai, Singh, & Sharma 1992;
+Joshi, Haokip, & Singh 1994). Application of crop residues decreased the BD
+of soil also under wheat tillage with concomitant increase in SHC due to an
+increase in the macropore fraction of soil. SHC was found to be positively

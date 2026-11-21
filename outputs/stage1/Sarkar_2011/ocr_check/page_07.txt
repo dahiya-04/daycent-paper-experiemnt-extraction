@@ -1,0 +1,49 @@
+268 R. Sarkar and S. Kar
+
+hydraulic conductivity CKs) in 0-15, 15-30, and 30-45 cm soil layers and
+in infiltration characteristics, which were measured at the harvest of rice
+and wheat crops. Bulk density was measured following the principles of
+Blake (Blake 1965) and saturated hydraulic conductivity by Laboratorium
+permeameter following the principle of Klute (Klute 1965).
+
+Soil strength (SS) or soil compaction was measured after harvest of each
+rice and wheat crop to know the effect of tillage and crop-residue applica-
+tion on crop-root development and crop growth (Hasegawa et al. 1985;
+Busscher et al. 2000). The SS was measured at three randomly selected loca-
+tions in each treatment plot and averaged to get more accurate values. Three
+readings of SS at 2.54 cm, 7.62 cm, and 12.7 cm depth were measured from
+each location. Soil strength measurement was performed with a manually
+operated cone penetrometer equipped with a 30° cone having a 95-sq.-cm
+basal area (Singh & Malhi 2006). All of the measurements of soil strength
+were taken just after harvest of rice and wheat crops when moisture content
+of all the soil layers was near field capacity.
+
+Double ring infiltrometer was used to measure the infiltration rate of
+the soil (Bouwer 1986). The diameters of outer and inner rings of the infil-
+trometer were 30 and 55 cm, respectively. The infiltrometers were placed in
+plots of all tillage-crop residue combinations after harvest of rice crop (2003)
+and measurement was taken at 30, 60, 120, 150, 195, 210, 240, and 300 min,
+until the steady-state infiltration rate was achieved.
+
+Statistical Analyses
+
+The effects of tillage, crop residue, and N application rate on the final status
+of SOC were assessed by measuring soil organic carbon at the end of the
+experimental period (October 2003) under all the treatment combinations
+in both TR-W-F and DR-W-F. The data obtained were statistically analyzed
+by M-STATC software package and presented in the form of analyses of
+variance (ANOVA) (Russel & Einsensmith 1986). ANOVA was also performed
+to assess the effect of tillage and crop-residue application on yield of rice and
+wheat crops under average rate of inorganic N application. The differences
+between treatment means were tested using critical difference value at 5%
+(CDo.os) and 1% (CD01) levels of significance. Linear regression relationships
+among soil organic carbon level and rate of N application were established
+using Microsoft Excel (2003).
+
+RESULTS AND DISCUSSION
+
+Variations in Soil Organic Carbon Content Under Transplanted
+Rice-Wheat and Direct-Seeded Rice-Wheat System
+
+The influence of climate, temperature, and humidity of soil under different
+tillage and crop-residue incorporation treatments on seasonal changes in

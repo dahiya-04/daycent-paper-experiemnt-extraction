@@ -1,0 +1,15 @@
+# Sarkar_2011 | Table 6A | page 22 | area [72, 66, 430, 234]
+TABLE 6A Yield of Transplanted Rice Under Different Tillage and Crop Residue Treatments
+in 2001, 2002, and 2003
+Grain Yield (kg/ha)
+Treatments 2001 2002 2003
+Tillage
+T1 3,983 4,069 4,422
+T2 3,914 3,871 4,261
+S.E.M. 12.709 (D.F. = 7) 10.134 (D.F. = 2) 2.768 (D.F. = 2)
+Crop Residue
+r0w0 — 3,778 4,162
+r0w1 — 4,038 4,401
+r1w0 — 3,919 4,253
+r1w1 — 4,146 4,549
+S.E.M. (D.F. = 12) — 12.756 3.728

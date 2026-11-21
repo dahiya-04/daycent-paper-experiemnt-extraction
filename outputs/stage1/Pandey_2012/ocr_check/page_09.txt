@@ -1,0 +1,92 @@
+D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144 141
+
+600 10007 , — 2000
+] ° ?=0.591** | r=0.227** =0.741*
+ol aie Coee 1500
+@Q
+a 6007] bat | a
+_ ‘onl 1000 =
+200 <
+ms
+_ 200
+0 0!
+ri T T T T T
+r°=0.706** 29 429%*
+500 800 5 1°=0.42
+~
+aid 6007 ° 5
+300 Bs
+200 5
+~ =
+= 100
+—€ 0
+oD
+=
+x r’=0.887** e r’=0.516**
+= sd 1500
+wT
+= 400 z
+9 300 1000 3
+=
+200 500 4
+100 .
+0 ° Pi
+2 2 se she
+29 87g%* 1°=0.608**
+5 r lo
+~ 1500
+400 x
+Z
+300 1000 =
+200 500 3
+100 4
+0 0 ao
+T T T T T -500 T T T T T
+-200 -100 -50 0 +50 +100 +200 5 10 15 20 25 30 35 -100 0 100 200 300 400 500
+2-1
+ORP (mV) Moisture Content (w/v %) CO; flux (mg mh”)
+
+Fig. 7. Relationships of CH, fluxes with oxido-reduction potential (ORP), moisture content and CO, fluxes in selected tillage practices. Level of significance: *0.05, **0.01,
+***0.001, ns: not significant. RCT-WCT: tillage before transplanting rice and sowing wheat; RNT-WCT: no tillage before sowing of rice and tillage before sowing of wheat;
+RCT-WNT: tillage before transplanting rice but no tillage before sowing of wheat; RNT-WNT: no tillage before sowing of both rice and wheat.
+
+was the highest CO emitter, RNT-WCT emitted relatively much
+less.
+
+The overall findings suggest that changes in soil physical prop-
+erties guided emission processes more than the residue addition in
+no tillage, however, it needs more extensive study to suggest with
+confidence how residue addition to soil under no tillage influences
+fluxes of different gases.
+
+3.4, Relationship between fluxes of greenhouse gases and soil
+parameters
+
+CH, fluxes had an inverse relationship with ORP, while a
+direct relationship was obtained with moisture content in all the
+tillage practices (Fig. 7). A linear dependency in both the cases
+was observed. The regression equations defining the dependencies
+were different for the four practices. These variations may have
+originated due to differences in soil qualities; plant attributes as
+well as changes in microbial phenomena as modulated by differ-
+ent tillage permutations. The value of slope of regression equation
+
+derived between CH, flux and reduction potential indicated the
+change in CH, flux per unit change in reduction potential and was
+found to be the maximum in RCT-WNT while the minimum was in
+RNT-WCT. Although no clear statistical correlation between mois-
+ture content and reduction potential could be obtained, we expect
+a co-dependency of ORP and CH, fluxes on moisture content. As
+water expels out the air trapped in the soil pores, under saturation
+complete absence of molecular oxygen takes place. It is reported
+widely that methanogenesis occurs below —150 mV, but we noticed
+CH, emissions at much higher values of ORP. It is possible that
+soil at greater depths became more anaerobic while our ORP mea-
+surement was limited up to 10cm depth only where soil might
+be relatively oxidizing. This is evident from numerous studies car-
+ried out in rice fields that soil water interface up to rhizosphere
+remain aerobic for most of the time due to plant mediated diffu-
+sion of O2 into this zone. Also, regeneration of oxidants in this zone
+is rapid and hence removal of flood water can immediately regen-
+erate oxidants thus inhibiting reducing conditions for considerable
+time even if atmospheric oxygen supply is cut off. In RCT-WCT,

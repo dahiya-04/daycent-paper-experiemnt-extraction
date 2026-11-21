@@ -1,0 +1,139 @@
+D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144 137
+
+selected variables. All statistical analyses were performed on SPSS
+version 10.0, IBM, USA.
+
+3. Results and discussion
+3.1. Soil properties
+
+During six years of continuous treatments of tillage permuta-
+tions in rice-wheat system, significant variations in bulk density,
+organic C, N and P contents in soil of alternately and no tilled
+fields have occurred (Table 1). Redox potential of soil under all
+the tillage treatments decreased gradually since transplantation,
+becoming negative under flooded conditions and reaching min-
+imum by 20-25 DAT (Fig. 3). The minimum ORP was recorded
+in RCT-WCT (—165 410.8). As water levels in the fields declined
+and soils tended towards drier conditions, ORP also approached
+towards positive values indicating that the soil conditions gradu-
+ally became oxidizing. Water occupies voids present between soil
+particles thus removing and preventing accumulation of air (and
+hence O2) in addition of cutting atmospheric oxygen supply. This
+causes reduction potential to fall when water logging continues so
+that most of the oxidizing agents present in soils get reduced. Soil
+organic carbon, total N and available P increased with reduction in
+tillage intensity. This is expected due to crop residue incorporation
+with less disturbance of soil, hence decreased oxidation of organic
+matter. Similar observations were reported by Mina et al. (2008)
+and Wang et al. (2008). In 2010, however, P was observed to be
+lower in RNT-WNT than rest of the treatments (data not presented
+for 2010). Since soil sampling was done on the day of land prepa-
+ration, it may be possible that in RNT-WNT, P did not mix properly
+with soil due to residue of previous crop.
+
+3.2. Temporal variations in fluxes of CH4, N20 and CO2 during
+different stages of plant development
+
+3.2.1. Methane
+
+In all the treatments, CH, fluxes followed similar temporal
+pattern, with two peaks (Fig. 3). In 2009, emissions rose since
+transplantation reaching first maximum near 40DAT and then
+decreasing gradually till 50DAT. After this, fluxes again started
+increasing and near 70DAT second maximum was reached. The
+emissions subsided by 80 DAT, gradually decreasing to zero some-
+times becoming undetectable. The second peak was much broader
+in RCT-WCT as the emissions remained high (~600 mg m~? h~') for
+longer period (60-80 DAT) as compared to rest of the plots where
+peak was sharp (~70 DAT), but higher (~1700 mg m? h7! in RCT-
+WNT and RNT-WCT and ~1200 mg m~2 h7! in RNT-WNT). In 2010,
+the temporal pattern was similar, but the peaks shifted towards left
+and fluxes were lower. The first maximum of CH, flux appeared at
+13-18 DAT except in RCT-WNT in which peak appeared at 23 DAT.
+The second maximum was recorded near 60 DAT in RCT-WNT and
+RNT-WCT; 70 DAT in RNT-WNT while in RCT-WCT, peak was flat-
+tened (40-60 DAT) similar to that observed during 2009. In all the
+cases, first peak was higher than the second.
+
+Highest CH, fluxes were observed during the tillering stage
+which is in agreement with Gogoi et al. (2005), Ahmad et al. (2009),
+and Li et al. (2011). Due to plant growth and development of new
+tillers, root exudation rate is high during this phase, which increases
+CH, generation by supplying substrates for methanogenesis (Singh
+et al., 2009). Previous studies concluded that about half of the
+CH, production in rice plants is driven by roots through exuda-
+tion or their decay (Watanabe et al., 1999). The generated CHy, is
+transported towards atmosphere by the rice tillers through their
+aerenchyma, thus reducing chances of oxidation by methanotropic
+activity in near surface soil (aerobic zone) (Sass and Cicerone,
+
+Table 2
+F values and significance level for emissions of CH4, N20 and CO2 as obtained by
+three-way ANOVA analysis.
+
+Factors F value
+CH, N20 CO2
+
+Tillage practice 36.57" 79.26" 202.86"
+Year 237.91" 83.55" 307.24"
+Stage 1296.04°* 348.42" 50.05°~*
+Tillage practice x year 25.29" 11.88" 128.10"
+Tillage practice x stage 11.39" 15.99" 126.72"
+Year x stage 36.62" 87.78" 555.94"
+Tillage practice x year x stage 13.50°" 21.88" 67.52""
+
+“Level of significance: p< 0.001.
+
+2002). Flood water is expected to maintain reduced condition
+which favours methanogenesis. At reproductive stage, roots are
+completely developed thereby causing reduction in root exudation.
+Plant loses some of the tillers whereas conduit effects of existing
+tillers diminish due to ageing (Singh et al., 2009). This decreases
+CH, production as well as its transport via the plant. During the
+diffusion of CH, through the soil methanotropic bacteria which are
+ubiquitous in agricultural fields and may oxidize up to 90% of the
+generated CH, (Mer and Roger, 2001). These bacteria are active
+in aerobic rhizosphere and soil water/soil atmosphere interface.
+Additionally, after tillering, flooding was removed and moderate
+moisture was maintained either by rainfall or supplementary irri-
+gation. Therefore anaerobic conditions weakened causing gradual
+reduction in CH, fluxes. Fluxes of CH, from all the tillage practices
+were higher during 2009 than in 2010 as is reflected in cumulative
+emissions in different stages of plant for two years (Fig. 5). Three-
+way ANOVA results (Table 2) also indicate that CH4 emissions in
+different life stages of rice plants were influenced by year of mea-
+surement, phase of plant and interaction of the two. Cumulative
+CH, emissions in all the tillage practices were different in 2009
+and 2010 during reproductive and maturity stages but were sim-
+ilar during vegetative phase except for RNT-WCT. This indicates
+that the factors responsible for creating the difference in fluxes
+did not influence much the vegetative phase of the crop. Up to
+tillering stage when flooding is maintained, meteorological condi-
+tions (particularly rainfall) have little effect on plant growth (Corton
+et al., 2000) and no influence on soil processes. But when flooding
+is terminated and moisture is maintained through rain or sup-
+plementary irrigation, rainfall influences rice plant as well as soil
+conditions significantly. As is clear from Fig. 2 rainfall was more and
+better distributed during 2010 (771.9mm) as compared to 2009
+(462.0 mm). Increased rainfall during 2010 did not cause flooding
+for more than a day but created wetting and drying cycles dur-
+ing reproductive and maturity stages of rice which reportedly can
+suppress methanogenesis with probable improvement in methan-
+otropy by carrying dissolved oxygen into the soil (Pathak et al.,
+2003). Such environmental conditions are favourable for spikelet
+formation and grain filling and therefore mediate translocation of
+photosynthates to spikelets thus reducing allocation to roots. This
+cuts off carbon substrate supply to the soil through root exudation
+thus leading to decreased CH, generation, but increase the grain
+weight (Sass and Cicerone, 2002).
+
+3.2.2. Nitrous oxide
+
+Fluxes of N20 generally remained positive over the entire crop
+season and were highly variable (Fig. 4). Fluxes were lower during
+the flooded conditions, and increased as soil flooding was stopped
+but moderate moisture was maintained. Under prevailing anaer-
+obic conditions during flooding, denitrification dominates over
+nitrification, which enhances the probability of NO reduction to
+N2 in case the process goes to completion (Wrage et al., 2001).
+As soil regains aerobicity, N20 generation related to nitrification

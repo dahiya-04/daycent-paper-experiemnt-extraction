@@ -1,0 +1,48 @@
+138 D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144
+
+400 4
+—@— RCT-WCT O- RNT-WCT —-¥— RCT-WNT ns RNT-WNT
+
+300 4
+200 4
+
+100 4
+
+ORP (mV)
+
+-100 4
+
+-200 4
+
+-300 T T T
+0 20 40 60 80 100
+
+Days after transplantation
+
+Fig. 3. Observed trends in redox potential (ORP) of soil during rice crop in 2010. RCT-WCT: tillage before transplanting rice and sowing wheat; RNT-WCT: no tillage before
+sowing of rice and tillage before sowing of wheat; RCT-WNT: tillage before transplanting rice but no tillage before sowing of wheat; RNT-WNT: no tillage before sowing of
+
+both rice and wheat.
+
+— 2010
+
+= 2009 <
+
+2000, = RCT-WCT RNT-WCT RCT-WNT RNT-WNT
+
+CH, (mg m* h"')
+
+N2O (ug m? h*)
+
+40
+A A
+
+Basal I Top II Top Harvest Basal 1 Top II Top ae eat Basal I Top ir Top vee Basal I Top Ir Top Harvest
+(NPK) dress dress (NPK) dress dress (NPK) dress dress (NPK) dress dress
+(N) (N) (XN) (N) (NX) (N) (NX) (N)
+
+Days after transplantation
+
+Fig. 4. Fluxes of CH4, N20 and CO; under selected permutations of tillage and no tillage practices. RCT-WCT: tillage before transplanting rice and sowing wheat; RNT-WCT:
+no tillage before sowing of rice and tillage before sowing of wheat; RCT-WNT: tillage before transplanting rice but no tillage before sowing of wheat; RNT-WNT: no tillage
+before sowing of both rice and wheat. Arrows indicate fertilizer additions and harvesting.

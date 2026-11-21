@@ -1,0 +1,25 @@
+# Ghosh_2017 | Table 2 | page 4 | area [51, 57, 544, 363]
+Table 2 Annual nutrient input (kg ha-1 a-1) and cumulative C-input (Mg C ha-1) under different crop rotation and nutrient management
+practices
+Production system Crop rotation Nutrient management Annual nutrient input (kg ha-1 a-1) Cumulative C-input (Mg C ha-1)
+N P K S Zn FYM Crop residue* Total
+Lowland R–W CT - - - - - - - -
+RDF 240.0 52.4 43.7 20.0 4.2 - - -
+ORG 103.6 25.9 142.5 24.4 0.29 6.5a 36.8b 43.3b
+R–W–R–C CT - - - - - - - -
+RDF 190.0 52.4 43.7 20.0 4.2 - - -
+ORG 107.0 26.8 146.0 28.2 0.40 6.5a 43.0a 49.5a
+Upland M–W CT - - - - - - - -
+RDF 240 52.4 43.7 20 4.20 - - -
+ORG 91.6 18.9 122.3 10.8 0.42 6.5a 36.2b 42.7b
+M–W–M–C CT - - - - - - - -
+RDF 190 52. 4 43. 7 20 4.20 - - -
+ORG 109.9 22.3 142.5 16.1 0.50 6.5a 43.8a 50.31a
+Based on last 2 years data 2009–2010 and 2010–2011
+Nutrient input through crop residue (kg ha-1a-1) = R (nutrient concentration in straw/stover (%) 9 residue returned in a year (kg ha-1) to the
+soil in respective treatment) for all crop in rotation. R–W rice–wheat, R–W–R–C rice–wheat–rice–chickpea, M–W maize–wheat, M–W–M–C
+maize–wheat–maize–chickpea, CT control, RDF recommended dose of fertilizer (NPKSZnB), ORG all the crop residue ?FYM at
+5 Mg ha-1 ? bio-fertilizer. Annual nutrient input was calculated based on last 2 years data (2009–2010 and 2010–2011). Different letters in
+upland and lowland column values are signiﬁcantly different at P \ 0.05 according to Duncan multiple range test (DMRT) for separation of
+means
+* Aboveground crop residue

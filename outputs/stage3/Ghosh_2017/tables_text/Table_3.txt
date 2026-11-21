@@ -1,0 +1,22 @@
+# Ghosh_2017 | Table 3 | page 5 | area [51, 403, 544, 715]
+Table 3 Crop rotation and nutrient management effect on different C-fractions and TOC in lowland
+Soil depth (m) Treatment Very-labile Cfrac1 Labile Cfrac2 Less-labile Cfrac3 Non-labile Cfrac4 TOC
+0–0.2 R–W 3.59b 2.98b 5.48a 5.24a 17.29b
+R–W–R–C 4.85a 3.41a 5.37a 4.79a 18.42a
+CT 3.58c 2.53b 5.14b 4.83b 16.08c
+RDF 4.33b 3.46ab 5.32ab 4.98b 18.09b
+ORG 4.94a 3.60a 5.79a 5.24a 19.57a
+0.2–0.4 R–W 3.89a 3.05a 4.86a 2.93a 14.73a
+R–W–R–C 4.08a 3.05a 4.55a 2.79a 14.47a
+CT 3.07c 2.81a 4.62a 2.88a 13.38b
+RDF 4.75b 3.22a 4.62a 2.91a 15.50a
+ORG 5.14a 3.12a 4.68a 2.8a 15.74a
+0.4–0.6 R–W 1.53a 1.5a 1.43a 1.88a 6.34a
+R–W–R–C 1.45a 1.49a 1.54a 1.82a 6.30a
+CT 1.54a 1.55a 1.44a 1.76a 6.29a
+RDF 1.55a 1.45a 1.47a 1.86a 6.33a
+ORG 1.38a 1.49a 1.55a 2.01a 6.43a
+Different letters within continuous columns are signiﬁcantly different at P B 0.05 according to Duncan multiple range test (DMRT) for
+separation of means. The statistical analysis was done separately for crop rotation and nutrient management treatment. R–W rice–wheat, R–W–R–
+C rice–wheat–rice–chickpea, CT control, RDF recommended dose of fertilizer (NPKSZnB), ORG all the crop residue ? FYM at
+5 Mg ha-1 ? bio-fertilizer

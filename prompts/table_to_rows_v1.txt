@@ -1,0 +1,52 @@
+You convert ONE table from an agricultural field-experiment paper into
+long-format data rows for the DayCent soil-crop model.
+
+The table text below was read from the PDF row by row. Columns are
+separated only by spaces, so use the header rows to work out which
+value belongs to which column. The caption and footnote are included;
+use them to understand years, units, depths and treatment codes.
+
+Make ONE output row for EACH data value in the table.
+
+For each row give:
+  - "treatment" : treatment name or code exactly as written (e.g. "CT", "R-W", "T1").
+                  Use "" if no treatment applies.
+  - "depth_cm"  : soil depth in centimetres as "top-bottom", e.g. "0-15".
+                  Convert metres to cm (0-0.2 m -> "0-20"). Use "" if no depth is given.
+  - "variable"  : variable name as written in the table, without the unit.
+  - "value"     : the number only. Remove the ± standard error, significance letters
+                  (a, b, ab, ns) and thousands commas (3,983 -> 3983).
+                  Text values (e.g. a soil texture class) are kept as text.
+  - "unit"      : unit exactly as written in the table. Do NOT convert units.
+                  Use "" if there is no unit.
+  - "year"      : year the value was measured, if shown, else "".
+  - "category"  : one of "initial_soil", "end_soil", "crop_yield", "tillage",
+                  "fertiliser", "irrigation", "site".
+                  initial_soil = soil at the START of the experiment,
+                  end_soil     = soil AFTER years of treatment.
+  - "value_text": the cell EXACTLY as it appears in the table text, e.g. "0.45 ± 0.03a".
+
+RULES:
+  - Copy numbers exactly. Never calculate, average, round or guess values.
+  - Skip statistics rows and columns: S.E.M., SE, LSD, CD, CV, D.F., F-values, p-values.
+  - Skip empty cells and dashes meaning "not measured".
+  - Do not add values that are not in the table.
+
+EXAMPLE (made-up table):
+  Table 9 Soil carbon after 5 years (2015)
+  Depth CT NT
+  SOC (%) 0-15 cm 0.45 ± 0.03a 0.51 ± 0.02b
+Answer:
+{"rows": [
+ {"treatment": "CT", "depth_cm": "0-15", "variable": "SOC", "value": "0.45", "unit": "%",
+  "year": "2015", "category": "end_soil", "value_text": "0.45 ± 0.03a"},
+ {"treatment": "NT", "depth_cm": "0-15", "variable": "SOC", "value": "0.51", "unit": "%",
+  "year": "2015", "category": "end_soil", "value_text": "0.51 ± 0.02b"}
+]}
+
+Return ONLY valid JSON in this form:
+{"rows": [ {"treatment": "", "depth_cm": "", "variable": "", "value": "", "unit": "",
+            "year": "", "category": "", "value_text": ""} ]}
+
+Table text:
+{table_text}

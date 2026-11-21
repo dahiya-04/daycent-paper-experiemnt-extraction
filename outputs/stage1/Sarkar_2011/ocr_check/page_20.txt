@@ -1,0 +1,50 @@
+Soil under Contrasting Tillage-Crop Residue Management 281
+
+crops were applied. Under DR, the steady state was apparently attained
+after 240 min, irrespective of tillage and crop-residue treatments. At this
+time, the differences in infiltration rates amongst the crop-residue treatments
+narrowed down under both T3 and Ty. After 300 min, the average infiltration
+rate was 5.0 mm/hr under T; and 6.0 mm/hr under T,;. In case of DR, the
+infiltration rate was found to be a little higher in less intensive rice tillage (Ty)
+than intensive tillage (T3). The faster infiltration under shallow or minimum
+tillage was due to greater aggregate stability, which allows water to pass
+down faster than intensive tillage that disperses the soil and destroys the
+macropores (Leibig et al. 2004).
+
+The initial infiltration rate under wheat crop was distinctly higher than
+that measured under rice crop (Figures 10 and 11). The initial infiltration rate
+was relatively higher under similar treatment (totpWo) of dry wheat tillage in
+case of wheat following DR than TR. The initial infiltration rate ranged from
+56 mm/hr under torow, to 65 mm/hr under t,r;w;. Figure 10 also depicts
+that the initial infiltration rate was slightly higher when the soil was intensely
+tilled and crop residues were applied. The maximum initial infiltration rate
+was measured when both rice and wheat crop residues were applied under
+both ty) and t; (7.0 mm/hr). Unlike the trend observed under rice crop,
+the decline in infiltration rates during 30-120 min was quite abrupt under
+wheat crop. However, after 120 min the decreases were gradual under all
+treatments of tillage and crop residues. The steady state was apparently
+attained after 240 min under all treatment combinations. After 300 min, the
+infiltration rate was higher under t; (5.0 mm/hr) than ty (4.0 mm/hr). The
+soil treated with crop residues also had a marginally higher infiltration rate
+
+7.05
+6.54
+—*— t0r0w0
+6.0 4 N
+\ —#— t0r0w1
+5.5 7 ° —— t0r1w0
+5.0 4 S —— tor1w1
+= 454 AN —*- t1r0w0
+5 40] a —e—ttrowt
+5 3.57 \ \ —+— t1r1w0
+§ 30] \\ ——tirw1
+2.0 4
+1.57
+1.07
+0.54
+0.0 Tt T T T T T T T
+30 60 120 150 195 210 240 300
+Time (min)
+
+FIGURE 10 Influence of tillage and crop residue application on infiltration characteristics
+under wheat following transplanted rice crop.

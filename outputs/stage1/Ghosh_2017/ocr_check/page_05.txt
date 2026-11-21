@@ -1,0 +1,84 @@
+Increasing Soil Organic Carbon Through Crop Diversification in Cereal—Cereal Rotations of...
+
+PAST software. The statistical analysis for upland and
+lowland was done separately.
+
+Results and Discussion
+Carbon Fractions and Particulate Organic C
+
+Chickpea inclusion in cereal—cereal rotations (RW and
+MW) significantly (P < 0.05) increased the TOC. In sur-
+face soil (0O-0.2 m), inclusion of chickpea in RW and MW
+rotation increased the TOC by 6.5 and 13.5%, respectively
+(Tables 3, 4). The inclusion of chickpea in lowland RW
+and upland MW system increased the very-labile C-frac-
+tion (Cfrac,) at surface soil depth (O-0.2 m), but in lower
+soil depths it was marginal. The content of Cfrac,; was
+found higher in upland when compared with lowland.
+Chickpea inclusion in alternate-year increased labile
+C-fraction (Cfrac2) in both the production systems and the
+effect was likewise limited to surface soil. With inclusion
+of chickpea, the enrichment (P < 0.05) of Cfrac3 was
+observed only in the upland system. In the study, non-labile
+C-fraction of TOC (Cfrac,4) did not differ (P > 0.05) with
+crop rotation. In upland, the share of different C-fractions
+followed the order Cfrac, > Cfracy > Cfracy > Cfrac3
+and Cfrac,; > Cfracz > Cfracy > Cfracy in the surface
+
+433
+
+(O-0.2 m) and subsurface soil depth (0.2-0.4 m), respec-
+tively. In lowland puddled rice-based system, the sequence
+was Cfrac3 > Cfrac, > Cfrac, > Cfracz for surface depth
+and Cfrac3 > Cfrac, > Cfracy > Cfrac4 for sub-surface
+depth.
+
+In both the production systems, addition of FYM at
+5 Mg ha! + incorporation of crop residue + bio-fertil-
+izers (organic nutrient management) resulted in higher
+content of all C-fractions (Cfrac,, Cfrac2, Cfrac3, and
+Cfrac4) followed by balanced inorganic fertilization
+(Tables 3, 4). Subsequently, higher values of TOC in sur-
+face soil were registered in organic than inorganic and
+control plots. Irrespective of the production system, nutri-
+ent management effect on the quantitative enrichment of
+C-fractions was in the order of Cfrac,; > Cfracz > -
+Cfrac3 > Cfrac4. In the lower soil depths, nutrient man-
+agement effect was marginal (P > 0.05); however,
+enrichment of Cfrac, was noticed even in sub-surface soil
+in organic treatment plots. The POC content in RWRC and
+MWMC was higher (P < 0.05) over traditional RW and
+MW systems, indicating POC is also a sensitive C-fraction
+to soil and crop management. The average POC value was
+almost 2 times higher in upland over lowland soil. Among
+the nutrient management practices, the POC content was in
+the order of organic > inorganic (NPKSZnB) > control
+
+(Fig. 1).
+
+Table 3 Crop rotation and nutrient management effect on different C-fractions and TOC in lowland
+
+Soil depth (m) Treatment Very-labile Cfrac; Labile Cfracz Less-labile Cfrac3 Non-labile Cfrac4 TOC
+0-0.2 R-W 3.59b 2.98b 5.48a 5.24a 17.29b
+R-W-R-C 4.85a 3.4la 5.37a 4.79a 18.42a
+CT 3.58c 2.53b 5.14b 4.83b 16.08c
+RDF 4.33b 3.46ab 5.32ab 4.98b 18.09b
+ORG 4.94a 3.60a 5.79a 5.24a 19.57a
+0.2-0.4 R-W 3.89a 3.05a 4.86a 2.93a 14.73a
+R-W-R-C 4.08a 3.05a 4.55a 2.79a 14.47a
+CT 3.07c 2.81la 4.62a 2.88a 13.38b
+RDF 4.75b 3.22a 4.62a 2.91la 15.50a
+ORG 5.14a 3.12a 4.68a 2.8a 15.74a
+0.4-0.6 R-W 1.53a 1.5a 1.43a 1.88a 6.34a
+R-W-R-C 1.45a 1.49a 1.54a 1.82a 6.30a
+CT 1.54a 1.55a 1.44a 1.76a 6.29a
+RDF 1.55a 1.45a 1.47a 1.86a 6.33a
+ORG 1.38a 1.49a 1.55a 2.01a 6.43a
+
+Different letters within continuous columns are significantly different at P < 0.05 according to Duncan multiple range test (DMRT) for
+separation of means. The statistical analysis was done separately for crop rotation and nutrient management treatment. R-W rice-wheat, R-W-R.
+C_rice—wheat-rice—chickpea, CT control, RDF recommended dose of fertilizer (NPKSZnB), ORG all the crop residue + FYM at
+
+5 Mg ha"! + bio-fertilizer
+
+va Springer

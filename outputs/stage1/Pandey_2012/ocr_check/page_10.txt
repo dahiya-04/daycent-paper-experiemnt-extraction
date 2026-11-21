@@ -1,0 +1,141 @@
+142 D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144
+
+Mmm 2009
+5000 + 2010
+* *a*
+4000 4 a
+= b
+‘ss
+=
+Sp 3000 5
+%
+3
+3 ns
+> * fC ob
+= 2000 5 b
+S
+_
+eo d
+1000 5
+0
+RCT-WCT RNT-WCT RCT-WNT RNT-WNT
+
+Fig. 8. Grain weight under selected tillage practices during 2009 and 2010. Values
+are mean + 1SE (n=3). Different letters for same year indicate that means are differ-
+ent at p<0.05 according to Duncan’s test. Significance levels for difference between
+means of grain weight for the two years: *p < 0.05, **p< 0.01, ***p<0.001, ns: not sig-
+nificant. RCT-WCT: tillage before transplanting rice and sowing wheat; RNT-WCT:
+no tillage before sowing of rice and tillage before sowing of wheat; RCT-WNT: tillage
+before transplanting rice but no tillage before sowing of wheat; RNT-WNT: no tillage
+before sowing of both rice and wheat.
+
+continuous tillage improves aeration. Therefore increase in mois-
+ture content gradually reduces the ORP. This shows that although
+CH, emissions are function of ORP considerably that is strong even
+to become visible statistically, however, ORP may not be regarded
+as the sole determinant of CH, emissions from soils.
+
+In case of CO2, exactly opposite relationships were observed,
+i.e. a positive correlation with ORP, but a negative correlation with
+moisture content. Establishment of oxidizing conditions onset the
+aerobic microbial activities, even at the depths previously wit-
+nessing strong methanogenesis. Although CO2 is produced during
+methanogenesis also, but contribution of aerobic respiration which
+increases with increment in ORP becomes dominating which is
+being reflected in the correlation and regression analysis.
+
+As expected from the dependencies of COz2 and CH, on ORP and
+moisture contents, a negative codependency between CH, and CO2
+was obtained in all the practices reflecting a tradeoff between the
+two, thereby indicating that conditions favouring one lead to reduc-
+tion in the other. It also suggests that in studied agricultural field,
+efforts should focus on reduction in CHy, as its GWP is higher than
+CO>.
+
+There was no direct dependency of N2O fluxes on any of the
+parameters monitored, neither its relationship with other GHG
+fluxes could be obtained. This did not comply with the conver-
+gence obtained between CO and N20 emissions in rice paddies
+by Xu et al. (2008). N20 emissions are strongly guided by the
+nitrogen availabilities and its forms. In the present case, system is
+highly complex due to urea amendments in conjunction with dif-
+ferent quantities and times of crop residue incorporation. Hence,
+no observable relationship between the assessed parameters could
+come out that may describe N20 fluxes in a decisive manner.
+
+3.5. Yield
+
+Continuous no tilling led to reduction in yield during both
+the years. However, the response of yield was different dur-
+ing the two years trial (Fig. 8). In 2009, grain weight followed
+the trend RCT-WCT > RNT-WCT > RNT-WNT > RCT-WNT. But during
+2010 the order was: RCT-WCT ~ RCT-WNT > RNT-WCT ~ RNT-
+WNT. It reflects that in complete absence of any disturbance
+(RNT-WNT), changes in physical properties of soil did not allow
+
+plants to get benefited as reflected by indicators of plant growth
+(root weight, grain weight and tiller numbers). But slight distur-
+bance and its order played role. Added residues of the previous
+wheat crop under no tillage but less compaction under RNT-
+WCT made nutritional provisions easily available to plants through
+improved aeration, tilth, root penetration, etc. Hence yield was
+comparable or slightly less in RNT-WCT than that of conventional
+practice during the two years of the experiment. Yield reduc-
+tions were high in RCT-WNT and RNT-WNT leading to make these
+treatments less productive during both the years. This could be
+attributed to the higher weed infestation in spite of the herbicide
+application of pendimethalin (1 kg ha~!) followed by one manual
+weeding at 30DAS. The results clearly reflect variations in soil
+qualities subject to degree and time of tillage for such behaviour
+of different tillage practices. Since most of the studies reported
+so far evaluate only tillage or no tillage, comparison of our alter-
+nately tilled fields could not be made with any other similar
+system. Lower yield under no tillage has also been reported pre-
+viously in rice-wheat system (Hobbs et al., 2008). However, Dong
+et al. (2010) found similar or improved grain production under no
+tillage in rice-rice cultivation practice. Regarding stability of yields,
+RNT-WNT was resistant to annual variations as reflected by no sig-
+nificant differences in the yield observed between 2009 and 2010.
+This observation complied well with Qin et al. (2010). Effect of
+tillage practices on yield discards our hypothesis that yield will
+remain unaffected under any tillage practice if all recommended
+fertilizer doses, and water requirements are provided with due crop
+care. Yield in all the tillage practices were higher in 2010 than in
+2009 except for RNT-WNT in which no significant difference in yield
+was observed. Favourable meteorological conditions during 2010
+appear to be the reason for this. But for RNT-WNT, environmen-
+tal conditions did no significant benefit to the crop yield. Effect
+of changes in soil conditions apparently dominated over the ben-
+efit of improved ambient conditions during 2010, reflecting that
+long term behaviour of no tillage system needs to be studied more
+extensively.
+
+3.6. Identification of probable optimum performer
+
+When all the GHG emissions were converted into COz-e over 100
+year time horizon, it was evident that emissions of N20 were the
+lowest while that of CH, was the highest. The results clearly indi-
+cated that fluxes of CH, and N20 were reduced but CO increased
+maximally in RNT-WNT. In lieu of high global warming poten-
+tials of CH4 and N20, and keeping in mind the observed tradeoff
+between CH, and CO;, reduction of CH, and N2O should be under
+focus. The most environment friendly practice was therefore RNT-
+WNT and the worst was RCT-WCT. But adoption of RNT-WNT is not
+recommendable for its significant negative impact on yield. How-
+ever, with more effective and efficient weed management using
+pre and post emergence herbicide application the yield reduc-
+tions can be minimized. In light of the observations of the present
+study, RNT-WCT can be regarded as the best practice among the
+four as yield gaps between RNT-WCT and RCT-WCT were the low-
+est (in 2009) or not significant (in 2010) and can be narrowed
+further if causes of yield reductions under this practice could be
+identified.
+
+Nevertheless, more studies are required with more tillage
+permutations and other amendments to verify before any recom-
+mendation can be made at large.
+
+4. Conclusion
+
+Reduction in tillage frequency led to suppression of CH4 and N20
+but increased CO fluxes.

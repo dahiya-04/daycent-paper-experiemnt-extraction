@@ -1,0 +1,150 @@
+D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144 139
+
+may become important. Addition of inorganic N through fertiliz-
+ers provides extra substrate to microbes and hence production of
+N2O increases which is observed in the form of increase in NO
+fluxes after top dressings. In 2009, first peak appeared following
+the top dressing in RCT-WCT at 33 DAT and RNT-WNT at 35 DAT
+(18.72+1.28 and 6.73+0.564gm-~*h7!, respectively). In RNT-
+WCT and RCT-WNT, peak was delayed to 45 DAT (14.76 + 1.28 and
+15.65+ 1.65 ugm~7h~!, respectively). Observed temporal trends
+agree with Pathak et al. (2002), Bhatia et al. (2005) and Johnson-
+Beebout et al. (2009). Interestingly, peaks became significantly
+visible only near top dressing although highest amount of N was
+added as basal application at the time of transplantation/sowing.
+Ussiri et al. (2009) discussed that N2O emissions may require an ini-
+tiation and they observed a delay of 26 days from N fertilization and
+appearance of N30 fluxes. As the mechanism of N20 generation and
+consumption in soils is highly complex, exact reason behind this
+observation could not be speculated. A probable reason may be that
+flooding was done immediately after basal dressing. It is possible
+that by the time, microbes initiated N2O generation through nitrifi-
+cation, soil became reducing. Anaerobic conditions thus generated
+might have suppressed the nitrification and hence associated NjO
+generation. As we observed high N20 fluxes under moderate to dry
+soil moisture, we expect that contribution of nitrification linked
+N2O generation could be high in the experimental soil. N20 fluxes
+were also found to be high in between the two top dressings but in
+2010, there was gradual decline between the first peak and onset
+of second peak (Fig. 4). Peak reached after second top dressing was
+higher than the first. The highest second peak was observed in RCT-
+WCT (36.99 42.91 wgm-*h~!) during 2010. The probable cause
+behind this observation can be persistent reduced conditions due
+to flooding at first top dressing, coupled with more N demand of
+plants during this stage, which result in efficient N uptake. Loss of
+N due to leaching is also likely to be a probable cause (Clough et al.,
+2005). N20 fluxes in all the tillage treatments followed more or less
+similar trends and subsided nearly to zero by 100 DAT in RNT-WNT
+and 90 DAT in RCT-WNT. In 2010, during later stages of the crop,
+fluxes increased gradually contrary to the observed subsidence in
+2009 season. Three-way ANOVA results (Table 2) indicate depen-
+dence cumulative emissions of NzO over stages of plant on year of
+measurement and stage of plant. Cumulative emissions were dif-
+ferent in 2009 and 2010 during maturity phase in all the tillage
+practices but during reproductive phase emission rates were differ-
+ent for RCT-WNT and RNT-WCT only (Fig. 5). As N20 emissions have
+been observed increase under moderate soil moisture conditions,
+wetting drying cycles as created by rainfall during 2010, report-
+edly may lead to small N20 pulses (Johnson-Beebout et al., 2009).
+This could have led to the observed differences during maturity and
+reproductive stages in the two years.
+
+3.2.3. Carbon dioxide
+
+Although there was no particular temporal trend, CO2 fluxes
+in general were higher in later stages of crop development (after
+70 DAT). On most of the monitoring days, CO2 fluxes were posi-
+tive (Fig. 4) and high with maximum flux recorded in RNT-WNT
+during 2010 (502 +31.2 mgm~7h~') and RCT-WNT during 2009
+(400 + 20.16 mg m~? h~). Initially for 3-5 days after transplanta-
+tion, CO2 fluxes remained high but afterwards decreased suddenly
+to near zero and sometimes negative. During 2009, fluxes were pos-
+itive in RCT-WNT and RNT-WNT but negative fluxes continued in
+RCT-WCT and RNT-WCT up to 70-75 DAT. Observations are similar
+to those of Mitaya et al. (2000) and Li et al. (2010). During 2010,
+fluxes remained positive throughout except on two monitoring
+dates. Negative fluxes indicate that soil absorbed atmospheric CO3.
+This could be attributable to anaerobicity in soil due to floodwater
+which led to sharp decline in aerobic respiration (Li et al., 2010).
+During anaerobic conditions, CO2 may act as an oxidant and hence
+
+mm 2009
+
+Bead
+
+CI 2010
+
+500
+400 ss
+
+300
+
+cs
+200
+AK
+100 ee RE
+IL ib..
+0 i wa
+
+300+
+
+CH, (g CO,-e.h. m)
+
+2005
+
+1004 ae
+
+2.
+NO (mg CO)-e. h. m™)
+*
+*
+3
+3
+
+nN
+—)
+
+=
+a
+
+=
+o
+
+CO (g COz-e. h. m2)
+
+a
+
+Roe & Roe & & Boe & &
+1S) o Zz Zz o 0 2 z i] 1S) Zz Zz
+22 2 6 25 2 E 2 2 2
+Bee eR e Re eR & BS ee &
+; 13) Q 4 YO
+4 Z2 8 gz 2 22 & Zz 22 8
+| Vegetative | Reproductive | Maturity |
+Transplantation Panical initiation Flowering Harvest
+(0 DAT) (50-60 DAT) (80-90 DAT) (110-125 DAT)
+
+Fig. 5. Cumulative emission (mean + 1SE) of CH4, N20 and CO, for different stages
+of plant development under different tillage practices. The emissions have been
+converted to CO2-equivalents taking 100 years global warming potential of CH, = 25;
+N20 = 298 and CO? = 1 (according to IPCC, 2007). Levels of significance, in accordance
+with t-test between the two years of measurements: *0.05, **0.01, ***0.001, ns: not
+significant. RCT-WCT: tillage before transplanting rice and sowing of wheat; RNT-
+WCT: no tillage before sowing of rice and tillage before sowing of wheat; RCT-WNT:
+tillage before transplanting rice but no tillage before sowing of wheat; RNT-WNT:
+no tillage before sowing of both rice and wheat.
+
+its concentration in soil layers may decline thus creating a pressure
+that leads diffusion of CO2 from the atmosphere. After tiller devel-
+opment, anaerobic conditions cease due to removal of floodwater. It
+is supported by the less negative or positive values of ORP obtained
+in later stages than during the flooded conditions. Diffusive barrier
+for CO2 emissions also terminates (Mitaya et al., 2000; Lietal.,2010)
+Hence aerobic microbial respiration becomes important during this
+phase thereby making fluxes of CO2 much higher. In RCT-WCT and
+RNT-WCT, fluxes of CO2 were higher in 2010 than in 2009 (Fig. 4). In
+RNT-WNT however, in general, fluxes were lower during 2010 but
+there was no such clear difference observed in RCT-WNT. CO; fluxes
+were high during 2010 (Fig. 5) except for maturation phase. Such
+differences may arise due to different environmental conditions
+during the two years of the observation.

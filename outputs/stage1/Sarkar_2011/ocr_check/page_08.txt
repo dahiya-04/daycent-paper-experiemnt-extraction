@@ -1,0 +1,81 @@
+Soil under Contrasting Tillage-Crop Residue Management 269
+
+gam Average temp
+rOwO
+
+100
+90
+80
+70
+60
+50
+40
+30
+
+2.50 20
+[|] ‘0
+2.00 . . > > > 0
+
+June, October, March, May, July, October, December, February, April, May, July, October,
+2001 2001 2002 2002 2002 2002 2002 2003 2003 2003 2003 2003
+
+Time
+
+4.50
+
+4.00
+
+3.50
+
+3.00
+
+Soil Organic Carbon (g/kg)
+Average atmospheric
+temperature(°C)
+
+FIGURE 2 Temporal changes of soil organic carbon under transplanted rice-wheat-fallow
+system during 2001-2003.
+
+4.50 (Gam average temp 400
+4.00
+
+3.50
+
+3.00
+30
+
+2.50 20
+LI .
+2.00 + 7 . + . 0
+
+June, October, March, May, July, October, December, February, April, May, July, October,
+2001 2001 2002 2002 2002 2002 2002 2003 2003 2003 2003 2003
+
+Soil Organic Carbon (g/kg)
+a
+o
+Average atmospheric
+temperature(°C)
+
+Time
+
+FIGURE 3 Temporal changes of soil organic carbon under direct-seeded rice-wheat-fallow
+system during 2001-2003.
+
+soil organic carbon (SOC) was studied separately under TR-W-F (Figure 2)
+and DR-W-F (Figure 3) rotations. The increases and decreases in SOC con-
+tent in summer and winter months, respectively, were due to changes in
+rate of decomposition of organic matter as influenced by daily maximum
+and minimum temperatures (Brandon et al. 1995). The higher content of
+SOC in April-May than other months was due to an increase in decomposi-
+tion rate with an increase in temperature. The variation in SOC content was
+small at rywo, where no residue was added. Average SOC at six levels of N
+rates varied noticeably with changes in seasons under the rest of the three
+residue treatments. With the application of rice residues, as the temperature
+increased during February—May SOC content increased notably and attained
+the maxima in April. Beyond May, SOC decreased with decreasing atmo-
+spheric temperature during the monsoon months from July to October 2003.
+Similar trends of seasonal changes in SOC were also observed under other
+crop-residue treatments. Among the crop-residue treatments, r;w, resulted
+in maximum SOC, closely followed by r,w, and wf, respectively, in wheat
+and rice growing periods; this was due to the maximum amount of residue

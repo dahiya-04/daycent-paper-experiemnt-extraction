@@ -1,0 +1,132 @@
+140 D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144
+
+3.3. Effects of tillage permutations on fluxes of CH4, N20 and CO
+
+Results of three-way ANOVA (Table 2) indicate that tillage prac-
+tices affected cumulative emission rates of all the GHGs in different
+stages of rice plants. Most of the times, fluxes of CH, and N30
+remained low in alternately tilled and no tilled fields although tem-
+poral trends were similar in all the treatments. This was against
+our hypothesis 1. Since fluxes are the net outcome of generation
+and consumption of the gas, it is the relative strengths of the two
+processes which lead to the observed trends. Reduction in tillage
+(RNT-WNT followed by RCT-WNT and RNT-WCT) protects organic
+matter from microbial attack in soil aggregates which could have
+reduced the productions of CH, and N20 (Hanaki et al., 2002; Ali
+et al., 2009; Ahmad et al., 2009). Another important factor is gas dif-
+fusivity which depends inversely on bulk density. Therefore gases
+which are generated at greater soil depths take more time to travel
+towards the atmosphere in RNT-WNT, RNT-WCT and RCT-WNT
+than in RCT-WCT. This provides more time to consumers to act on
+the gaseous molecules thereby improving efficiency of consump-
+tion (Ahmadetal., 2009; Alietal., 2009). In all the tillage treatments,
+methanogenesis could be comparable as reflected by similar ORP
+values. Consumption, however, in alternately and never tilled soils
+(RNT-WCT, RCT-WNT and RNT-WNT) might take place at such a
+rate that it compensated generation relatively to larger extent thus
+ultimately leading to fluxes lower than RCT-WCT. Previous studies
+have shown strong positive correlations between methanogenesis
+and methanotropy for the reason that CH, availability may fos-
+ter methanotropic population/activity provided no other resource
+becomes limiting (Mer and Roger, 2001). Generally, N becomes
+limiting to methanotropy (Zhang et al., 2012). With reduction in
+tillage frequency, N content in soils increased significantly (Table 1).
+Hence, methanotropy could be better supported in RNT-WNT, RNT-
+WCT and RCT-WNT as compared to RCT-WCT.
+
+The chances of CH, oxidation decline when major fraction of
+CH, bypasses through rice plants. Total number of tillers formed per
+unit area was significantly greater in RCT-WCT and RNT-WCT than
+in RCT-WNT and RNT-WNT (Fig. 6). Hence, apparently in RCT-WNT
+and RNT-WNT, the probability of CH, emission routed through
+plant decreased as compared to RCT-WCT and RCT-WNT. Positive
+correlation between tiller numbers and CH, fluxes have widely
+been observed and discussed (Gogoi et al., 2005). Reduced root
+weight in RNT-WNT and RCT-WNT (Fig. 6) also pointed towards
+decline in plant mediated gaseous transport owing to reduced sur-
+face area and depth of root penetration into the soil. Reduced tillers
+as well as root weight indicate poor plant growths in RCT-WNT and
+RNT-WNT.
+
+Like CH4, N20 consumption during its movement through soil is
+expected to become efficient under compact soils (RNT-WNT, RNT-
+WCT and RCT-WNT), due to delayed movement towards the soil-air
+interphase. The consumptive processes of N20 are diverse but den-
+itrification is the major one. Denitrification near surface in soils
+with better aggregation (under alternately and never tilled soils)
+may improve due to creation of anaerobic microsites (Baggs et al.,
+2003). Besides this, nitrifying bacteria (in aerobic soils) may also
+consume a part of N20 produced through a process called nitrifier
+denitrification (Beaumont et al., 2004), while several bacteria per-
+form aerobic denitrification under aerobic conditions also. Hence,
+it is very difficult to speculate in the present study that which N20
+consuming group is playing the major role, but reduced velocity of
+N2O escape is expected to improve efficiency of consumption. In
+addition chances of dissolution of N2O in soil solution and leaching
+may also be appreciable in non puddled RNT-WCT and RNT-WNT
+(Clough et al., 2005; Chapuis-Lardy et al., 2007). This may reduce
+emission of N2O into the atmosphere. Exact partitioning of sources
+and sinks of N2O that contributed to the observed fluxes was not
+made in the present study, but overall effect of reduced tillage was
+
+12 -
+Root weight
+105 a
+I a
+2
+8 .
+=
+on 6
+b
+b _
+4 at
+24
+Number of tillers
+200 = | ‘
+b a te
+« 1504 [|
+=
+100 5
+507
+
+T T T
+
+RCT-WCT RNT-WCT RCT-WNT RNT-WNT
+
+Fig.6. Effect of tillage permutations on root weight (n= 3) and maximum tiller num-
+bers (n=3). Values are mean + 1SE. Bars with different letters indicate that means
+are different at p<0.05 according to Duncan’s test. RCT-WCT: tillage before trans-
+planting rice and sowing wheat; RNT-WCT: no tillage before sowing of rice and
+tillage before sowing of wheat; RCT-WNT: tillage before transplanting rice but no
+tillage before sowing of wheat; RNT-WNT: no tillage before sowing of both rice and
+wheat.
+
+suppression of fluxes. This follows previous studies by Robertson
+et al. (2000) and Ussiri et al. (2009). Effects of tiller and root num-
+bers on N2O fluxes in different tillage treatments are expected in the
+same way as was discussed for CH4. There are evidences that N2O
+may also travel through rice tillers, although this route accounts
+only for 17.4% of the total emissions (Yan et al., 2000). This may
+also be a probable reason why N20 fluxes were higher in RCT-WCT
+(with maximum tillers) and the least in RNT-WNT (with minimum
+tiller numbers).
+
+Contrary to the trends observed for N20 and CHy, CO2 fluxes
+were highest in RCT-WNT followed by RNT-WNT, RNT-WCT and
+RCT-WCT in 2009. Chief source of CO2 is aerobic soil respiration. As
+discussed previously that near surface, soil and water remains aer-
+obic and microbial processes in these zones indispensably release
+CO2. If methanotrophy rate was higher in aerobic zones of RNT-
+WNT, RNT-WCT and RCT-WNT than in RCT-WCT as expected, CH4
+oxidation adds to general soil respiration, possibly increasing the
+magnitude of CO2 fluxes. However, tillage leads to better mixing of
+residues and promotes soil respiration (Lal, 2004). The net outcome
+of the above two effects of tillage led to the observed fluxes. Li et al.
+(2010) reported that no tillage increases the emissions of CO3 in rice
+fields, while many studies reported that no tillage reduced or had no
+effect on CO2 fluxes (Ussiri and Lal, 2009). The studies available in
+scientific literature only compared tillage and no tillage practices in
+various systems. However, our study takes into account all possible
+tillage arrangements in rice-wheat cultivation system. CO2 fluxes
+observed in the present study partially satisfy our hypothesis 2 that
+alternately tilled soils will emit highest CO2. Although RCT-WNT

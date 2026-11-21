@@ -1,0 +1,125 @@
+Increasing Soil Organic Carbon Through Crop Diversification in Cereal—Cereal Rotations of... 431
+
+Table 1 Agronomic practices and cultivars used for component crops in lowland and upland experiments
+
+Production Crop Cultivar Seed rate Spacing Crop season
+system (kg ha7') (seed to seed)*
+Lowland Rice Pant 40 20 x 20 June (2)-
+Dhan12 October (4)
+Wheat PBW 343 100 22.5
+cont. March (3)
+Chickpea KWR 108 70 30 x 10 April (1)-June
+()
+Upland Maize Azad 18-20 50 x 20 June (3)-
+Uttam October (3)
+Wheat PBW 343 100 22.5
+
+Chickpea DCP-92-3 70
+qd)
+
+November (3)— 120-60-40
+
+November (3)— 120-60-40
+cont. March (3)
+
+30 x 10 April (1)-June
+
+Nutrient rate (N— Time of fertilizer application No of
+P-K, kg ha~') irrigation?
+120-6040 1/3 N+ P+ K at basal; 1/3 Nat 8-10
+
+25 DAT; 1/3 N at 45 DAT
+
+1/3 N+ P + K at basal; 1/3 Nat 5
+21 DAS; 1/3 N at 45 DAS
+
+N+P +4 K at basal 2
+
+20-60-40
+
+120-6040 1/3 N+ P+ K at basal; 1/3 Nat 2
+25 DAS; 1/3 N at 45 DAS
+
+1/3 N+ P+ K at basal; 1/3 N at 5
+21 DAS; 1/3 N at 45 DAS
+
+N+P +4 K at basal 2
+
+20-60-40
+
+DAT days after transplanting, DAS days after sowing
+
+“Figures in parenthesis indicate week of the month
+
+’Need-based irrigation was given and the numbers of irrigations listed are averages of 4 years
+
+borax at 10 kg ha~'. Well decomposed FYM was spread
+uniformly at the rate of 5 Mg ha! well in advanced before
+sowing of rainy season crops which provided approxi-
+mately 28, 9, 26, and 448 kg ha! of N, P, K and C,
+respectively. Under organic nutrient management, full crop
+residue of all component crops was chopped properly using
+a rotatory machine, then uniformly spread and mixed with
+the soil before sowing of the succeeding crop. The annual
+nutrient input (means of last 2 years) under different crop
+rotation and nutrient management practices are presented
+in Table 2. Biofertilizers (Azotobacter for cereals, Rhizo-
+bium for pulses and phosphate solubilising bacteria Bacil-
+lus polymyxa for both cereals and pulses) were applied at
+20 g kg"! seed (> 10’ bacteria g~' inert material)
+through seed treatment (PUSA, New Delhi).
+
+Soil Sampling and Analysis
+
+Soil samples were collected from four soil depths (O-0.2,
+0.2-0.4, 0.4-0.6, 0.6—-0.8 m). Soil samples were taken with
+post-hole auger from four random spots in each plot (three
+replications) after harvesting the last crop in the crop cycle.
+The sampled soils were air dried, ground followed by
+passing through a 2 mm sieve and stored at room tem-
+perature for analyzing oxidisable organic C by wet oxida-
+tion method [12]. Total organic C was calculated using the
+formula: oxidizable organic carbon x 1.33 [13]. In surface
+and sub-surface depths, organic C-fractions were analyzed
+through modified Walkley and Black method as described
+by Chan et al. [14]. The concentrated H2SO, of 5, 10 and
+20 ml resulted in three acid aqueous solution ratios of
+0.5:1, 1:1, and 2:1 corresponding to 12 N, 18 N and 24 N
+
+of H,SO,, respectively [15]. The organic C determined
+using 5, 10 and 20 ml of concentrated H2SO,4, when
+compared with TOC allowed separation of TOC into fol-
+lowing four different fractions of decreasing oxidisability:
+fraction I (Cfrac,), organic C oxidisable under 12 N
+H,SO,; fraction Il (Cfrac2), the difference in organic C
+extracted between 18 N and 12 N H,SO,; fraction II
+(Cfrac3), the difference in organic C extracted between
+18 N and 24 N H,SO, (24 N H2SOy, is equivalent to the
+standard Walkley and Black method); and fraction IV
+(Cfrac4), residual organic C after reaction with 24 N
+H,SO, when compared with TOC [16].
+
+Carbon Pools
+
+After determining, different fractions of TOC under a
+gradient of oxidizing condition the active and passive C-
+pools were determined as follows:
+
+Active C-pool = Cfrac; + Cfracz
+
+Passive C-pool = Cfrac3 + Cfrac4.
+
+Carbon Management Index (CMI)
+
+Carbon management index was calculated using the fol-
+lowing formulas.
+
+First, lability index (LI) was determined using three of
+the C-fractions (Cfrac,, Cfracy and Cfrac3) as mentioned
+earlier. Subsequently, a weightage of 3, 2 and 1 was given
+to Cfrac,, Cfracz, and Cfrac3, respectively and their actual
+values were transformed to a proportional amount of TOC
+and weighed with the weighing factor to get a lability index
+for the organic C content [17].
+
+va Springer

@@ -1,0 +1,57 @@
+280 R. Sarkar and S. Kar
+
+channels, and resulted in slow transmission of water to soil. Comparison
+between the two puddling treatments showed that the intensive puddling
+by rotavator resulted in lesser infiltration than by power tiller. Intensive
+puddling reduced the SHC of the surface layer and even the subsurface
+layers. It also formed a plow pan in the subsurface layer and resulted in low
+infiltration. Sur, Prihar, and Jalota (1981) also noticed a similar low rate of
+infiltrations under intensive puddling. Application of crop residues, however,
+increased the infiltration rate even in the puddled field. When the residues of
+both rice and wheat crops were applied, the initial infiltration rate increased
+to its maximum under both T, and T,. Crop-residue treatments improve soil
+properties by increasing the porosity of the soil and result in an increase
+in infiltration (Green, Ahuja, & Benjamin 2003). As the soil under TR crop
+was dispersed and nearly saturated, the rate of decrease in infiltration was
+found to be gradual from 0 to 150 min. After 150 min, the infiltration rates
+slowed down gradually and attained a pseudo-steady state after 210 min,
+irrespective of the tillage and crop-residue treatments. The infiltration rate
+after 300 min ranged from 2.0 mm/hr under Tirpwo to 4.0 mm/hr under
+TotW. It is thus apparent that the basic infiltration rate was slightly higher
+under less intensive than intensive puddling.
+
+The initial infiltration rate under DR was about three times higher than
+that measured under TR (Figure 9). It ranged from 42 mm/hr under T3r9wo to
+58 mm/hr under Tyr; w,. The initial infiltration rate was slightly higher under
+less intensive 7.5 cm tillage (T,) than intensive 15 cm tillage (T3). As observed
+under TR, the initial rate under dryland tillage slightly increased due to
+application of crop residues. The initial infiltration rates were 48 mm/hr
+under T; and 58 mm/hr under T,; when residues of both rice and wheat
+
+6.0
+
+BB sc eee eS —*—T3r0w0_
+
+50 —#®— T3r0w1
+
+. —*— T3r1w0
+
+4.5 ——T3r1w1
+
+4.0 —*— T4r0w0
+—~¢=
+
+35 T4r0w1
+—— T4r1w0
+
+—— T4r1w1
+
+Infiltration rate (cm/hr)
+wo
+oO
+
+30min 60min 120min 150min 195min 210min 240min 300min
+Time
+
+FIGURE 9 Influence of tillage and crop residue application on infiltration characteristics
+under direct-seeded rice.

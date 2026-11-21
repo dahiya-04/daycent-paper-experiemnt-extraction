@@ -1,0 +1,167 @@
+Materials and methods
+[p2] 2.1. Experimental site and tillage practices
+[p2] The field experiment was conducted at the agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu Univer- sity, Varanasi, India where a long term experiment on different crop establishment methods in rice (cv PHB-71)–wheat (cv HD 2824) sequence was conducted during 2003–2010 under all India Coor- dinated Research Project on Integrated Farming Systems. The site is located in eastern Indo-Gangetic plains at 25.14°N latitude, 82.03°E longitude and 76.19 m above mean sea level. The experimental soil (inceptisol) is sandy loam in texture. Soil properties on the date of sowing/transplantation of rice in 2003 (at the start of tillage experiment)
+[p2] and in 2009 are presented in Table 1. The experiment employed four permutations of tillage and no tillage practices in rice–wheat system. Under no tillage, harvesting of previous crop was done manually leaving 20 cm straw standing. Minimal soil dis- turbance took place under this practice. Leftover plant residues decompose slowly with time. Seeds of the next crop were sown between the standing residues with a zero till drill. In conventional tillage practice, crops were harvested manually that removed crop just above the soil leaving less than 5 cm shoot along with roots, which get mixed with the soil while ploughing the field for the next crop. The treatments involved combination of two tillage practices in
+[p2] rice as well as wheat. In rice, two tillage practices were trans- planting of rice on puddle bed with repeated tillage accompanied with final tilling and planking in standing water (RCT) and direct sowing of rice using zero till drill (RNT). Whereas in wheat, the two tillage practices comprised of conventional tillage with one ploughing by disk plough and two harrowings at approximately 30 cm depth by cultivator followed by planking (WCT) and zero till drill sowing of wheat (WNT). The four treatments in the study were: (i) conventional tilling and puddling before transplanting of rice and conventional tilling before sowing of wheat (RCT-WCT), (ii) conventional tilling and puddling before rice transplanting and no tilling before sowing of wheat (RCT-WNT), (iii) no tilling before rice sowing and conventional tilling before wheat sowing (RNT- WCT), and (iv) no tilling before sowing of both rice and wheat (RNT-WNT). Net size of each plot was 5.25 m × 5.25 m and the plots were prepared in triplicates for each tillage permutation. In RNT- WCT and RNT-WNT, during rice period, residue of previous wheat crop was present, while in RCT-WNT and RCT-WCT, no consider- able residue from previous wheat crop was there. Meteorological
+[p3] D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133– 144 135
+[p3] Table 1 Average
+[p3] soil properties at time of sowing/transplanting rice in 2003 and in 2009 (mean ± 1SE). Different letters in a row indicate that means of 2009 are different from each other
+[p3] in accordance with Duncan’s test (p < 0.5).
+[p3] 2003 2009
+[p3] RCT-WCT RCT-WCT RNT-WCT RCT-WNT RNT-WNT
+[p3] pH 7.30 ± 0.01 7.39 ± 0.08ns 7.42 ± 0.07ns 7.26 ± 0.10ns 7.37 ± 0.04ns
+[p3] Dry bulk density (g/cm3) 1.43 ± 0.01 1.51 ± 0.01c 1.63 ± 0.01b 1.53 ± 0.10c 2.53 ± 0.01a
+[p3] Soil organic C (%) 0.33 ± 0.02 0.33 ± 0.02c 0.62 ± 0.02b 0.79 ± 0.06b 0.99 ± 0.09a
+[p3] Total N (mg/g) 0.32 ± 0.02 0.38 ± 0.03b 0.62 ± 0.02a 0.53 ± 0.04a 0.58 ± 0.03a
+[p3] Available P (mg/g) 1.23 ± 0.07 1.05 ± 0.04c 1.43 ± 0.08b 1.46 ± 0.06b 1.87 ± 0.05a
+[p3] Texture Sandy loam Sandy loam Sandy loam Sandy loam Sandy loam Sand (%) 58.49 62.62 64.61 67.19 60.47 Silt
+[p3] (%) 15.21 13.78 12.29 11.81 17.23 Clay (%) 26.30 23.60 23.10 21.00 22.30
+[p3] RCT-WCT: tillage before transplanting rice and sowing of wheat; RNT-WCT: no tillage before sowing of rice and tillage before sowing of wheat; RCT-WNT: tillage before transplanting
+[p3] rice but no tillage before sowing of wheat; RNT-WNT: no tillage before sowing of both rice and wheat.
+[p3] conditions during the period of tillage experiment (2003–2010) and daily meteorological conditions during the emission measurement period (2009 and 2010) are given in Figs. 1 and 2, respectively.
+[p3] 2.2. Raising of crops
+[p3] Experiments were conducted during 2009 and 2010 in the same well drained field as used in previous years on the same rice culti- var (PHB-71). During both the years of experiment, sowing of rice in RNT-WCT and RNT-WNT was done on 20th June. On the same day, seeds were soaked for the nursery raising of rice to be transplanted in RCT-WNT and RCT-WCT. Seedlings were transplanted in puddled bed on 16th and 19th July in 2009 and 2010, respectively. Recom- mended doses of nutrients (150 kg N + 75 kg P2O5 + 75 kg K2O) were applied through 15:15:15 NPK complex fertilizer and urea. Full doses
+[p3] of P and K and 50% of N was applied through 15:15:15 NPK complex at the time of sowing or transplanting. Rest of 75 kg N was applied as urea in two equal splits at critical tillering and panical ini- tiation stages. Herbicides were used as and when required. In no till drill sown rice (RNT-WCT and RNT-WNT), pre emergence spray of pendimethalin 30 EC was applied at the rate of 1 kg ha−1. However, in hand transplanted rice (RCT-WCT and RCT-WNT), pre emergence application of Butachlor 50 EC was done at 1.25 kg ha−1. Herbicide application
+[p3] was accompanied with one hand weeding at 25 days after sowing/transplanting. This practice was followed every year since start of tillage experiment. After attaining the maturity, the crops were harvested on 30th October in 2009 and 3rd November in 2010.
+[p3] 2.3.
+[p3] Measurements of fluxes of CH4, N2O and CO2
+[p3] Fluxes of CO2, CH4 and N2O from soil were measured during rice crop
+[p3] period
+[p3] during
+[p3] 2009
+[p3] and
+[p3] 2010
+[p3] following
+[p3] manual
+[p3] closed chamber technique (Hutchinson and Livingston, 1993). The Perspex chambers with volume of 0.05019 m3 (30 cm × 23.9 cm × 70 cm) had separable bases made of Perspex. The bases of chamber sys- tems were installed 24 h before the deployment of chambers in order to bring the system into equilibrium and eliminate the effect of soil disturbance on fluxes. Chambers were fixed firmly on water filled rim of respective bases. A battery operated fan and a pump were used to circulate air at 1.5 l min−1 to ensure uniform mixing of air inside the chamber. Water levels inside the chambers were mea- sured during flooded conditions. Temperature inside the chamber was recorded by the thermometer attached. Effective volume inside the chamber was corrected for plants present inside by measuring average
+[p3] above
+[p3] ground
+[p3] biomass
+[p3] volume
+[p3] of
+[p3] three
+[p3] plants
+[p3] harvested weekly. The chamber had one sampling port on the top fitted with non reactive rubber septum. Samples were drawn for CH4 and N2O with 20 ml air tight syringes at 0, 20, 40, 60, 80, and 120 min and transferred immediately into pre-evacuated vacuum tubes of 4 ml capacity (Vacutainer, Becton, Dickinson & Company, NJ, USA) and analysed on gas chromatograph (CP 3800, Varian, CA, USA) the same day. Concentration of CH4 in the gas samples was esti- mated with flame ionization detector (FID) while electron capture detector (ECD) was used for estimating N2O. Gases were separated on same stainless steel column packed with PORAPAK-Q (50–80 mesh). N2 at 30 ml min−1 was used as the carrier gas. For FID, flow
+[p3] 0
+[p3] 100
+[p3] 200
+[p3] 300
+[p3] 400
+[p3] 500
+[p3] 600
+[p3] 0
+[p3] 5
+[p3] 10
+[p3] 15
+[p3] 20
+[p3] 25
+[p3] 30
+[p3] 35
+[p3] 40
+[p3] 45
+[p3] 50
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] January
+[p3] March
+[p3] May
+[p3] July
+[p3] September
+[p3] November
+[p3] 2010 2009 2008 2007 2006 2005 2004 2003
+[p3] Total rainfall (mm)
+[p3] Temperature (0C)
+[p3] Rainfall Tmax Tmin Tmean
+[p3] Fig. 1. Meteorological conditions (monthly minimum, maximum and mean temperatures and monthly total rainfall) over the period of tillage experiment (2003–2010).
+[p4] 136 D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133– 144
+[p4] 0 10 20 30 40 50 60 70 80 90
+[p4] 0 5 10 15 20 25 30 35 40 45 50
+[p4] 15 12 9 6 3 31 28 25 22 19 16 13 10 7 4 1 28 25 22 19 16 13 10 7 4 1 29 26 23 20 17 14 11 8 5 2 30 27 24 21 18 15 12 9 6 3 30 27 24 21 18 15
+[p4] Oct-09 Sep-09 Jul-09 Jun-09
+[p4] Rainfall Tmin. Tmax. Tmean
+[p4] 0 10 20 30 40 50 60 70 80 90
+[p4] 0 5 10 15 20 25 30 35 40 45 50
+[p4] 15 12 9 6 3 31 28 25 22 19 16 13 10 7 4 1 28 25 22 19 16 13 10 7 4 1 29 26 23 20 17 14 11 8 5 2 30 27 24 21 18 15 12 9 6 3 30 27 24 21 18 15
+[p4] Oct-10 Sep-10 Jul-10 Jun-10
+[p4] Rainfall (mm)
+[p4] Temperature (0C)
+[p4] Aug-10 Nov-10
+[p4] 2009
+[p4] 2010
+[p4] Fig. 2. Meteorological conditions (daily minimum, maximum and mean temperatures and rainfall) during the experiment in 2009 and 2010.
+[p4] rates of H2 and zero air were maintained at 30 and 300 ml min−1, respectively. Temperatures of ECD and FID were maintained at 280 and 250 °C, respectively. Concentrations of gases were calculated from the respective relative peak area from the standard gases of known concentra- tions (10
+[p4] ppmv
+[p4] CH4 in N2 and 5.17 ppmv N2O in N2) obtained from National Physical Laboratory (NPL), New Delhi, India. Fluxes were calculated from linear time rate of change of gas concentrations inside the chambers. For CO2 measurements, similar Perspex cham- bers (30 cm × 20 cm × 70 cm) were installed in between the rows, and were connected to portable CO2 analyser (Li-820, LI-COR Bio- sciences, USA). Air inside the chamber was continuously circulated through the CO2 analyser which recorded CO2 concentration at 1 s average. The flux calculations were done taking the readings only up to the linear rate of change of concentration. Chambers were installed for 2 h during daytime (09:00–11:00 AM). Monitor- ing of GHG fluxes in all the treatments was started on the dates of transplantation in RCT-WCT and RCT-WNT. This was done to ensure easy comparison among the tillage treatments on same physiological ages of rice plants. It was tried to maintain five days interval between successive monitoring unless rainfall prevented flux measurement. In the present paper, days are counted from the transplantation in all the treatments for simplicity. Change in concentration of the gases was calculated from regression equation between time and concentration of gas inside the chamber, when correlation between the two was found to be significant. From this change, flux was calculated according to the formula
+[p4] given by Liu et al. (2007):
+[p4] F = 1m / 1t
+[p4] A ,
+[p4] where 1m/1t is the change in mass of the gas (ppmv) inside the chamber with respect to time (obtained from slope of the regres- sion equation);
+[p4] A
+[p4] is
+[p4] the
+[p4] area
+[p4] of
+[p4] the
+[p4] soil
+[p4] covered
+[p4] by
+[p4] the
+[p4] chamber (m2); F is the flux obtained in mass of the gas per unit area per unit time, which can be converted into convenient unit (in present study, mg m−2 h−1 for CH4 and CO2 and mg m−2 h−1 for N2O).
+[p4] 2.4. Tiller number root weight and grain weight
+[p4] 25 cm
+[p4] ×
+[p4] 25 cm areas were marked at six places randomly in each plot. Total number of tillers in each marked area was counted at 30
+[p4] days
+[p4] after transplantation (DAT) in RCT-WCT and RCT-WNT cor- responding to 56–59 days after sowing (DAS) in RNT-WCT and RNT-WNT. At this stage, rice plants achieve maximum number of tillers. After this, some of the tillers die. Harvests from each of the experimental plot were bundled separately and tagged. Bundles were dried in open under the sun for one week. After the grains dried, threshing was done and grain yield plot−1 was recorded and converted to yield ha−1. Root weight was determined on the date of harvest. For this, plants in 25 cm × 25 cm area were taken out at four places at random with soil cores. Roots were washed thoroughly, dried and weighed.
+[p4] 2.5.
+[p4] Soil sampling and analysis
+[p4] Oxido-reduction potential (ORP) of soil was measured in 2010 using Double junction ORP Tester 10 (Eutech Instruments, Mum- bai, India). The instrument was first calibrated in the laboratory with reference Zobbel buffer to 245 mV. Soil temperature was mea- sured
+[p4] with the help of a mercury thermometer (1/10 °C). Both measurements were taken at 10 cm depth. For bulk density soil was collected up to 15 cm depth using the soil corer (6.5 cm diameter). For other analyses, soils from 15 cm depth were collected from four different places randomly in each treatment with the help of auger. The collected soils were mixed together, a subsample was used for the analyses of moisture content and rest was air dried and ground to pass through 2 mm sieve. Soil organic carbon and total nitrogen were determined following Walkley and Black (1947) and micro Kjeldahl digestion method of Bremner and Mulvaney (1982) using Gerhardt Automatic N Analyzer, Frankfurt, Germany, respectively. Available
+[p4] phosphorous was extracted following Olsen et al. (1954) and estimated by the method of Dickman and Bray (1940).
+[p4] 2.6. Statistical analysis
+[p4] All the observations were recorded in triplicates. Their means and standard errors were calculated. Three-way ANOVA was car- ried out to check the interactions of tillage treatments, year of experiment and stage of rice plant. One-way ANOVA with Duncan’s Multiple Range Test and Student’s t-test at 5% level of significance were used to check differences between means. Linear regres- sion analysis was done to identify the relationships between the
+[p5] D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133– 144 137
+[p5] selected variables. All statistical analyses were performed on SPSS version
+[p5] 10.0, IBM, USA.
+[p5] 3 .
+[p5] 

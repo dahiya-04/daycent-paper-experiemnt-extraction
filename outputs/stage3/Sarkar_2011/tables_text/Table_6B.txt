@@ -1,0 +1,15 @@
+# Sarkar_2011 | Table 6B | page 22 | area [72, 253, 430, 421]
+TABLE 6B Yield (kg/ha) of Direct-Seeded Rice Under Different Tillage and Crop Residue
+Treatments in 2001, 2002, and 2003
+Grain Yield (kg/ha)
+Treatments 2001 2002 2003
+Tillage
+T3 2,022 2,128 2,273
+T4 1,688 1,455 1,443
+S.E.M. 36.241 (D.F. = 7) 5.942 (D.F. = 2) 1.673 (D.F. = 2)
+Crop Residue
+r0w0 — 1,496 1,676
+r0w1 — 1,839 1,882
+r1w0 — 1,770 1,799
+r1w1 — 2,061 2,075
+S.E.M. (D.F. = 12) 9.202 3.554

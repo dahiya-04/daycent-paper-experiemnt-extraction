@@ -1,0 +1,143 @@
+Table 1
+
+Average soil properties at time of sowing/transplanting rice in 2003 and in 2009 (mean 4
+
+D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144
+
+other in accordance with Duncan’s test (p <0.5).
+
+135
+
+t 1SE). Different letters in a row indicate that means of 2009 are different from each
+
+2003 2009
+RCT-WCT RCT-WCT RNT-WCT RCT-WNT RNT-WNT
+pH 7.30+0.01 7.39 + 0.08"5 7.A2 + 0.07"5 7.26 + 0.10"S 7.37 + 0.045
+Dry bulk density (g/cm?) 1.43+0.01 1.51+0.01° 1.63 +0.01> 1.53 + 0.10° 2.53 £0.01
+Soil organic C (%) 0.33 40.02 0.33 £0.02° 0.62 +0.02> 0.79 + 0.06> 0.99 + 0.092
+Total N (mg/g) 0.32 +0.02 0.38 + 0.03 0.62 + 0.024 0.53 + 0.04? 0.58 + 0.03
+Available P (ug/g) 1.23 40.07 1.05 + 0.04¢ 1.43 + 0.08> 1.46 + 0.06> 1.87 + 0.05?
+Texture Sandy loam Sandy loam Sandy loam Sandy loam Sandy loam
+Sand (%) 58.49 62.62 64.61 67.19 60.47
+Silt (%) 15.21 13.78 12.29 11.81 17.23
+Clay (%) 26.30 23.60 23.10 21.00 22.30
+
+RCT-WCT: tillage before transplanting rice and sowing of wheat; RNT-WCT: no tillage before sowing of rice and tillage before sowing of wheat; RCT-WNT: tillage before
+transplanting rice but no tillage before sowing of wheat; RNT-WNT: no tillage before sowing of both rice and wheat.
+
+conditions during the period of tillage experiment (2003-2010) and
+daily meteorological conditions during the emission measurement
+period (2009 and 2010) are given in Figs. 1 and 2, respectively.
+
+2.2. Raising of crops
+
+Experiments were conducted during 2009 and 2010 in the same
+well drained field as used in previous years on the same rice culti-
+var (PHB-71). During both the years of experiment, sowing of rice in
+RNT-WCT and RNT-WNT was done on 20th June. On the same day,
+seeds were soaked for the nursery raising of rice to be transplanted
+in RCT-WNT and RCT-WCT. Seedlings were transplanted in puddled
+bed on 16th and 19th July in 2009 and 2010, respectively. Recom-
+mended doses of nutrients (150 kg N+ 75 kg P205 + 75 kg K2O) were
+applied through 15:15:15 NPK complex fertilizer and urea. Full
+doses of P and K and 50% of N was applied through 15:15:15 NPK
+complex at the time of sowing or transplanting. Rest of 75 kg N was
+applied as urea in two equal splits at critical tillering and panical ini-
+tiation stages. Herbicides were used as and when required. In no till
+drill sown rice (RNT-WCT and RNT-WNT), pre emergence spray of
+pendimethalin 30 EC was applied at the rate of 1 kg ha~!. However,
+in hand transplanted rice (RCT-WCT and RCT-WNT), pre emergence
+application of Butachlor 50 EC was done at 1.25 kg ha~'. Herbicide
+application was accompanied with one hand weeding at 25 days
+after sowing/transplanting. This practice was followed every year
+since start of tillage experiment. After attaining the maturity, the
+crops were harvested on 30th October in 2009 and 3rd November
+in 2010.
+
+CC Rainfall ¢ Tmax
+
+45
+40; .
+
+354 + .
+
+304° 4 ae, ey
+
+20 "4
+
+Temperature (°C)
+
+15 +
+
+105 * ‘
+
+July
+
+2003
+
+| 2004 |
+
+July
+
+2005 |
+
+2006
+
+Fig. 1. Meteorological conditions (monthly minimum, maximum and mean temperatures and monthly total rainfall) over the period of tillage experiment (2003-2010).
+
+2.3. Measurements of fluxes of CH4, N20 and CO2
+
+Fluxes of CO2, CH4 and N20 from soil were measured during
+rice crop period during 2009 and 2010 following manual closed
+chamber technique (Hutchinson and Livingston, 1993). The Perspex
+chambers with volume of 0.05019 m? (30cm x 23.9cm x 70cm)
+had separable bases made of Perspex. The bases of chamber sys-
+tems were installed 24h before the deployment of chambers in
+order to bring the system into equilibrium and eliminate the effect
+of soil disturbance on fluxes. Chambers were fixed firmly on water
+filled rim of respective bases. A battery operated fan and a pump
+were used to circulate air at 1.51 min~! to ensure uniform mixing of
+air inside the chamber. Water levels inside the chambers were mea-
+sured during flooded conditions. Temperature inside the chamber
+was recorded by the thermometer attached. Effective volume inside
+the chamber was corrected for plants present inside by measuring
+average above ground biomass volume of three plants harvested
+weekly. The chamber had one sampling port on the top fitted with
+non reactive rubber septum. Samples were drawn for CH4 and
+N20 with 20 ml air tight syringes at 0, 20, 40, 60, 80, and 120 min
+and transferred immediately into pre-evacuated vacuum tubes of
+4ml capacity (Vacutainer, Becton, Dickinson & Company, NJ, USA)
+and analysed on gas chromatograph (CP 3800, Varian, CA, USA)
+the same day. Concentration of CH, in the gas samples was esti-
+mated with flame ionization detector (FID) while electron capture
+detector (ECD) was used for estimating N20. Gases were separated
+on same Stainless steel column packed with PORAPAK-Q (50-80
+mesh). Nz at 30 ml min7! was used as the carrier gas. For FID, flow
+
+ae ones, create L 400
+
+300
+
+Total rainfall (mm)
+
+2007
+
+HI
+
+Si
+
+|
+
+| 2008
+
+2009
+
+July
+September
+
+2010
+
+i
+
+Bi + 0
+

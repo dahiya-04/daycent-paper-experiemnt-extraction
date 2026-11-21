@@ -1,0 +1,19 @@
+# Sarkar_2011 | Table 7 | page 23 | area [110, 432, 397, 631]
+TABLE 7 Effect of Rice and Wheat Tillage and Crop Residue Application
+on Yield of Wheat (kg/ha) Followed by Transplanted Rice (2001–02 and
+2002–03)
+Treatments 2001–02 2002–03
+Tillage
+T1
+t0 1,450 1,383
+t1 1,698 1,592
+T2
+t0 1,353 1,366
+t1 1,554 1,543
+S.E.M. (D.F. = 6) 12.641 S.E.M. (D.F. = 6) 5.412
+Crop residue
+r0 1,398 r0w0 1,419
+r0w1 1,456
+r1 1,629 r1w0 1,481
+r1w1 1,527
+S.E.M. (D.F. = 8) 2.652 S.E.M. (D.F. = 24) 3.099

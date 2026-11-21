@@ -1,0 +1,16 @@
+# Sarkar_2011 | Table 1 | page 5 | area [74, 240, 432, 421]
+TABLE 1 Soil Properties of the Experimental Farm
+Soil depth (cm)
+Soil properties 0–15 15–30 30–45
+pH 5.5 5.6 5.8
+Organic carbon (%) 0.36 0.32 0.22
+Clay (%) 14.3 21.0 27.3
+Silt (%) 26.2 19.3 20.2
+Sand (%) 59.5 59.7 52.5
+Bulk density (Mg/m) 1.62 1.56 1.59
+Saturated hydraulic conductivity (cm/day) 9.82 6.74 0.91
+Soil strength 9.8 12.9 14.0
+(kg/sq. cm) (at 2.54 cm)∗ (at 7.62 cm) (at 12.7 cm)
+Cation exchange capacity (cmol./kg) 8.1 9.2 9.6
+Total nitrogen (g/kg) 0.04 0.05 0.06
+∗Soil strength was measured at depth of 2.54, 7.62, and 12.7 cm of soil.

@@ -1,0 +1,112 @@
+432
+
+P. K. Ghosh et al.
+
+Table 2 Annual nutrient input (kg ha~' a~') and cumulative C-input (Mg C ha~') under different crop rotation and nutrient management
+
+practices
+
+Production system Crop rotation Nutrient management
+
+Annual nutrient input (kg ha~' a7')
+
+Cumulative C-input (Mg C ha™')
+
+N P K S Zn FYM — Crop residue* Total
+Lowland R-W CT -
+RDF 240.0 52.4 43.7 20.0 4.2 = a =
+
+ORG 103.6 25.9 142.5 244 0.29 65a 36.8b 43.3b
+R-W-R-C CT =
+RDF 190.0 52.4 43.7 20.0 4.2 - - -
+
+ORG 107.0 26.8 146.0 28.2 040 6.5a 43.0a 49.5a
+Upland M-W CT 7
+RDF 240 52.4 43.7 20 420 — a =
+
+ORG 91.6 18.9 122.3, 10.8 042 65a 36.2b 42.7b
+M-W-M-C CT =
+RDF 190 52.4 43.7 20 4.20 — - -
+
+ORG 109.9 22.3 142.5 16.1 0.50 65a 43.8a 50.31a
+
+Based on last 2 years data 2009-2010 and 2010-2011
+-1,-1
+
+Nutrient input through crop residue (kg haa ) = & (nutrient concentration in straw/stover (%) x residue returned in a year (kg ha~') to the
+
+soil in respective treatment) for all crop in rotation. R-W rice-wheat, R-W—R-C rice—wheat-—rice-chickpea, M—W maize—wheat, M—W-M-C
+maize—wheat—maize-chickpea, CT control, RDF recommended dose of fertilizer (NPKSZnB), ORG all the crop residue +FYM at
+5 Mg ha’ + bio-fertilizer. Annual nutrient input was calculated based on last 2 years data (2009-2010 and 2010-2011). Different letters in
+upland and lowland column values are significantly different at P < 0.05 according to Duncan multiple range test (DMRT) for separation of
+
+means
+
+* Aboveground crop residue
+
+LI = [(Cfrac, /TOC) x 3 + (Cfracr/TOC) x 2
+
++ (Cfrac;/TOC) x 1] (1)
+
+Then, Carbon pool index (CPI) was derived as follows,
+CPI = Sample TOC (mg kg~') /Reference TOC (mg kg!)
+(2)
+
+where, reference total carbon is the total carbon content
+(mg kg~') of control plots for a crop rotation [17]. Finally,
+CMI was calculated using the following formula:
+
+CMI = CPI x LI x 100. (3)
+
+Particulate Organic Carbon (POC)
+
+Particulate organic C was analyzed taking after the strategies
+depicted by Sollins et al. [18]. Briefly, 20 g soil was defloc-
+culated by adding 100 ml of sodium hexametaphosphate. The
+soil solution was shaken for 18 h with 90 rpm min~’ in a
+reciprocating shaker. The suspension was washed with 53 um
+screen with the consistent stream of distilled water. The rest of
+the soil on the screen was washed, collected, and dried (60 °C
+for 12 h) for estimation of POC.
+
+Carbon Stabilization
+
+0.8
+d=0.0 (Cors Cur) x 100 (4)
+
+Carbon Stabilized (%) = =
+y=1
+
+va Springer
+
+where, C,-, represents TOC content of soil treated with
+crop residue + FYM, and C,, is the TOC content of soil of
+control plots at depth 0-0.8 m. C represents the amount of
+C applied through FYM and crop residue during last
+8 years.
+
+Carbon stabilization in soils is based on the transfor-
+mation of C into such active and passive C-pools derived
+through the following equations [4]:
+
+Carbon stabilized in active C-pool(%)
+
+7 O80 [Corg(active pool) — C(active pool) | (5)
+
+an C(active pool + passive pool)
+
+Carbon stabilized in passive C-pool (%)
+
+7 O80 [Core(passive pool) — C.(passive pool)
+
+an C(active pool + passive pool)
+(6)
+
+Statistical Analysis
+
+The data were analyzed using windows-based SPSS soft-
+ware (SPSS, 2001, Version 11.0, SPSS, Chicago, IL). The
+treatment means were statistically separated using Duncan
+multiple-range-test (DMRT) at the 5% probability level for
+the different production system (upland and lowland). The
+principal component analysis (PCA) was performed using

@@ -1,0 +1,46 @@
+﻿paper_name,Site_name,treatment,depth_cm,variable,value,unit,Source,year,category,value_text,Check,Model,Temperature,Prompt file,Run date
+Pandey_2012,,,,pH,7.30,,"p3, Table 1",2003,initial_soil,7.30 ± 0.01,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,pH,7.39,,"p3, Table 1",2009,end_soil,7.39 ± 0.08ns,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,pH,7.42,,"p3, Table 1",2009,end_soil,7.42 ± 0.07ns,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,pH,7.26,,"p3, Table 1",2009,end_soil,7.26 ± 0.10ns,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,pH,7.37,,"p3, Table 1",2009,end_soil,7.37 ± 0.04ns,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Dry bulk density,1.43,g/cm3,"p3, Table 1",2003,initial_soil,1.43 ± 0.01,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Dry bulk density,1.51,g/cm3,"p3, Table 1",2009,end_soil,1.51 ± 0.01c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Dry bulk density,1.63,g/cm3,"p3, Table 1",2009,end_soil,1.63 ± 0.01b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Dry bulk density,1.53,g/cm3,"p3, Table 1",2009,end_soil,1.53 ± 0.10c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Dry bulk density,2.53,g/cm3,"p3, Table 1",2009,end_soil,2.53 ± 0.01a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Soil organic C,0.33,%,"p3, Table 1",2003,initial_soil,0.33 ± 0.02,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Soil organic C,0.33,%,"p3, Table 1",2009,end_soil,0.33 ± 0.02c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Soil organic C,0.62,%,"p3, Table 1",2009,end_soil,0.62 ± 0.02b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Soil organic C,0.79,%,"p3, Table 1",2009,end_soil,0.79 ± 0.06b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Soil organic C,0.99,%,"p3, Table 1",2009,end_soil,0.99 ± 0.09a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Total N,0.32,mg/g,"p3, Table 1",2003,initial_soil,0.32 ± 0.02,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Total N,0.38,mg/g,"p3, Table 1",2009,end_soil,0.38 ± 0.03b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Total N,0.62,mg/g,"p3, Table 1",2009,end_soil,0.62 ± 0.02a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Total N,0.53,mg/g,"p3, Table 1",2009,end_soil,0.53 ± 0.04a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Total N,0.58,mg/g,"p3, Table 1",2009,end_soil,0.58 ± 0.03a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Available P,1.23,mg/g,"p3, Table 1",2003,initial_soil,1.23 ± 0.07,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Available P,1.05,mg/g,"p3, Table 1",2009,end_soil,1.05 ± 0.04c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Available P,1.43,mg/g,"p3, Table 1",2009,end_soil,1.43 ± 0.08b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Available P,1.46,mg/g,"p3, Table 1",2009,end_soil,1.46 ± 0.06b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Available P,1.87,mg/g,"p3, Table 1",2009,end_soil,1.87 ± 0.05a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Texture,Sandy loam,,"p3, Table 1",2003,initial_soil,Sandy loam,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,Sandy loam,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,Sandy loam,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,Sandy loam,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,Sandy loam,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Sand,58.49,%,"p3, Table 1",2003,initial_soil,58.49,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Sand,62.62,%,"p3, Table 1",2009,end_soil,62.62,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Sand,64.61,%,"p3, Table 1",2009,end_soil,64.61,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Sand,67.19,%,"p3, Table 1",2009,end_soil,67.19,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Sand,60.47,%,"p3, Table 1",2009,end_soil,60.47,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Silt,15.21,%,"p3, Table 1",2003,initial_soil,15.21,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Silt,13.78,%,"p3, Table 1",2009,end_soil,13.78,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Silt,12.29,%,"p3, Table 1",2009,end_soil,12.29,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Silt,11.81,%,"p3, Table 1",2009,end_soil,11.81,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Silt,17.23,%,"p3, Table 1",2009,end_soil,17.23,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,,,Clay,26.30,%,"p3, Table 1",2003,initial_soil,26.30,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WCT,,Clay,23.60,%,"p3, Table 1",2009,end_soil,23.60,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WCT,,Clay,23.10,%,"p3, Table 1",2009,end_soil,23.10,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RCT-WNT,,Clay,21.00,%,"p3, Table 1",2009,end_soil,21.00,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51
+Pandey_2012,,RNT-WNT,,Clay,22.30,%,"p3, Table 1",2009,end_soil,22.30,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:51

@@ -1,0 +1,71 @@
+You extract field-management and site information for the DayCent soil-crop
+model from the METHODS section of ONE agricultural field-experiment paper.
+
+The text was read from the PDF paragraph by paragraph. Each paragraph starts
+with its page tag, e.g. [p3]. Tables and figure labels may appear in the text:
+IGNORE them (table values are extracted separately). Use only normal sentences.
+
+Make ONE output row for EACH piece of information.
+Use ONLY these categories and variable names:
+
+  site       : site_name, latitude, longitude, elevation, climate, soil_type,
+               experiment_start_year, experiment_end_year
+  treatment  : treatment_definition  (value = the treatment code, e.g. "T1";
+               write its meaning in "note")
+  crop_yield : crop, variety, sowing_date, transplanting_date, harvest_date,
+               seed_rate, plant_spacing
+  tillage    : tillage_implement, tillage_timing, tillage_depth, tillage_passes
+  fertiliser : N_rate, P_rate, K_rate, fertiliser_product, fertiliser_timing,
+               manure_type, manure_rate, residue_management
+  irrigation : irrigation_method, irrigation_amount, irrigation_timing,
+               irrigation_number
+  end_soil   : soil_sampling_depth, soil_sampling_date, SOC_method,
+               bulk_density_method
+
+For each row give:
+  - "category"  : one category from the list above
+  - "variable"  : one variable name from the list above
+  - "value"     : copied as written in the text (numbers exactly; dates as
+                  written, e.g. "first week of July"). One value per row.
+  - "unit"      : unit exactly as written. Do NOT convert. "" if none.
+  - "crop"      : crop the value applies to (e.g. "wheat"), "" if not crop-specific
+  - "treatment" : treatment code if the value applies only to some treatments,
+                  "all" if it applies to every treatment
+  - "depth_cm"  : soil depth in cm as "top-bottom" (e.g. "0-15"), "" if none.
+                  Convert metres to cm (0-0.2 m -> "0-20").
+  - "year"      : year if stated, else ""
+  - "page"      : the number from the page tag of the paragraph, e.g. 3
+  - "evidence"  : the EXACT words from the text that contain the value
+                  (copy them, max 25 words, do not change them)
+  - "note"      : short extra information, else ""
+
+RULES:
+  - If information is NOT in the text, do NOT make a row. Never guess or
+    use typical values.
+  - If one sentence gives several values, make separate rows
+    (e.g. "N, P and K at 100, 50 and 30 kg/ha" -> N_rate 100, P_rate 50,
+    K_rate 30, each with the same evidence).
+  - Copy numbers exactly. Never calculate, convert or round.
+
+EXAMPLE (made-up text):
+  [p4] Maize was sown on 12 June 2015 and received 90 kg N/ha as urea.
+Answer:
+{"rows": [
+ {"category": "crop_yield", "variable": "sowing_date", "value": "12 June 2015",
+  "unit": "", "crop": "maize", "treatment": "all", "depth_cm": "", "year": "2015",
+  "page": 4, "evidence": "Maize was sown on 12 June 2015", "note": ""},
+ {"category": "fertiliser", "variable": "N_rate", "value": "90", "unit": "kg N/ha",
+  "crop": "maize", "treatment": "all", "depth_cm": "", "year": "", "page": 4,
+  "evidence": "received 90 kg N/ha as urea", "note": ""},
+ {"category": "fertiliser", "variable": "fertiliser_product", "value": "urea",
+  "unit": "", "crop": "maize", "treatment": "all", "depth_cm": "", "year": "",
+  "page": 4, "evidence": "received 90 kg N/ha as urea", "note": ""}
+]}
+
+Return ONLY valid JSON in this form:
+{"rows": [ {"category": "", "variable": "", "value": "", "unit": "", "crop": "",
+            "treatment": "", "depth_cm": "", "year": "", "page": 0,
+            "evidence": "", "note": ""} ]}
+
+Methods text:
+{methods_text}

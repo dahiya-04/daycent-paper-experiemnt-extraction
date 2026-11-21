@@ -1,0 +1,112 @@
+Agriculture, Ecosystems and Environment 159 (2012) 133-144
+
+Contents lists available at SciVerse ScienceDirect
+
+Agriculture
+Ecosystems &
+Environment
+
+Agriculture, Ecosystems and Environment
+
+05,
+
+ELSEVIER
+
+journal homepage: www.elsevier.com/locate/agee
+
+Greenhouse gas emissions from rice crop with different tillage permutations
+in rice-wheat system
+
+Divya Pandey, Madhoolika Agrawal, Jitendra Singh Bohra
+
+* Laboratory of Air Pollution & Global Climate Change, Department of Botany, Banaras Hindu University, Varanasi, India
+b Department of Agronomy, Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India
+
+ARTICLE INFO ABSTRACT
+
+Article history:
+
+Received 3 January 2012
+
+Received in revised form 9 June 2012
+Accepted 7 July 2012
+
+Global agriculture lies in intersection of two inescapable issues of the present times, viz. keeping pace
+with growing food demand and participating in climate change mitigation efforts. Rice cultivation is a
+major emitter of greenhouse gases (GHGs) and no tillage of soil is becoming popular due to low economic
+investments with improved soil conditions. However, how these arrangements will affect GHG emissions
+need to be quantified. Therefore, monitoring over diverse agricultural practices is essential for optimum
+utilization of cultivable land and resources, while identifying the chances of emission reductions. We
+assessed the impacts of four tillage practices in rice-wheat cultivation system on fluxes of GHGs (CHa,
+N2O and CO2) and yield of rice. The tillage practices were tilling of soil before sowing of every crop
+(RCT-WCT), tillage before sowing of rice but no tillage before sowing of wheat (RCT-WNT), tillage before
+sowing of wheat but no tillage before sowing of rice (RNT-WCT), and no tillage before sowing of rice
+as well as wheat (RNT-WNT). Reduction in tillage frequency led to significant reductions in fluxes of
+CH, and N20, but increased CO2 while permutations of tillage and no tillage influenced grain yield.
+RNT-WCT produced next to or comparable to the most yielding RCT-WCT. Although it is difficult to
+select the best performer since no single tillage permutation showed consistent increment in yield with
+accompanied emission reductions, RNT-WCT, however may be considered as better agricultural practice
+for the study region. Long term and extensive spatio-temporal monitoring is still required before making
+any recommendation. It is also essential for understanding the factors that cause declination in yields
+under no tillage.
+
+Keywords:
+
+Methane
+
+Nitrous oxide
+Carbon dioxide
+Conventional tillage
+No tillage
+
+Rice cultivation
+
+© 2012 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Being the largest anthropogenic impact on the earth in terms
+of the land area occupied, agriculture also contributes maximally
+to the greenhouse gas (GHG) emissions (Foley et al., 2011; Gilbert,
+2011). As global population grows with projected doubling of food
+demand by 2050, associated GHG contributions from this sector
+will also rise (Gilbert, 2011). Minimizing the negative environmen-
+tal impacts of agriculture hence is a challenge. To address the issue,
+assessment of different management options with respect to their
+responses of GHG emission and yield is required. Rice cultivation,
+particularly under puddled condition has received due attention
+owing to their high CH, contribution and large geographical cover-
+age (Beerling et al., 2007; Maraseniet al., 2009; Eusufzai et al., 2010;
+
+* Corresponding author at: Laboratory of Air Pollution & Global Climate Change,
+Ecology Research Circle, Department of Botany, Banaras Hindu University, Varanasi
+221005, India. Tel.: +91 542 2368156; fax: +91 542 2368174.
+
+E-mail addresses: madhoo.agrawal@gmail.com, madhoo58@yahoo.com
+(M. Agrawal).
+
+0167-8809/$ - see front matter © 2012 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.agee.2012.07.008
+
+Power, 2010; Zhang et al., 2011). Conventional cultivation practices
+and modifications made therein have been evaluated extensively in
+this regard. Popular strategies for yield enhancements like nutrient
+application (inorganic and organic) often increase GHG emissions
+which are again highly dependent on the nature, quantity and
+timing of application (Pathak et al., 2002). Organic manure like
+farmyard manure and green manure increased CHy, N20 and CO2
+emissions in rice field by providing extra substrate to responsible
+microbes (Bhatia et al., 2005).
+
+Attempts have been made to suppress GHG production in soils
+through chemical inhibiters like calcium carbide, dicyandiamide,
+nitapyrin and thiosulphate (Kumar et al., 2000; Pathak et al., 2002),
+their adoption is less feasible due to cost intensiveness and possi-
+ble unforeseen environmental impacts. Irrigation management is
+effective in mitigating CH, without affecting yield but concomi-
+tant rise in N20 emissions warrant more research (Li et al., 2005).
+Tillage practices, particularly in long term have however, received
+less attention (Six et al., 2004). Serving as a tool for nutrient mix-
+ing, weed control and nutrient mining in naturally fertile soils
+tillage also enhances nutrient losses through erosion and oxida-
+tion while disrupting soil microbial communities (Lal, 2004; Soane

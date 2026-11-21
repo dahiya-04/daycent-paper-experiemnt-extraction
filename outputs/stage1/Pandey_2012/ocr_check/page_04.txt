@@ -1,0 +1,133 @@
+136 D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144
+Rainfall *  Tmin. * Tmax. +  Tmean
+
+50 5 r 90
+
+45 + ieee 2009 L go
+
+ao fee | a0
+
+35 fea atte “sy : . vee, ore feeettegeten, oo Pa rat et feet oe gt oe . once” eats . _eeteteongenee oo ecetees oe .0* 0 L 60
+
+25 | soettte eee ‘ ° o, ents . te yy ete wet ote ee te sebeseteresesesetetye oo Tceete, a acaatgattheng stent 40
+
+20 4 Settee . oe
+
+15 | ee se eter’ tee | 30
+= 10 | . r 20
+2 | w
+eo ~—
+= 50 =
+S45 4 . 2010 | 30 &
+5 ee gett, . =
+2 40 + ased “208? srostee? ° 0 é
+Eg 35 + ‘ are y : oo eee, aoetere oP eee, wegen, deeceote oe 60
+F 30 | wee ea that oe eigtet SRST CINSERETTEU Sot CRS UTTOVITTEVCNND AIRE IDOE Lette
+
+25 + “fee ° wo He “eeeeee, . f° . weet ates, setee gee. . sateee “hana? OTC 40
+
+20 4 tee . o i \,
+
+is | soeg, Teteaet” eet 30
+
+10 + ; 20
+
+5 | + 10
+
+0 0
+
+i iesh andra sala Heheai andra la raed ae Holy ie ipa a a Heo ieiaanatal af
+Jun-10 | Jul-10 | Aug-10 | Sep-10 | Oct-10 | Noy-10
+
+Fig. 2. Meteorological conditions (daily minimum, maximum and mean temperatures and rainfall) during the experiment in 2009 and 2010.
+
+rates of Hy and zero air were maintained at 30 and 300ml min~!,
+respectively. Temperatures of ECD and FID were maintained at 280
+and 250°C, respectively.
+
+Concentrations of gases were calculated from the respective
+relative peak area from the standard gases of known concentra-
+tions (10 ppmv CH, in N2 and 5.17 ppmv N20 in N2) obtained from
+National Physical Laboratory (NPL), New Delhi, India. Fluxes were
+calculated from linear time rate of change of gas concentrations
+inside the chambers. For CO) measurements, similar Perspex cham-
+bers (30cm x 20cm x 70cm) were installed in between the rows,
+and were connected to portable CO, analyser (Li-820, LI-COR Bio-
+sciences, USA). Air inside the chamber was continuously circulated
+through the CO, analyser which recorded CO, concentration at
+1s average. The flux calculations were done taking the readings
+only up to the linear rate of change of concentration. Chambers
+were installed for 2h during daytime (09:00-11:00 AM). Monitor-
+ing of GHG fluxes in all the treatments was started on the dates
+of transplantation in RCT-WCT and RCT-WNT. This was done to
+ensure easy comparison among the tillage treatments on same
+physiological ages of rice plants. It was tried to maintain five days
+interval between successive monitoring unless rainfall prevented
+flux measurement. In the present paper, days are counted from the
+transplantation in all the treatments for simplicity.
+
+Change in concentration of the gases was calculated from
+regression equation between time and concentration of gas inside
+the chamber, when correlation between the two was found to be
+significant. From this change, flux was calculated according to the
+formula given by Liu et al. (2007):
+
+_ Am/At
+
+=
+
+where Am/At is the change in mass of the gas (ppmv) inside the
+chamber with respect to time (obtained from slope of the regres-
+sion equation); A is the area of the soil covered by the chamber
+(m2); F is the flux obtained in mass of the gas per unit area per
+unit time, which can be converted into convenient unit (in present
+study, mgm~? h~! for CH4 and CO2 and pgm? h7! for N20).
+
+F
+
+2.4, Tiller number root weight and grain weight
+
+25cm x 25 cm areas were marked at six places randomly in each
+plot. Total number of tillers in each marked area was counted at 30
+
+days after transplantation (DAT) in RCT-WCT and RCT-WNT cor-
+responding to 56-59 days after sowing (DAS) in RNT-WCT and
+RNT-WNT. At this stage, rice plants achieve maximum number of
+tillers. After this, some of the tillers die. Harvests from each of the
+experimental plot were bundled separately and tagged. Bundles
+were dried in open under the sun for one week. After the grains
+dried, threshing was done and grain yield plot-! was recorded and
+converted to yield ha~!. Root weight was determined on the date of
+harvest. For this, plants in 25 cm x 25 cmarea were taken out at four
+places at random with soil cores. Roots were washed thoroughly,
+dried and weighed.
+
+2.5. Soil sampling and analysis
+
+Oxido-reduction potential (ORP) of soil was measured in 2010
+using Double junction ORP Tester 10 (Eutech Instruments, Mum-
+bai, India). The instrument was first calibrated in the laboratory
+with reference Zobbel buffer to 245 mV. Soil temperature was mea-
+sured with the help of a mercury thermometer (1/10°C). Both
+measurements were taken at 10cm depth. For bulk density soil was
+collected up to 15cm depth using the soil corer (6.5 cm diameter).
+For other analyses, soils from 15 cm depth were collected from four
+different places randomly in each treatment with the help of auger.
+The collected soils were mixed together, a subsample was used for
+the analyses of moisture content and rest was air dried and ground
+to pass through 2 mm sieve. Soil organic carbon and total nitrogen
+were determined following Walkley and Black (1947) and micro
+Kjeldahl digestion method of Bremner and Mulvaney (1982) using
+Gerhardt Automatic N Analyzer, Frankfurt, Germany, respectively.
+Available phosphorous was extracted following Olsen et al. (1954)
+and estimated by the method of Dickman and Bray (1940).
+
+2.6. Statistical analysis
+
+All the observations were recorded in triplicates. Their means
+and standard errors were calculated. Three-way ANOVA was car-
+ried out to check the interactions of tillage treatments, year of
+experiment and stage of rice plant. One-way ANOVA with Duncan’s
+Multiple Range Test and Student’s t-test at 5% level of significance
+were used to check differences between means. Linear regres-
+sion analysis was done to identify the relationships between the

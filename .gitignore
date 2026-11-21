@@ -1,0 +1,16 @@
+# Secrets - API key lives here, never upload
+.env
+
+# Python environments (rebuild with: pip install -r requirements.txt)
+.venv312/
+venv/
+__pycache__/
+*.pyc
+
+# Copyrighted source papers - download them yourself (see README)
+data/raw_pdfs/
+
+# Editor / OS files
+.vscode/
+Thumbs.db
+desktop.ini

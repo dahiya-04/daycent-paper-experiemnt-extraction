@@ -1,0 +1,138 @@
+134 D. Pandey et al. / Agriculture, Ecosystems and Environment 159 (2012) 133-144
+
+etal., 2012). With new farming techniques and use of pesticides and
+fertilizers; reduced and no tillage practices are becoming popular
+for reduced economic investments with co-benefits of improved
+fertility and carbon sequestration thereby offering significant CO
+mitigation potential (Lal, 2004; Pretty, 2008). But how GHG emis-
+sions are influenced under reduced or no tillage practices are still
+unclear. No tillage mainly brings about two modifications: (i) min-
+imal soil disturbance and (ii) addition of plant residue in soil. These
+two factors cause changes in soil properties and processes phys-
+ically as well as biologically. Under absence of soil disturbance
+moisture retention improves, aggregates are stabilized, organic
+matter is protected and microbial communities are less disturbed
+(Javurek and Vach, 2009; Soane et al., 2012). Absence of tillage
+however, increases soil compactness which may in long term offer
+problems in farming practices and hence tilling after certain gaps
+may be needed (Soane et al., 2012). Increased resistance to gaseous
+diffusivity under no tillage causes low mobility of gases along soil
+profile thus affecting gaseous transport (Beare et al., 2009). No
+tillage is often accompanied with harvesting of ripened ears while
+leaving rest of the crop part in the field. Residues added are colo-
+nized by decomposers thus producing simpler compounds which
+act as substrates for products of which GHGs are a subset. These
+processes ultimately guide production or consumption of GHGs,
+relative proportions of the two leading to the observed net fluxes.
+Under reducing conditions as is common in flooded rice fields,
+residue incorporation tends to make soil more anaerobic since
+organic compounds usually serve as electron donors (Mosier et al.,
+2004). All these factors interact in complex ways thus influenc-
+ing GHG emissions, transport and consumption. This may increase
+emission rates of CH, (Alluvione et al., 2009), N20 (Ball et al., 1999;
+Skiba et al., 2002; Regina and Alakukku, 2010) and CO2 (Oorts et al.,
+2007; Almaraz et al., 2009).
+
+Nitrification and denitrification, both contribute to NjO gener-
+ation and hence good moisture along with extra N source added
+through residues often increase N,O generation (Bateman and
+Baggs, 2005). Some studies have also reported that no tillage acts as
+a considerable sink for NO probably due to consumption in upper
+layer (Grant et al., 2004; Almaraz et al., 2009).
+
+The final products of microbial processes are, however, depen-
+dant on the microbial communities and environmental conditions.
+Complexities among these lead to high uncertainty and spatio-
+temporal heterogeneity among the GHG source/sink estimates and
+agricultural productivities among diverse croplands (Smith et al.,
+2008). Hence more extensive monitoring comprising of different
+cultivation practices, crops, regions and soil qualities is required
+for adoption of better region specific management.
+
+In north India, rice is cultivated during rainy season followed
+by wheat in post rainy season, The rice-wheat system becomes
+even more complex to generalize whether tillage or no tillage
+will be beneficial from GHG management and agronomic yield
+point of view. Therefore, possible tillage permutations are needed
+to be studied so that beneficial selections can be made. With
+this purpose, the present study was conducted in rice-wheat sys-
+tem which is the predominant system in the entire Indo-Gangetic
+plains. There were four tillage practices, i.e. tillage before every
+crop sowing/transplanting, the conventional practice going on in
+the region, tillage before sowing/transplanting of one crop (either
+rice or wheat) and no tillage before propagation of other and no
+tillage before sowing/transplantation of every crop or continuously
+no tillage practice. As we did not come across any long term study
+that incorporated tillage permutations, it was difficult to specu-
+late how the emissions will be modified. Based on the literature
+review, we expected that organic residue incorporation might lead
+to higher CH, generation during rice cultivation as it reinforces
+anaerobic conditions by serving as reducing agents besides pro-
+viding organic substrates for methanogenesis. Addition of residues
+
+is also expected to increase microbial respiration in aerobic zones
+causing increased CO) emissions as well as increased N2O emis-
+sions due to more availability of N. We hypothesized the following:
+
+1. CHy emission rates will be the highest under continuous no
+tillage and will be the lowest in continuously tilled soil.
+
+2. N2O and CO, emission rates will be the highest in alternately
+tilled soils due to residue incorporation but intermediate distur-
+bance. In continuous no tillage practice, N)O and CO, emissions
+will be more than in continuous no tillage.
+
+3. Yield will remain unaffected under all permutations as nutrient,
+water, pest or weed stress will be minimized following recom-
+mended practices.
+
+To check the hypothesis proposed, monitoring of all the three
+GHGs was carried out over the rice growth and relevant soil proper-
+ties and plant attributes were assessed. Objective was to compare
+the fluxes under selected tillage permutations, how they vary along
+the crop development and whether any relationships exist between
+the assessed variables.
+
+2. Materials and methods
+2.1. Experimental site and tillage practices
+
+The field experiment was conducted at the agricultural research
+farm of the Institute of Agricultural Sciences, Banaras Hindu Univer-
+sity, Varanasi, India where along term experiment on different crop
+establishment methods in rice (cv PHB-71)—wheat (cv HD 2824)
+sequence was conducted during 2003-2010 under all India Coor-
+dinated Research Project on Integrated Farming Systems. The site is
+located in eastern Indo-Gangetic plains at 25.14°N latitude, 82.03°E
+longitude and 76.19 m above mean sea level. The experimental soil
+(inceptisol) is sandy loam in texture. Soil properties on the date
+of sowing/transplantation of rice in 2003 (at the start of tillage
+experiment) and in 2009 are presented in Table 1. The experiment
+employed four permutations of tillage and no tillage practices in
+rice-wheat system. Under no tillage, harvesting of previous crop
+was done manually leaving 20 cm straw standing. Minimal soil dis-
+turbance took place under this practice. Leftover plant residues
+decompose slowly with time. Seeds of the next crop were sown
+between the standing residues with a zero till drill. In conventional
+tillage practice, crops were harvested manually that removed crop
+just above the soil leaving less than 5cm shoot along with roots,
+which get mixed with the soil while ploughing the field for the next
+crop. The treatments involved combination of two tillage practices
+in rice as well as wheat. In rice, two tillage practices were trans-
+planting of rice on puddle bed with repeated tillage accompanied
+with final tilling and planking in standing water (RCT) and direct
+sowing of rice using zero till drill (RNT). Whereas in wheat, the
+two tillage practices comprised of conventional tillage with one
+ploughing by disk plough and two harrowings at approximately
+30cm depth by cultivator followed by planking (WCT) and zero
+till drill sowing of wheat (WNT). The four treatments in the study
+were: (i) conventional tilling and puddling before transplanting of
+rice and conventional tilling before sowing of wheat (RCT-WCT),
+(ii) conventional tilling and puddling before rice transplanting and
+no tilling before sowing of wheat (RCT-WNT), (iii) no tilling before
+rice sowing and conventional tilling before wheat sowing (RNT-
+WCT), and (iv) no tilling before sowing of both rice and wheat
+(RNT-WNT). Net size of each plot was 5.25 m x 5.25 mand the plots
+were prepared in triplicates for each tillage permutation. In RNT-
+WCT and RNT-WNT, during rice period, residue of previous wheat
+crop was present, while in RCT-WNT and RCT-WCT, no consider-
+able residue from previous wheat crop was there. Meteorological

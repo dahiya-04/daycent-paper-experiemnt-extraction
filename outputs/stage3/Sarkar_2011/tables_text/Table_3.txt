@@ -1,0 +1,29 @@
+# Sarkar_2011 | Table 3 | page 14 | area [72, 66, 430, 364]
+TABLE 3 Changes in Bulk Density and Saturated Hydraulic Conductivity After Harvest of
+Transplanted Rice Crop (2003)
+Tillage Crop residue Depth of Bulk density Saturated hydraulic
+treatments treatments soil (cm) (Mg/m3) conductivity (cm/day)
+T1 r0w0 0–15 1.69 7.81
+15–30 1.73 6.68
+30–45 1.75 1.28
+r0w1 0–15 1.66 7.85
+15–30 1.72 6.70
+30–45 1.72 1.26
+r1w0 0–15 1.65 7.82
+15–30 1.71 6.72
+30–45 1.73 1.32
+r1w1 0–15 1.63 6.48
+15–30 1.72 6.65
+30–45 1.73 1.12
+T2 r0w0 0–15 1.68 8.24
+15–30 1.70 6.89
+30–45 1.71 1.40
+r0w1 0–15 1.66 8.02
+15–30 1.7 6.94
+30–45 1.69 1.30
+r1w0 0–15 1.67 8.15
+15–30 1.71 6.90
+30–45 1.72 1.42
+r1w1 0–15 1.66 7.96
+15–30 1.72 6.82
+30–45 1.69 1.25

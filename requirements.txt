@@ -1,0 +1,20 @@
+# Python 3.12
+# Install:  pip install -r requirements.txt
+
+# --- PDF reading (Stage 1) ---
+pymupdf==2.1          # main tool: text, fonts, blocks, images, page rendering
+pdfplumber==0.11.11   # compared for text (rejected); still a candidate for tables
+pytesseract==0.3.13   # OCR fallback for scanned pages
+pillow==13.0.0        # images for OCR
+
+# --- Data and Excel ---
+pandas==3.1.1
+openpyxl==3.1.5       # write Excel files
+
+# --- AI (Goedel Machines API, OpenAI-compatible) ---
+openai==3.57.0        # client library; works with any OpenAI-compatible API
+python-dotenv==1.2.4  # reads GOEDEL_API_KEY from .env
+
+# --- Not installed by pip ---
+# Tesseract OCR 5.5 (Windows program): https://github.com/UB-Mannheim/tesseract/wiki
+#   expected at C:\Program Files\Tesseract-OCR\tesseract.exe

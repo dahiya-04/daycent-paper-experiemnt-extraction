@@ -1,0 +1,60 @@
+Soil under Contrasting Tillage-Crop Residue Management 273
+
+5.100 4
+
+g
+
+tS)
+
+c
+
+fe)
+
+2
+
+©
+
+5 2.600 7 oO r0w0 y =0.0002x + 0.3159, R?=0.9556
+
+cc
+
+S A r0w1 y =0.0005x + 0.383, R?=0.9865
+
+© 2.100 5
+
+Pr © r1w0 y =0.0006x + 0.3638, R?=0.9203
+1.600 4 o riwt y =0.0004x+ 0.4025, R?=0.9844
+
+Linear (rOw0)
+
+1.100 4
+
+Linear (rOw1)
+0600, TTT Linear (r1w0)
+
+—--—-- Linear (r1w1)
+
+0. 1 00 T T T T T T T T
+0 20 40 60 80 100 120 140
+
+N application rate (kg/ha)
+
+FIGURE 5 Relationship of organic carbon (October, 2003) with N application rate as affected
+by crop residue application under direct-seeded rice-wheat-fallow system.
+
+crop residues (Green, Blackmer, & Horton 1995; Halvorson, Reule, & Follett
+1999). High rate of nitrogen fertilization stimulated the decomposition of
+organic matter in soil and also prevented the loss of N unused by plant
+(Hao et al. 2001). The nitrogen used by bacteria in the decomposition pro-
+cess was released at later stages and increased the net content of SOC and
+soil organic N, which in turn helped in sequestration of carbon in soil (Lal
+et al. 1998, Ruffo & Bollero 2003). A significant effect of increasing N rate
+on increasing level of carbon decomposition and soil C biomass caused an
+increase in C decomposition, which was due to a higher rate of carbon
+mineralization along with the addition of inorganic N fertilizer (Raisei 2004).
+
+Under DR (Figure 5), application of crop residue increased SOC even
+at No. Even though no N was applied, there was definitely some amount of
+decomposition of residues, which increased the level of SOC. As a conse-
+quence, the rate of increase in SOC with increasing N application rate was
+comparatively smaller under DR-W-F than TR-W-F under all the treatments
