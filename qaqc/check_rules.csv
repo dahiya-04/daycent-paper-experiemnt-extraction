@@ -1,0 +1,53 @@
+paper,variable,expected_unit,min,max,why
+# ──────────────────────────────────────────────────────────────
+# PANDEY_2012 - 5 key rules
+# ──────────────────────────────────────────────────────────────
+Pandey_2012,pH,,3.5,10,normal soil pH range
+Pandey_2012,Dry bulk density,g/cm3,0.8,1.9,mineral soils are 0.8-1.9 g/cm3; above 2.0 is not physically possible
+Pandey_2012,Soil organic C,%,0,10,mineral topsoil SOC is below 10 %
+Pandey_2012,Total N,mg/g,0.1,10,1 mg/g = 1 g/kg; soil total N is about 0.1-10 g/kg
+Pandey_2012,Available P,mg/g,0.001,0.2,"available P is about 1-200 mg/kg = 0.001-0.2 mg/g; larger values point to a unit error (PDF font: μg shown as mg)"
+# ──────────────────────────────────────────────────────────────
+# SARKAR_2011 - 5 key rules
+# ──────────────────────────────────────────────────────────────
+Sarkar_2011,Bulk density,Mg/m3,0.8,1.9,1 Mg/m3 = 1 g/cm3; same limits
+Sarkar_2011,Organic carbon,%,0,10,initial SOC (Table 1); mineral topsoil SOC is below 10 %
+Sarkar_2011,Soil organic carbon,g/kg,0,100,end SOC (Table 2); 10 g/kg = 1 % so same limit as 10 %
+Sarkar_2011,Total nitrogen,g/kg,0.1,10,soil total N is about 0.1-10 g/kg
+Sarkar_2011,Grain Yield,kg/ha,500,8000,rice grain yield in this region
+# ──────────────────────────────────────────────────────────────
+# GHOSH_2017 - 5 key rules
+# ──────────────────────────────────────────────────────────────
+Ghosh_2017,TOC,,0,100,unit NOT printed in Tables 3/4 (values 5-20); 100 is only a safety ceiling - script also reports 'unit missing'
+Ghosh_2017,N,kg ha-1 a-1,0,600,annual N input (Table 2)
+Ghosh_2017,FYM,Mg C ha-1,0,200,column is under 'Cumulative C-input (Mg C ha-1)'
+Ghosh_2017,Crop residue,Mg C ha-1,0,200,column is under 'Cumulative C-input (Mg C ha-1)'
+Ghosh_2017,No of irrigation,,1,15,number of irrigations per crop per season
+# ──────────────────────────────────────────────────────────────
+# UNIVERSAL RULES - all papers (Methods variables have fixed names)
+# expected_unit * = any unit accepted (papers write units differently)
+# ──────────────────────────────────────────────────────────────
+*,latitude,*,-90,90,"must be a valid latitude (26°27' is converted to 26.45 first)"
+*,longitude,*,-180,180,must be a valid longitude
+*,elevation,*,-100,5000,metres above sea level
+*,tillage_depth,*,0,50,cm; normal tillage is shallower than 50 cm
+*,tillage_passes,*,1,10,number of tillage passes
+*,N_rate,*,0,400,kg N per ha
+*,P_rate,*,0,200,kg P2O5 per ha
+*,K_rate,*,0,200,kg K2O per ha
+*,manure_rate,*,0,50,tonnes per ha
+*,residue_rate,*,0,20,crop residue application rate
+*,irrigation_amount,*,0,30,cm per irrigation event
+*,plant_spacing,*,5,100,row or plant spacing in cm
+*,plot_size,*,1,100,plot dimension in metres
+*,replicates,*,2,10,number of field replicates
+*,experiment_start_year,*,1950,2026,experiment must be in a reasonable year
+*,experiment_end_year,*,1950,2026,experiment must be in a reasonable year
+# ──────────────────────────────────────────────────────────────
+# CROSS-FIELD CHECKS - not per variable; the QAQC script runs them
+# ──────────────────────────────────────────────────────────────
+# Rule: Sand + Silt + Clay must sum to 95-105 %
+# Rule: experiment_end_year >= experiment_start_year
+# Rule: FYM + Crop residue should approximately equal Total (Ghosh Table 2)
+# Rule: No duplicate rows (same paper + treatment + depth + variable + value)
+# Rule: depth_cm top must be smaller than bottom (catches Sarkar 150-30)

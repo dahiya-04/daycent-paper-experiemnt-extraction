@@ -1,0 +1,387 @@
+﻿paper,check,result,detail,from,file_line,Source,treatment,depth_cm,variable,value,unit
+Pandey_2012,range,PASS,7.3 inside 3.5-10,tables,Pandey_2012/tables_long.csv line 2,"p3, Table 1",,,pH,7.30,
+Pandey_2012,range,PASS,7.39 inside 3.5-10,tables,Pandey_2012/tables_long.csv line 3,"p3, Table 1",RCT-WCT,,pH,7.39,
+Pandey_2012,range,PASS,7.42 inside 3.5-10,tables,Pandey_2012/tables_long.csv line 4,"p3, Table 1",RNT-WCT,,pH,7.42,
+Pandey_2012,range,PASS,7.26 inside 3.5-10,tables,Pandey_2012/tables_long.csv line 5,"p3, Table 1",RCT-WNT,,pH,7.26,
+Pandey_2012,range,PASS,7.37 inside 3.5-10,tables,Pandey_2012/tables_long.csv line 6,"p3, Table 1",RNT-WNT,,pH,7.37,
+Pandey_2012,range,PASS,1.43 inside 0.8-1.9,tables,Pandey_2012/tables_long.csv line 7,"p3, Table 1",,,Dry bulk density,1.43,g/cm3
+Pandey_2012,range,PASS,1.51 inside 0.8-1.9,tables,Pandey_2012/tables_long.csv line 8,"p3, Table 1",RCT-WCT,,Dry bulk density,1.51,g/cm3
+Pandey_2012,range,PASS,1.63 inside 0.8-1.9,tables,Pandey_2012/tables_long.csv line 9,"p3, Table 1",RNT-WCT,,Dry bulk density,1.63,g/cm3
+Pandey_2012,range,PASS,1.53 inside 0.8-1.9,tables,Pandey_2012/tables_long.csv line 10,"p3, Table 1",RCT-WNT,,Dry bulk density,1.53,g/cm3
+Pandey_2012,range,FAIL,2.53 outside 0.8-1.9 (mineral soils are 0.8-1.9 g/cm3; above 2.0 is not physically possible),tables,Pandey_2012/tables_long.csv line 11,"p3, Table 1",RNT-WNT,,Dry bulk density,2.53,g/cm3
+Pandey_2012,range,PASS,0.33 inside 0-10,tables,Pandey_2012/tables_long.csv line 12,"p3, Table 1",,,Soil organic C,0.33,%
+Pandey_2012,range,PASS,0.33 inside 0-10,tables,Pandey_2012/tables_long.csv line 13,"p3, Table 1",RCT-WCT,,Soil organic C,0.33,%
+Pandey_2012,range,PASS,0.62 inside 0-10,tables,Pandey_2012/tables_long.csv line 14,"p3, Table 1",RNT-WCT,,Soil organic C,0.62,%
+Pandey_2012,range,PASS,0.79 inside 0-10,tables,Pandey_2012/tables_long.csv line 15,"p3, Table 1",RCT-WNT,,Soil organic C,0.79,%
+Pandey_2012,range,PASS,0.99 inside 0-10,tables,Pandey_2012/tables_long.csv line 16,"p3, Table 1",RNT-WNT,,Soil organic C,0.99,%
+Pandey_2012,range,PASS,0.32 inside 0.1-10,tables,Pandey_2012/tables_long.csv line 17,"p3, Table 1",,,Total N,0.32,mg/g
+Pandey_2012,range,PASS,0.38 inside 0.1-10,tables,Pandey_2012/tables_long.csv line 18,"p3, Table 1",RCT-WCT,,Total N,0.38,mg/g
+Pandey_2012,range,PASS,0.62 inside 0.1-10,tables,Pandey_2012/tables_long.csv line 19,"p3, Table 1",RNT-WCT,,Total N,0.62,mg/g
+Pandey_2012,range,PASS,0.53 inside 0.1-10,tables,Pandey_2012/tables_long.csv line 20,"p3, Table 1",RCT-WNT,,Total N,0.53,mg/g
+Pandey_2012,range,PASS,0.58 inside 0.1-10,tables,Pandey_2012/tables_long.csv line 21,"p3, Table 1",RNT-WNT,,Total N,0.58,mg/g
+Pandey_2012,range,FAIL,1.23 outside 0.001-0.2 (available P is about 1-200 mg/kg = 0.001-0.2 mg/g; larger values point to a unit error (PDF font: μg shown as mg)),tables,Pandey_2012/tables_long.csv line 22,"p3, Table 1",,,Available P,1.23,mg/g
+Pandey_2012,range,FAIL,1.05 outside 0.001-0.2 (available P is about 1-200 mg/kg = 0.001-0.2 mg/g; larger values point to a unit error (PDF font: μg shown as mg)),tables,Pandey_2012/tables_long.csv line 23,"p3, Table 1",RCT-WCT,,Available P,1.05,mg/g
+Pandey_2012,range,FAIL,1.43 outside 0.001-0.2 (available P is about 1-200 mg/kg = 0.001-0.2 mg/g; larger values point to a unit error (PDF font: μg shown as mg)),tables,Pandey_2012/tables_long.csv line 24,"p3, Table 1",RNT-WCT,,Available P,1.43,mg/g
+Pandey_2012,range,FAIL,1.46 outside 0.001-0.2 (available P is about 1-200 mg/kg = 0.001-0.2 mg/g; larger values point to a unit error (PDF font: μg shown as mg)),tables,Pandey_2012/tables_long.csv line 25,"p3, Table 1",RCT-WNT,,Available P,1.46,mg/g
+Pandey_2012,range,FAIL,1.87 outside 0.001-0.2 (available P is about 1-200 mg/kg = 0.001-0.2 mg/g; larger values point to a unit error (PDF font: μg shown as mg)),tables,Pandey_2012/tables_long.csv line 26,"p3, Table 1",RNT-WNT,,Available P,1.87,mg/g
+Pandey_2012,range,PASS,25.14 inside -90-90,methods,Pandey_2012/methods_long.csv line 3,"p2, Methods",all,,latitude,25.14,°N
+Pandey_2012,range,PASS,82.03 inside -180-180,methods,Pandey_2012/methods_long.csv line 4,"p2, Methods",all,,longitude,82.03,°E
+Pandey_2012,range,PASS,76.19 inside -100-5000,methods,Pandey_2012/methods_long.csv line 5,"p2, Methods",all,,elevation,76.19,m above mean sea level
+Pandey_2012,range,PASS,2003 inside 1950-2026,methods,Pandey_2012/methods_long.csv line 7,"p2, Methods",all,,experiment_start_year,2003,
+Pandey_2012,range,PASS,2010 inside 1950-2026,methods,Pandey_2012/methods_long.csv line 8,"p2, Methods",all,,experiment_end_year,2010,
+Pandey_2012,ai_extraction,WARN,NEEDS HUMAN REVIEW: value is not inside the evidence,methods,Pandey_2012/methods_long.csv line 20,"p3, Methods","RCT-WNT, RCT-WCT",,transplanting_date,16th July,
+Pandey_2012,range,PASS,30 inside 0-50,methods,Pandey_2012/methods_long.csv line 28,"p2, Methods",WCT,,tillage_depth,30,cm
+Pandey_2012,range,PASS,1 inside 1-10,methods,Pandey_2012/methods_long.csv line 29,"p2, Methods",WCT,,tillage_passes,one,
+Pandey_2012,range,PASS,2 inside 1-10,methods,Pandey_2012/methods_long.csv line 30,"p2, Methods",WCT,,tillage_passes,two,
+Pandey_2012,range,PASS,150 inside 0-400,methods,Pandey_2012/methods_long.csv line 31,"p3, Methods",all,,N_rate,150,kg N
+Pandey_2012,range,PASS,75 inside 0-200,methods,Pandey_2012/methods_long.csv line 32,"p3, Methods",all,,P_rate,75,kg P2O5
+Pandey_2012,range,PASS,75 inside 0-200,methods,Pandey_2012/methods_long.csv line 33,"p3, Methods",all,,K_rate,75,kg K2O
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,tables,Ghosh_2017/tables_long.csv line 5,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 8–10 25 DAT; 1/3 N at 45 DAT,
+Ghosh_2017,range,FAIL,value '1/3 N ? P ? K at basal; 1/3 N at 8–10 25 DAT; 1/3 N at 45 DAT' is not a number,tables,Ghosh_2017/tables_long.csv line 5,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 8–10 25 DAT; 1/3 N at 45 DAT,
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,tables,Ghosh_2017/tables_long.csv line 9,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,range,FAIL,value '1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS' is not a number,tables,Ghosh_2017/tables_long.csv line 9,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,range,FAIL,value 'N ? P ? K at basal 2' is not a number,tables,Ghosh_2017/tables_long.csv line 13,"p3, Table 1",,,No of irrigation,N ? P ? K at basal 2,
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,tables,Ghosh_2017/tables_long.csv line 17,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 2 25 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,range,FAIL,value '1/3 N ? P ? K at basal; 1/3 N at 2 25 DAS; 1/3 N at 45 DAS' is not a number,tables,Ghosh_2017/tables_long.csv line 17,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 2 25 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,tables,Ghosh_2017/tables_long.csv line 21,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,range,FAIL,value '1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS' is not a number,tables,Ghosh_2017/tables_long.csv line 21,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,range,FAIL,value 'N ? P ? K at basal 2' is not a number,tables,Ghosh_2017/tables_long.csv line 25,"p3, Table 1",,,No of irrigation,N ? P ? K at basal 2,
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 26,"p4, Table 2",CT,,N,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 31,"p4, Table 2",CT,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 32,"p4, Table 2",CT,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,240 inside 0-600,tables,Ghosh_2017/tables_long.csv line 34,"p4, Table 2",RDF,,N,240.0,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 39,"p4, Table 2",RDF,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 40,"p4, Table 2",RDF,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,103.6 inside 0-600,tables,Ghosh_2017/tables_long.csv line 42,"p4, Table 2",ORG,,N,103.6,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 47,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 48,"p4, Table 2",ORG,,Crop residue,36.8,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 50,"p4, Table 2",CT,,N,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 55,"p4, Table 2",CT,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 56,"p4, Table 2",CT,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,190 inside 0-600,tables,Ghosh_2017/tables_long.csv line 58,"p4, Table 2",RDF,,N,190.0,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 63,"p4, Table 2",RDF,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 64,"p4, Table 2",RDF,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,107 inside 0-600,tables,Ghosh_2017/tables_long.csv line 66,"p4, Table 2",ORG,,N,107.0,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 71,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 72,"p4, Table 2",ORG,,Crop residue,43.0,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 74,"p4, Table 2",CT,,N,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 79,"p4, Table 2",CT,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 80,"p4, Table 2",CT,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,240 inside 0-600,tables,Ghosh_2017/tables_long.csv line 82,"p4, Table 2",RDF,,N,240,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 87,"p4, Table 2",RDF,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 88,"p4, Table 2",RDF,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,91.6 inside 0-600,tables,Ghosh_2017/tables_long.csv line 90,"p4, Table 2",ORG,,N,91.6,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 95,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 96,"p4, Table 2",ORG,,Crop residue,36.2,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 98,"p4, Table 2",CT,,N,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 103,"p4, Table 2",CT,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 104,"p4, Table 2",CT,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,190 inside 0-600,tables,Ghosh_2017/tables_long.csv line 106,"p4, Table 2",RDF,,N,190,kg ha-1 a-1
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: value does not match the number in value_text,tables,Ghosh_2017/tables_long.csv line 107,"p4, Table 2",RDF,,P,52.4,kg ha-1 a-1
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: value does not match the number in value_text,tables,Ghosh_2017/tables_long.csv line 108,"p4, Table 2",RDF,,K,43.7,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 111,"p4, Table 2",RDF,,FYM,,kg ha-1 a-1
+Ghosh_2017,range,INFO,empty cell in paper (dash = not measured) - not checked,tables,Ghosh_2017/tables_long.csv line 112,"p4, Table 2",RDF,,Crop residue,,kg ha-1 a-1
+Ghosh_2017,range,PASS,109.9 inside 0-600,tables,Ghosh_2017/tables_long.csv line 114,"p4, Table 2",ORG,,N,109.9,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 119,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Ghosh_2017,range,WARN,"in range, but unit 'kg ha-1 a-1' but expected 'Mg C ha-1'",tables,Ghosh_2017/tables_long.csv line 120,"p4, Table 2",ORG,,Crop residue,43.8,kg ha-1 a-1
+Ghosh_2017,range,PASS,17.29 inside 0-100,tables,Ghosh_2017/tables_long.csv line 142,"p5, Table 3",R–W,0-20,TOC,17.29,
+Ghosh_2017,range,PASS,18.42 inside 0-100,tables,Ghosh_2017/tables_long.csv line 143,"p5, Table 3",R–W–R–C,0-20,TOC,18.42,
+Ghosh_2017,range,PASS,16.08 inside 0-100,tables,Ghosh_2017/tables_long.csv line 144,"p5, Table 3",CT,0-20,TOC,16.08,
+Ghosh_2017,range,PASS,18.09 inside 0-100,tables,Ghosh_2017/tables_long.csv line 145,"p5, Table 3",RDF,0-20,TOC,18.09,
+Ghosh_2017,range,PASS,19.57 inside 0-100,tables,Ghosh_2017/tables_long.csv line 146,"p5, Table 3",ORG,0-20,TOC,19.57,
+Ghosh_2017,range,PASS,14.73 inside 0-100,tables,Ghosh_2017/tables_long.csv line 167,"p5, Table 3",R–W,20-40,TOC,14.73,
+Ghosh_2017,range,PASS,14.47 inside 0-100,tables,Ghosh_2017/tables_long.csv line 168,"p5, Table 3",R–W–R–C,20-40,TOC,14.47,
+Ghosh_2017,range,PASS,13.38 inside 0-100,tables,Ghosh_2017/tables_long.csv line 169,"p5, Table 3",CT,20-40,TOC,13.38,
+Ghosh_2017,range,PASS,15.5 inside 0-100,tables,Ghosh_2017/tables_long.csv line 170,"p5, Table 3",RDF,20-40,TOC,15.50,
+Ghosh_2017,range,PASS,15.74 inside 0-100,tables,Ghosh_2017/tables_long.csv line 171,"p5, Table 3",ORG,20-40,TOC,15.74,
+Ghosh_2017,range,PASS,6.34 inside 0-100,tables,Ghosh_2017/tables_long.csv line 192,"p5, Table 3",R–W,40-60,TOC,6.34,
+Ghosh_2017,range,PASS,6.3 inside 0-100,tables,Ghosh_2017/tables_long.csv line 193,"p5, Table 3",R–W–R–C,40-60,TOC,6.30,
+Ghosh_2017,range,PASS,6.29 inside 0-100,tables,Ghosh_2017/tables_long.csv line 194,"p5, Table 3",CT,40-60,TOC,6.29,
+Ghosh_2017,range,PASS,6.33 inside 0-100,tables,Ghosh_2017/tables_long.csv line 195,"p5, Table 3",RDF,40-60,TOC,6.33,
+Ghosh_2017,range,PASS,6.43 inside 0-100,tables,Ghosh_2017/tables_long.csv line 196,"p5, Table 3",ORG,40-60,TOC,6.43,
+Ghosh_2017,range,PASS,14.69 inside 0-100,tables,Ghosh_2017/tables_long.csv line 217,"p6, Table 4",M–W,0-20,TOC,14.69,
+Ghosh_2017,range,PASS,16.67 inside 0-100,tables,Ghosh_2017/tables_long.csv line 218,"p6, Table 4",M–W–M–C,0-20,TOC,16.67,
+Ghosh_2017,range,PASS,13.32 inside 0-100,tables,Ghosh_2017/tables_long.csv line 219,"p6, Table 4",CT,0-20,TOC,13.32,
+Ghosh_2017,range,PASS,15.99 inside 0-100,tables,Ghosh_2017/tables_long.csv line 220,"p6, Table 4",RDF,0-20,TOC,15.99,
+Ghosh_2017,range,PASS,17.73 inside 0-100,tables,Ghosh_2017/tables_long.csv line 221,"p6, Table 4",ORG,0-20,TOC,17.73,
+Ghosh_2017,range,PASS,11.18 inside 0-100,tables,Ghosh_2017/tables_long.csv line 242,"p6, Table 4",M–W,20-40,TOC,11.18,
+Ghosh_2017,range,PASS,10.78 inside 0-100,tables,Ghosh_2017/tables_long.csv line 243,"p6, Table 4",M–W–M–C,20-40,TOC,10.78,
+Ghosh_2017,range,PASS,10.42 inside 0-100,tables,Ghosh_2017/tables_long.csv line 244,"p6, Table 4",CT,20-40,TOC,10.42,
+Ghosh_2017,range,PASS,11.17 inside 0-100,tables,Ghosh_2017/tables_long.csv line 245,"p6, Table 4",RDF,20-40,TOC,11.17,
+Ghosh_2017,range,PASS,11.53 inside 0-100,tables,Ghosh_2017/tables_long.csv line 246,"p6, Table 4",ORG,20-40,TOC,11.53,
+Ghosh_2017,range,PASS,6.05 inside 0-100,tables,Ghosh_2017/tables_long.csv line 267,"p6, Table 4",M–W,40-60,TOC,6.05,
+Ghosh_2017,range,PASS,6.13 inside 0-100,tables,Ghosh_2017/tables_long.csv line 268,"p6, Table 4",M–W–M–C,40-60,TOC,6.13,
+Ghosh_2017,range,PASS,5.3 inside 0-100,tables,Ghosh_2017/tables_long.csv line 269,"p6, Table 4",CT,40-60,TOC,5.3,
+Ghosh_2017,range,PASS,6.37 inside 0-100,tables,Ghosh_2017/tables_long.csv line 270,"p6, Table 4",RDF,40-60,TOC,6.37,
+Ghosh_2017,range,PASS,6.6 inside 0-100,tables,Ghosh_2017/tables_long.csv line 271,"p6, Table 4",ORG,40-60,TOC,6.6,
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: evidence not found on that page (AI may have changed or invented it),methods,Ghosh_2017/methods_long.csv line 3,"p2, Methods",all,,latitude,26°27'N,
+Ghosh_2017,range,PASS,26.45 inside -90-90,methods,Ghosh_2017/methods_long.csv line 3,"p2, Methods",all,,latitude,26°27'N,
+Ghosh_2017,ai_extraction,WARN,NEEDS HUMAN REVIEW: evidence not found on that page (AI may have changed or invented it),methods,Ghosh_2017/methods_long.csv line 4,"p2, Methods",all,,longitude,80°14'E,
+Ghosh_2017,range,PASS,80.2333 inside -180-180,methods,Ghosh_2017/methods_long.csv line 4,"p2, Methods",all,,longitude,80°14'E,
+Ghosh_2017,range,PASS,152.4 inside -100-5000,methods,Ghosh_2017/methods_long.csv line 5,"p2, Methods",all,,elevation,152.4,m above mean sea level
+Ghosh_2017,range,PASS,2003 inside 1950-2026,methods,Ghosh_2017/methods_long.csv line 8,"p2, Methods",all,,experiment_start_year,2003,
+Ghosh_2017,range,PASS,5 inside 0-50,methods,Ghosh_2017/methods_long.csv line 28,"p3, Methods",organic,,manure_rate,5,Mg ha-1
+Sarkar_2011,range,PASS,0.36 inside 0-10,tables,Sarkar_2011/tables_long.csv line 5,"p5, Table 1",,0-15,Organic carbon,0.36,%
+Sarkar_2011,range,PASS,0.32 inside 0-10,tables,Sarkar_2011/tables_long.csv line 6,"p5, Table 1",,15-30,Organic carbon,0.32,%
+Sarkar_2011,range,PASS,0.22 inside 0-10,tables,Sarkar_2011/tables_long.csv line 7,"p5, Table 1",,30-45,Organic carbon,0.22,%
+Sarkar_2011,range,WARN,"in range, but unit 'Mg/m' but expected 'Mg/m3'",tables,Sarkar_2011/tables_long.csv line 17,"p5, Table 1",,0-15,Bulk density,1.62,Mg/m
+Sarkar_2011,range,WARN,"in range, but unit 'Mg/m' but expected 'Mg/m3'",tables,Sarkar_2011/tables_long.csv line 18,"p5, Table 1",,15-30,Bulk density,1.56,Mg/m
+Sarkar_2011,range,WARN,"in range, but unit 'Mg/m' but expected 'Mg/m3'",tables,Sarkar_2011/tables_long.csv line 19,"p5, Table 1",,30-45,Bulk density,1.59,Mg/m
+Sarkar_2011,range,FAIL,0.04 outside 0.1-10 (soil total N is about 0.1-10 g/kg),tables,Sarkar_2011/tables_long.csv line 29,"p5, Table 1",,0-15,Total nitrogen,0.04,g/kg
+Sarkar_2011,range,FAIL,0.05 outside 0.1-10 (soil total N is about 0.1-10 g/kg),tables,Sarkar_2011/tables_long.csv line 30,"p5, Table 1",,15-30,Total nitrogen,0.05,g/kg
+Sarkar_2011,range,FAIL,0.06 outside 0.1-10 (soil total N is about 0.1-10 g/kg),tables,Sarkar_2011/tables_long.csv line 31,"p5, Table 1",,30-45,Total nitrogen,0.06,g/kg
+Sarkar_2011,range,PASS,3.41 inside 0-100,tables,Sarkar_2011/tables_long.csv line 32,"p10, Table 2",T1,,Soil organic carbon,3.41,g/kg
+Sarkar_2011,range,PASS,3.57 inside 0-100,tables,Sarkar_2011/tables_long.csv line 33,"p10, Table 2",T2,,Soil organic carbon,3.57,g/kg
+Sarkar_2011,range,PASS,3.9 inside 0-100,tables,Sarkar_2011/tables_long.csv line 34,"p10, Table 2",T3,,Soil organic carbon,3.90,g/kg
+Sarkar_2011,range,PASS,3.96 inside 0-100,tables,Sarkar_2011/tables_long.csv line 35,"p10, Table 2",T4,,Soil organic carbon,3.96,g/kg
+Sarkar_2011,range,PASS,3.14 inside 0-100,tables,Sarkar_2011/tables_long.csv line 36,"p10, Table 2",r0w0,,Soil organic carbon,3.14,g/kg
+Sarkar_2011,range,PASS,3.63 inside 0-100,tables,Sarkar_2011/tables_long.csv line 37,"p10, Table 2",r0w1,,Soil organic carbon,3.63,g/kg
+Sarkar_2011,range,PASS,3.51 inside 0-100,tables,Sarkar_2011/tables_long.csv line 38,"p10, Table 2",r1w0,,Soil organic carbon,3.51,g/kg
+Sarkar_2011,range,PASS,3.67 inside 0-100,tables,Sarkar_2011/tables_long.csv line 39,"p10, Table 2",r1w1,,Soil organic carbon,3.67,g/kg
+Sarkar_2011,range,PASS,3.28 inside 0-100,tables,Sarkar_2011/tables_long.csv line 40,"p10, Table 2",r0w0,,Soil organic carbon,3.28,g/kg
+Sarkar_2011,range,PASS,4.17 inside 0-100,tables,Sarkar_2011/tables_long.csv line 41,"p10, Table 2",r0w1,,Soil organic carbon,4.17,g/kg
+Sarkar_2011,range,PASS,4 inside 0-100,tables,Sarkar_2011/tables_long.csv line 42,"p10, Table 2",r1w0,,Soil organic carbon,4.00,g/kg
+Sarkar_2011,range,PASS,4.27 inside 0-100,tables,Sarkar_2011/tables_long.csv line 43,"p10, Table 2",r1w1,,Soil organic carbon,4.27,g/kg
+Sarkar_2011,range,PASS,3.16 inside 0-100,tables,Sarkar_2011/tables_long.csv line 44,"p10, Table 2",N0,,Soil organic carbon,3.16,g/kg
+Sarkar_2011,range,PASS,3.2 inside 0-100,tables,Sarkar_2011/tables_long.csv line 45,"p10, Table 2",N40,,Soil organic carbon,3.20,g/kg
+Sarkar_2011,range,PASS,3.4 inside 0-100,tables,Sarkar_2011/tables_long.csv line 46,"p10, Table 2",N60,,Soil organic carbon,3.40,g/kg
+Sarkar_2011,range,PASS,3.48 inside 0-100,tables,Sarkar_2011/tables_long.csv line 47,"p10, Table 2",N80,,Soil organic carbon,3.48,g/kg
+Sarkar_2011,range,PASS,3.78 inside 0-100,tables,Sarkar_2011/tables_long.csv line 48,"p10, Table 2",N100,,Soil organic carbon,3.78,g/kg
+Sarkar_2011,range,PASS,3.92 inside 0-100,tables,Sarkar_2011/tables_long.csv line 49,"p10, Table 2",N120,,Soil organic carbon,3.92,g/kg
+Sarkar_2011,range,PASS,3.7 inside 0-100,tables,Sarkar_2011/tables_long.csv line 50,"p10, Table 2",N0,,Soil organic carbon,3.70,g/kg
+Sarkar_2011,range,PASS,3.79 inside 0-100,tables,Sarkar_2011/tables_long.csv line 51,"p10, Table 2",N40,,Soil organic carbon,3.79,g/kg
+Sarkar_2011,range,PASS,3.87 inside 0-100,tables,Sarkar_2011/tables_long.csv line 52,"p10, Table 2",N60,,Soil organic carbon,3.87,g/kg
+Sarkar_2011,range,PASS,3.98 inside 0-100,tables,Sarkar_2011/tables_long.csv line 53,"p10, Table 2",N80,,Soil organic carbon,3.98,g/kg
+Sarkar_2011,range,PASS,4.08 inside 0-100,tables,Sarkar_2011/tables_long.csv line 54,"p10, Table 2",N100,,Soil organic carbon,4.08,g/kg
+Sarkar_2011,range,PASS,4.16 inside 0-100,tables,Sarkar_2011/tables_long.csv line 55,"p10, Table 2",N120,,Soil organic carbon,4.16,g/kg
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 56,"p14, Table 3",T1,0-15,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.73 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 57,"p14, Table 3",T1,15-30,Bulk density,1.73,Mg/m3
+Sarkar_2011,range,PASS,1.75 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 58,"p14, Table 3",T1,30-45,Bulk density,1.75,Mg/m3
+Sarkar_2011,range,PASS,1.66 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 62,"p14, Table 3",T1,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 63,"p14, Table 3",T1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 64,"p14, Table 3",T1,30-45,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.65 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 68,"p14, Table 3",T1,0-15,Bulk density,1.65,Mg/m3
+Sarkar_2011,range,PASS,1.71 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 69,"p14, Table 3",T1,15-30,Bulk density,1.71,Mg/m3
+Sarkar_2011,range,PASS,1.73 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 70,"p14, Table 3",T1,30-45,Bulk density,1.73,Mg/m3
+Sarkar_2011,range,PASS,1.63 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 74,"p14, Table 3",T1,0-15,Bulk density,1.63,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 75,"p14, Table 3",T1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.73 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 76,"p14, Table 3",T1,30-45,Bulk density,1.73,Mg/m3
+Sarkar_2011,range,PASS,1.68 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 80,"p14, Table 3",T2,0-15,Bulk density,1.68,Mg/m3
+Sarkar_2011,range,PASS,1.7 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 81,"p14, Table 3",T2,15-30,Bulk density,1.70,Mg/m3
+Sarkar_2011,range,PASS,1.71 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 82,"p14, Table 3",T2,30-45,Bulk density,1.71,Mg/m3
+Sarkar_2011,range,PASS,1.66 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 86,"p14, Table 3",T2,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,range,PASS,1.7 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 87,"p14, Table 3",T2,15-30,Bulk density,1.7,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 88,"p14, Table 3",T2,30-45,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.67 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 92,"p14, Table 3",T2,0-15,Bulk density,1.67,Mg/m3
+Sarkar_2011,range,PASS,1.71 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 93,"p14, Table 3",T2,15-30,Bulk density,1.71,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 94,"p14, Table 3",T2,30-45,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.66 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 98,"p14, Table 3",T2,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 99,"p14, Table 3",T2,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 100,"p14, Table 3",T2,30-45,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.79 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 104,"p15, Table 4",T3 r0w0,0-15,Bulk density,1.79,Mg/m3
+Sarkar_2011,range,PASS,1.78 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 105,"p15, Table 4",T3 r0w0,15-30,Bulk density,1.78,Mg/m3
+Sarkar_2011,range,PASS,1.62 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 106,"p15, Table 4",T3 r0w0,30-45,Bulk density,1.62,Mg/m3
+Sarkar_2011,range,PASS,1.75 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 110,"p15, Table 4",T3 r0w1,0-15,Bulk density,1.75,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 111,"p15, Table 4",T3 r0w1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.63 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 112,"p15, Table 4",T3 r0w1,30-45,Bulk density,1.63,Mg/m3
+Sarkar_2011,range,PASS,1.79 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 116,"p15, Table 4",T3 r1w0,0-15,Bulk density,1.79,Mg/m3
+Sarkar_2011,range,PASS,1.78 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 117,"p15, Table 4",T3 r1w0,15-30,Bulk density,1.78,Mg/m3
+Sarkar_2011,range,PASS,1.62 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 118,"p15, Table 4",T3 r1w0,30-45,Bulk density,1.62,Mg/m3
+Sarkar_2011,range,PASS,1.75 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 122,"p15, Table 4",T3 r1w1,0-15,Bulk density,1.75,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 123,"p15, Table 4",T3 r1w1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.63 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 124,"p15, Table 4",T3 r1w1,30-45,Bulk density,1.63,Mg/m3
+Sarkar_2011,range,PASS,1.79 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 128,"p15, Table 4",T4 r0w0,0-15,Bulk density,1.79,Mg/m3
+Sarkar_2011,range,PASS,1.78 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 129,"p15, Table 4",T4 r0w0,15-30,Bulk density,1.78,Mg/m3
+Sarkar_2011,range,PASS,1.62 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 130,"p15, Table 4",T4 r0w0,30-45,Bulk density,1.62,Mg/m3
+Sarkar_2011,range,PASS,1.75 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 134,"p15, Table 4",T4 r0w1,0-15,Bulk density,1.75,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 135,"p15, Table 4",T4 r0w1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.63 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 136,"p15, Table 4",T4 r0w1,30-45,Bulk density,1.63,Mg/m3
+Sarkar_2011,range,PASS,1.79 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 140,"p15, Table 4",T4 r1w0,0-15,Bulk density,1.79,Mg/m3
+Sarkar_2011,range,PASS,1.78 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 141,"p15, Table 4",T4 r1w0,15-30,Bulk density,1.78,Mg/m3
+Sarkar_2011,range,PASS,1.62 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 142,"p15, Table 4",T4 r1w0,30-45,Bulk density,1.62,Mg/m3
+Sarkar_2011,range,PASS,1.75 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 146,"p15, Table 4",T4 r1w1,0-15,Bulk density,1.75,Mg/m3
+Sarkar_2011,range,PASS,1.72 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 147,"p15, Table 4",T4 r1w1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,range,PASS,1.63 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 148,"p15, Table 4",T4 r1w1,30-45,Bulk density,1.63,Mg/m3
+Sarkar_2011,range,PASS,1.68 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 152,"p16, Table 5",t0 r0w0,0-15,Bulk density,1.68,Mg/m3
+Sarkar_2011,range,PASS,1.66 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 153,"p16, Table 5",t0 r0w0,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 156,"p16, Table 5",t0 r0w0,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 157,"p16, Table 5",t0 r0w0,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.61 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 160,"p16, Table 5",t0 r0w0,30-45,Bulk density,1.61,Mg/m3
+Sarkar_2011,range,PASS,1.6 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 161,"p16, Table 5",t0 r0w0,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,range,PASS,1.66 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 164,"p16, Table 5",t0 r0w1,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,range,PASS,1.64 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 165,"p16, Table 5",t0 r0w1,0-15,Bulk density,1.64,Mg/m3
+Sarkar_2011,range,PASS,1.7 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 168,"p16, Table 5",t0 r0w1,15-30,Bulk density,1.70,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 169,"p16, Table 5",t0 r0w1,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.59 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 172,"p16, Table 5",t0 r0w1,30-45,Bulk density,1.59,Mg/m3
+Sarkar_2011,range,PASS,1.61 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 173,"p16, Table 5",t0 r0w1,30-45,Bulk density,1.61,Mg/m3
+Sarkar_2011,range,PASS,1.66 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 176,"p16, Table 5",t0 r1w0,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,range,PASS,1.63 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 177,"p16, Table 5",t0 r1w0,0-15,Bulk density,1.63,Mg/m3
+Sarkar_2011,range,PASS,1.7 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 180,"p16, Table 5",t0 r1w0,15-30,Bulk density,1.70,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 181,"p16, Table 5",t0 r1w0,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.6 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 184,"p16, Table 5",t0 r1w0,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,range,PASS,1.59 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 185,"p16, Table 5",t0 r1w0,30-45,Bulk density,1.59,Mg/m3
+Sarkar_2011,range,PASS,1.65 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 188,"p16, Table 5",t0 r1w1,0-15,Bulk density,1.65,Mg/m3
+Sarkar_2011,range,PASS,1.62 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 189,"p16, Table 5",t0 r1w1,0-15,Bulk density,1.62,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 192,"p16, Table 5",t0 r1w1,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.67 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 193,"p16, Table 5",t0 r1w1,15-30,Bulk density,1.67,Mg/m3
+Sarkar_2011,range,PASS,1.59 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 196,"p16, Table 5",t0 r1w1,30-45,Bulk density,1.59,Mg/m3
+Sarkar_2011,range,PASS,1.6 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 197,"p16, Table 5",t0 r1w1,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,range,PASS,1.67 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 200,"p16, Table 5",t1 r0w0,0-15,Bulk density,1.67,Mg/m3
+Sarkar_2011,range,PASS,1.65 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 201,"p16, Table 5",t1 r0w0,0-15,Bulk density,1.65,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 204,"p16, Table 5",t1 r0w0,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.61 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 205,"p16, Table 5",t1 r0w0,15-30,Bulk density,1.61,Mg/m3
+Sarkar_2011,range,PASS,1.6 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 208,"p16, Table 5",t1 r0w0,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,range,PASS,1.59 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 209,"p16, Table 5",t1 r0w0,30-45,Bulk density,1.59,Mg/m3
+Sarkar_2011,range,PASS,1.66 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 212,"p16, Table 5",t1 r0w1,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,range,PASS,1.64 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 213,"p16, Table 5",t1 r0w1,0-15,Bulk density,1.64,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 216,"p16, Table 5",t1 r0w1,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.68 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 217,"p16, Table 5",t1 r0w1,15-30,Bulk density,1.68,Mg/m3
+Sarkar_2011,range,PASS,1.6 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 220,"p16, Table 5",t1 r0w1,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,range,PASS,1.6 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 221,"p16, Table 5",t1 r0w1,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,range,PASS,1.65 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 224,"p16, Table 5",t1 r1w0,0-15,Bulk density,1.65,Mg/m3
+Sarkar_2011,range,PASS,1.64 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 225,"p16, Table 5",t1 r1w0,0-15,Bulk density,1.64,Mg/m3
+Sarkar_2011,range,PASS,1.7 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 228,"p16, Table 5",t1 r1w0,15-30,Bulk density,1.70,Mg/m3
+Sarkar_2011,range,PASS,1.69 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 229,"p16, Table 5",t1 r1w0,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,range,PASS,1.61 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 232,"p16, Table 5",t1 r1w0,30-45,Bulk density,1.61,Mg/m3
+Sarkar_2011,range,PASS,1.59 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 233,"p16, Table 5",t1 r1w0,30-45,Bulk density,1.59,Mg/m3
+Sarkar_2011,range,PASS,1.65 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 236,"p16, Table 5",t1 r1w1,0-15,Bulk density,1.65,Mg/m3
+Sarkar_2011,range,PASS,1.63 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 237,"p16, Table 5",t1 r1w1,0-15,Bulk density,1.63,Mg/m3
+Sarkar_2011,range,PASS,1.7 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 240,"p16, Table 5",t1 r1w1,15-30,Bulk density,1.70,Mg/m3
+Sarkar_2011,range,PASS,1.68 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 241,"p16, Table 5",t1 r1w1,15-30,Bulk density,1.68,Mg/m3
+Sarkar_2011,range,PASS,1.6 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 244,"p16, Table 5",t1 r1w1,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,range,PASS,1.61 inside 0.8-1.9,tables,Sarkar_2011/tables_long.csv line 245,"p16, Table 5",t1 r1w1,30-45,Bulk density,1.61,Mg/m3
+Sarkar_2011,range,PASS,3983 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 248,"p22, Table 6A",T1,,Grain Yield,3983,kg/ha
+Sarkar_2011,range,PASS,4069 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 249,"p22, Table 6A",T1,,Grain Yield,4069,kg/ha
+Sarkar_2011,range,PASS,4422 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 250,"p22, Table 6A",T1,,Grain Yield,4422,kg/ha
+Sarkar_2011,range,PASS,3914 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 251,"p22, Table 6A",T2,,Grain Yield,3914,kg/ha
+Sarkar_2011,range,PASS,3871 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 252,"p22, Table 6A",T2,,Grain Yield,3871,kg/ha
+Sarkar_2011,range,PASS,4261 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 253,"p22, Table 6A",T2,,Grain Yield,4261,kg/ha
+Sarkar_2011,range,PASS,3778 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 254,"p22, Table 6A",r0w0,,Grain Yield,3778,kg/ha
+Sarkar_2011,range,PASS,4162 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 255,"p22, Table 6A",r0w0,,Grain Yield,4162,kg/ha
+Sarkar_2011,range,PASS,4038 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 256,"p22, Table 6A",r0w1,,Grain Yield,4038,kg/ha
+Sarkar_2011,range,PASS,4401 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 257,"p22, Table 6A",r0w1,,Grain Yield,4401,kg/ha
+Sarkar_2011,range,PASS,3919 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 258,"p22, Table 6A",r1w0,,Grain Yield,3919,kg/ha
+Sarkar_2011,range,PASS,4253 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 259,"p22, Table 6A",r1w0,,Grain Yield,4253,kg/ha
+Sarkar_2011,range,PASS,4146 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 260,"p22, Table 6A",r1w1,,Grain Yield,4146,kg/ha
+Sarkar_2011,range,PASS,4549 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 261,"p22, Table 6A",r1w1,,Grain Yield,4549,kg/ha
+Sarkar_2011,range,PASS,2022 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 262,"p22, Table 6B",T3,,Grain Yield,2022,kg/ha
+Sarkar_2011,range,PASS,2128 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 263,"p22, Table 6B",T3,,Grain Yield,2128,kg/ha
+Sarkar_2011,range,PASS,2273 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 264,"p22, Table 6B",T3,,Grain Yield,2273,kg/ha
+Sarkar_2011,range,PASS,1688 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 265,"p22, Table 6B",T4,,Grain Yield,1688,kg/ha
+Sarkar_2011,range,PASS,1455 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 266,"p22, Table 6B",T4,,Grain Yield,1455,kg/ha
+Sarkar_2011,range,PASS,1443 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 267,"p22, Table 6B",T4,,Grain Yield,1443,kg/ha
+Sarkar_2011,range,PASS,1496 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 268,"p22, Table 6B",r0w0,,Grain Yield,1496,kg/ha
+Sarkar_2011,range,PASS,1676 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 269,"p22, Table 6B",r0w0,,Grain Yield,1676,kg/ha
+Sarkar_2011,range,PASS,1839 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 270,"p22, Table 6B",r0w1,,Grain Yield,1839,kg/ha
+Sarkar_2011,range,PASS,1882 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 271,"p22, Table 6B",r0w1,,Grain Yield,1882,kg/ha
+Sarkar_2011,range,PASS,1770 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 272,"p22, Table 6B",r1w0,,Grain Yield,1770,kg/ha
+Sarkar_2011,range,PASS,1799 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 273,"p22, Table 6B",r1w0,,Grain Yield,1799,kg/ha
+Sarkar_2011,range,PASS,2061 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 274,"p22, Table 6B",r1w1,,Grain Yield,2061,kg/ha
+Sarkar_2011,range,PASS,2075 inside 500-8000,tables,Sarkar_2011/tables_long.csv line 275,"p22, Table 6B",r1w1,,Grain Yield,2075,kg/ha
+Sarkar_2011,range,PASS,22.3167 inside -90-90,methods,Sarkar_2011/methods_long.csv line 3,"p4, Methods",all,,latitude,22°19′N,
+Sarkar_2011,range,PASS,87.3167 inside -180-180,methods,Sarkar_2011/methods_long.csv line 4,"p4, Methods",all,,longitude,87°19′E,
+Sarkar_2011,range,PASS,48 inside -100-5000,methods,Sarkar_2011/methods_long.csv line 5,"p4, Methods",all,,elevation,48,m above the mean sea level
+Sarkar_2011,range,PASS,2001 inside 1950-2026,methods,Sarkar_2011/methods_long.csv line 8,"p4, Methods",all,,experiment_start_year,2001,
+Sarkar_2011,range,PASS,2003 inside 1950-2026,methods,Sarkar_2011/methods_long.csv line 9,"p4, Methods",all,,experiment_end_year,2003,
+Sarkar_2011,range,PASS,20 inside 5-100,methods,Sarkar_2011/methods_long.csv line 16,"p5, Methods",all,,plant_spacing,20,cm apart
+Sarkar_2011,range,PASS,15 inside 0-50,methods,Sarkar_2011/methods_long.csv line 28,"p5, Methods",T3,0-15,tillage_depth,15,cm
+Sarkar_2011,range,PASS,7.5 inside 0-50,methods,Sarkar_2011/methods_long.csv line 30,"p5, Methods",T4,0-7.5,tillage_depth,7.5,cm
+Sarkar_2011,range,PASS,15 inside 0-50,methods,Sarkar_2011/methods_long.csv line 35,"p6, Methods",t1,0-15,tillage_depth,15,cm
+Sarkar_2011,range,PASS,7.5 inside 0-50,methods,Sarkar_2011/methods_long.csv line 37,"p6, Methods",t0,0-7.5,tillage_depth,7.5,cm
+Sarkar_2011,range,PASS,50 inside 0-200,methods,Sarkar_2011/methods_long.csv line 38,"p5, Methods",all,,P_rate,50,kg
+Sarkar_2011,range,PASS,50 inside 0-200,methods,Sarkar_2011/methods_long.csv line 39,"p5, Methods",all,,K_rate,50,kg
+Sarkar_2011,range,PASS,0 inside 0-400,methods,Sarkar_2011/methods_long.csv line 42,"p6, Methods",all,,N_rate,0,kg N/ha
+Sarkar_2011,range,PASS,40 inside 0-400,methods,Sarkar_2011/methods_long.csv line 43,"p6, Methods",all,,N_rate,40,kg N/ha
+Sarkar_2011,range,PASS,60 inside 0-400,methods,Sarkar_2011/methods_long.csv line 44,"p6, Methods",all,,N_rate,60,kg N/ha
+Sarkar_2011,range,PASS,80 inside 0-400,methods,Sarkar_2011/methods_long.csv line 45,"p6, Methods",all,,N_rate,80,kg N/ha
+Sarkar_2011,range,PASS,100 inside 0-400,methods,Sarkar_2011/methods_long.csv line 46,"p6, Methods",all,,N_rate,100,kg N/ha
+Sarkar_2011,range,PASS,120 inside 0-400,methods,Sarkar_2011/methods_long.csv line 47,"p6, Methods",all,,N_rate,120,kg N/ha
+Sarkar_2011,range,PASS,0 inside 0-50,methods,Sarkar_2011/methods_long.csv line 51,"p6, Methods",all,,manure_rate,0,tonnes/ha
+Sarkar_2011,range,PASS,4 inside 0-50,methods,Sarkar_2011/methods_long.csv line 52,"p6, Methods",all,,manure_rate,4,tonnes/ha
+Sarkar_2011,range,PASS,0 inside 0-50,methods,Sarkar_2011/methods_long.csv line 53,"p6, Methods",all,,manure_rate,0,tonnes/ha
+Sarkar_2011,range,PASS,4 inside 0-50,methods,Sarkar_2011/methods_long.csv line 54,"p6, Methods",all,,manure_rate,4,tonnes/ha
+Sarkar_2011,range,PASS,6 inside 0-30,methods,Sarkar_2011/methods_long.csv line 56,"p6, Methods",all,,irrigation_amount,6,cm water
+Sarkar_2011,depth_order,FAIL,top 150 is not smaller than bottom 30,methods,Sarkar_2011/methods_long.csv line 59,"p6, Methods",all,150-30,soil_sampling_depth,150–30,cm
+Ghosh_2017,unit_missing,WARN,6 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 3,"p3, Table 1",,,Spacing,6 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 127,"p5, Table 3",,,Labile Cfrac2,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 132,"p5, Table 3",,,Less-labile Cfrac3,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 137,"p5, Table 3",,,Non-labile Cfrac4,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 142,"p5, Table 3",,,TOC,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 122,"p5, Table 3",,,Very-labile Cfrac1,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 202,"p6, Table 4",,,Labile Cfrac2,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 207,"p6, Table 4",,,Less-labile Cfrac3,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 212,"p6, Table 4",,,Non-labile Cfrac4,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 217,"p6, Table 4",,,TOC,15 values,
+Ghosh_2017,unit_missing,WARN,15 numbers have no unit in the source table,tables,Ghosh_2017/tables_long.csv line 197,"p6, Table 4",,,Very-labile Cfrac1,15 values,
+Pandey_2012,texture_sum,PASS,58.49 + 15.21 + 26.3 = 100 (must be 95-105),tables,Pandey_2012/tables_long.csv line 32,"p3, Table 1",,,sand+silt+clay,100,%
+Pandey_2012,texture_sum,PASS,62.62 + 13.78 + 23.6 = 100 (must be 95-105),tables,Pandey_2012/tables_long.csv line 33,"p3, Table 1",RCT-WCT,,sand+silt+clay,100,%
+Pandey_2012,texture_sum,PASS,67.19 + 11.81 + 21 = 100 (must be 95-105),tables,Pandey_2012/tables_long.csv line 35,"p3, Table 1",RCT-WNT,,sand+silt+clay,100,%
+Pandey_2012,texture_sum,PASS,64.61 + 12.29 + 23.1 = 100 (must be 95-105),tables,Pandey_2012/tables_long.csv line 34,"p3, Table 1",RNT-WCT,,sand+silt+clay,100,%
+Pandey_2012,texture_sum,PASS,60.47 + 17.23 + 22.3 = 100 (must be 95-105),tables,Pandey_2012/tables_long.csv line 36,"p3, Table 1",RNT-WNT,,sand+silt+clay,100,%
+Sarkar_2011,texture_sum,PASS,14.3 + 26.2 + 59.5 = 100 (must be 95-105),tables,Sarkar_2011/tables_long.csv line 8,"p5, Table 1",,0-15,sand+silt+clay,100,%
+Sarkar_2011,texture_sum,PASS,21 + 19.3 + 59.7 = 100 (must be 95-105),tables,Sarkar_2011/tables_long.csv line 9,"p5, Table 1",,15-30,sand+silt+clay,100,%
+Sarkar_2011,texture_sum,PASS,27.3 + 20.2 + 52.5 = 100 (must be 95-105),tables,Sarkar_2011/tables_long.csv line 10,"p5, Table 1",,30-45,sand+silt+clay,100,%
+Pandey_2012,year_order,PASS,"start 2003, end 2010",methods,,,,,experiment years,,
+Ghosh_2017,year_order,INFO,start or end year not reported,methods,,,,,experiment years,,
+Sarkar_2011,year_order,PASS,"start 2001, end 2003",methods,,,,,experiment years,,
+Ghosh_2017,c_input_sum,PASS,"6.5 + 36.8 = 43.3, table total 43.3",tables,Ghosh_2017/tables_long.csv line 49,"p4, Table 2",ORG,,FYM + Crop residue vs Total,43.3,Mg C ha-1
+Ghosh_2017,c_input_sum,PASS,"6.5 + 43 = 49.5, table total 49.5",tables,Ghosh_2017/tables_long.csv line 73,"p4, Table 2",ORG,,FYM + Crop residue vs Total,49.5,Mg C ha-1
+Ghosh_2017,c_input_sum,PASS,"6.5 + 36.2 = 42.7, table total 42.7",tables,Ghosh_2017/tables_long.csv line 97,"p4, Table 2",ORG,,FYM + Crop residue vs Total,42.7,Mg C ha-1
+Ghosh_2017,c_input_sum,PASS,"6.5 + 43.8 = 50.3, table total 50.31",tables,Ghosh_2017/tables_long.csv line 121,"p4, Table 2",ORG,,FYM + Crop residue vs Total,50.31,Mg C ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 4,"p3, Table 1",,,Nutrient rate (N–P–K),120–60–40,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 6,"p3, Table 1",,,Seed rate,100,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 7,"p3, Table 1",,,Spacing,22.5,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 8,"p3, Table 1",,,Nutrient rate (N–P–K),120–60–40,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 9,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 10,"p3, Table 1",,,Seed rate,70,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 11,"p3, Table 1",,,Spacing,30,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 12,"p3, Table 1",,,Nutrient rate (N–P–K),20–60–40,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 13,"p3, Table 1",,,No of irrigation,N ? P ? K at basal 2,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 16,"p3, Table 1",,,Nutrient rate (N–P–K),120–60–40,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 18,"p3, Table 1",,,Seed rate,100,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 19,"p3, Table 1",,,Spacing,22.5,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 20,"p3, Table 1",,,Nutrient rate (N–P–K),120–60–40,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 21,"p3, Table 1",,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 22,"p3, Table 1",,,Seed rate,70,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 23,"p3, Table 1",,,Spacing,30,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 24,"p3, Table 1",,,Nutrient rate (N–P–K),20–60–40,kg ha-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 25,"p3, Table 1",,,No of irrigation,N ? P ? K at basal 2,
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 35,"p4, Table 2",RDF,,P,52.4,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 36,"p4, Table 2",RDF,,K,43.7,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 37,"p4, Table 2",RDF,,S,20.0,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 38,"p4, Table 2",RDF,,Zn,4.2,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 44,"p4, Table 2",ORG,,K,142.5,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 47,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 59,"p4, Table 2",RDF,,P,52.4,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 60,"p4, Table 2",RDF,,K,43.7,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 61,"p4, Table 2",RDF,,S,20.0,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 62,"p4, Table 2",RDF,,Zn,4.2,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 71,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 83,"p4, Table 2",RDF,,P,52.4,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 84,"p4, Table 2",RDF,,K,43.7,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 85,"p4, Table 2",RDF,,S,20,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 86,"p4, Table 2",RDF,,Zn,4.20,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 95,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 107,"p4, Table 2",RDF,,P,52.4,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 108,"p4, Table 2",RDF,,K,43.7,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 109,"p4, Table 2",RDF,,S,20,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 110,"p4, Table 2",RDF,,Zn,4.20,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 116,"p4, Table 2",ORG,,K,142.5,kg ha-1 a-1
+Ghosh_2017,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Ghosh_2017/tables_long.csv line 119,"p4, Table 2",ORG,,FYM,6.5,kg ha-1 a-1
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 63,"p14, Table 3",T1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 70,"p14, Table 3",T1,30-45,Bulk density,1.73,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 75,"p14, Table 3",T1,15-30,Bulk density,1.72,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 76,"p14, Table 3",T1,30-45,Bulk density,1.73,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 86,"p14, Table 3",T2,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 88,"p14, Table 3",T2,30-45,Bulk density,1.69,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 98,"p14, Table 3",T2,0-15,Bulk density,1.66,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 100,"p14, Table 3",T2,30-45,Bulk density,1.69,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 156,"p16, Table 5",t0 r0w0,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 157,"p16, Table 5",t0 r0w0,15-30,Bulk density,1.69,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 210,"p16, Table 5",t1 r0w0,30-45,Saturated hydraulic conductivity,1.26,cm/day
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 211,"p16, Table 5",t1 r0w0,30-45,Saturated hydraulic conductivity,1.26,cm/day
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 220,"p16, Table 5",t1 r0w1,30-45,Bulk density,1.60,Mg/m3
+Sarkar_2011,duplicate,WARN,"same row appears more than once - usually the AI dropped the column that tells the rows apart (e.g. crop, rotation, year)",tables,Sarkar_2011/tables_long.csv line 221,"p16, Table 5",t1 r0w1,30-45,Bulk density,1.60,Mg/m3
+*,rule_not_used,INFO,no data matched this rule (kept for future papers),,,,,,residue_rate,,
+*,rule_not_used,INFO,no data matched this rule (kept for future papers),,,,,,plot_size,,
+*,rule_not_used,INFO,no data matched this rule (kept for future papers),,,,,,replicates,,
