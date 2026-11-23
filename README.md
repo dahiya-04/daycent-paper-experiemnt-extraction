@@ -231,9 +231,17 @@ python src/stage5_output/build_final.py
 
 ## 4. What it produces
 
-### 4.1 The final file: `outputs/final/all_data.csv`
+### 4.1 The final files
 
-There is one row for each value. The first eight columns are the format asked for in the task.
+There are two final files, one for each model I ran (see section 5.4):
+
+| File | Model | Rows |
+|---|---|---:|
+| [`outputs/final/all_data.csv`](outputs/final/all_data.csv) | DeepSeek v4.1 Flash (main run) | 712 |
+| [`outputs/final/all_data_gpt6.csv`](outputs/final/all_data_gpt6.csv) | GPT-6 Astra (comparison run) | 804 |
+
+Both files have the same columns. There is one row for each value. The first eight columns
+are the format asked for in the task.
 
 | Column | What it means | Example |
 |---|---|---|
@@ -394,9 +402,14 @@ Two notes: the two hand-check ranges overlap, so with 30 rows the difference is 
 not proven; the duplicate count, which covers all rows, is the stronger evidence. Both
 hand-checks were done with help from an AI assistant.
 
-The `main` branch holds the DeepSeek run. The full GPT-6 Astra run (all outputs, the
-combined file `outputs/final/all_data_gpt6.csv` and its hand-check) is on the
-`azure-gpt6` branch.
+The final data of both runs is here:
+
+- DeepSeek v4.1 Flash: [`outputs/final/all_data.csv`](outputs/final/all_data.csv)
+- GPT-6 Astra: [`outputs/final/all_data_gpt6.csv`](outputs/final/all_data_gpt6.csv)
+
+All other files on the `main` branch (step outputs, QAQC log, hand-check) are from the
+DeepSeek run. The full GPT-6 Astra run, with all its step outputs and its hand-check, is on
+the `azure-gpt6` branch.
 
 ---
 
@@ -423,7 +436,9 @@ combined file `outputs/final/all_data_gpt6.csv` and its hand-check) is on the
 │   ├── stage1/<paper>/          page check and caption results
 │   ├── stage3/<paper>/          table text and extracted rows
 │   ├── stage4/                  QAQC log and hand-check scores
-│   └── final/all_data.csv       the final data
+│   └── final/
+│       ├── all_data.csv         final data, DeepSeek run
+│       └── all_data_gpt6.csv    final data, GPT-6 Astra run
 ├── docs/
 │   ├── decisions/               notes on my decisions
 │   └── report/                  report drafts
