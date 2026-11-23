@@ -1,0 +1,31 @@
+﻿id,paper_name,from,Source,treatment,crop,depth_cm,year,variable,value,unit,ai_quote,file_line,value_ok,unit_ok,treatment_ok,depth_year_ok,correct_value_if_wrong,comment
+1,Pandey_2012,tables,"p3, Table 1",RNT-WNT,,,2009,Silt,17.23,%,17.23,Pandey_2012/tables_long.csv line 41,Y,Y,Y,Y,,
+2,Pandey_2012,tables,"p3, Table 1",,,,2003,Texture,Sandy loam,,Sandy loam,Pandey_2012/tables_long.csv line 27,Y,NA,N,Y,treatment RCT-WCT,paper prints RCT-WCT above the 2003 column; AI left treatment empty
+3,Pandey_2012,tables,"p3, Table 1",RCT-WCT,,,2009,Texture,Sandy loam,,Sandy loam,Pandey_2012/tables_long.csv line 28,Y,NA,Y,Y,,
+4,Pandey_2012,tables,"p3, Table 1",RCT-WNT,,,2009,Clay,21.00,%,21.00,Pandey_2012/tables_long.csv line 45,Y,Y,Y,Y,,
+5,Pandey_2012,tables,"p3, Table 1",,,,2003,Silt,15.21,%,15.21,Pandey_2012/tables_long.csv line 37,Y,Y,N,Y,treatment RCT-WCT,same as id 2: 2003 column treatment left empty
+6,Pandey_2012,methods,"p2, Methods",WNT,wheat,,,tillage_implement,zero till drill,,zero till drill sowing of wheat (WNT),Pandey_2012/methods_long.csv line 26,Y,NA,Y,NA,,
+7,Pandey_2012,methods,"p2, Methods",RNT-WCT,,,,treatment_definition,RNT-WCT,,no tilling before rice sowing and conventional tilling before wheat sowing (RNT- WCT),Pandey_2012/methods_long.csv line 15,Y,NA,Y,NA,,
+8,Pandey_2012,methods,"p2, Methods",RNT,rice,,,treatment_definition,RNT,,direct sowing of rice using zero till drill (RNT),Pandey_2012/methods_long.csv line 10,Y,NA,Y,NA,,
+9,Pandey_2012,methods,"p2, Methods",RNT,rice,,,tillage_implement,zero till drill,,direct sowing of rice using zero till drill (RNT),Pandey_2012/methods_long.csv line 27,Y,NA,Y,NA,,
+10,Pandey_2012,methods,"p2, Methods",all,,,,soil_type,sandy loam,,The experimental soil (inceptisol) is sandy loam in texture,Pandey_2012/methods_long.csv line 6,Y,NA,Y,NA,,
+11,Ghosh_2017,tables,"p3, Table 1",,,,,Spacing,30,,30,Ghosh_2017/tables_long.csv line 11,Y,NA,N,NA,crop chickpea,"30 is the chickpea spacing (both systems); AI did not record the crop, so the row cannot be used alone. Spacing unit not printed in table"
+12,Ghosh_2017,tables,"p6, Table 4",RDF,,20-40,,Labile Cfrac2,1.69,,1.69a,Ghosh_2017/tables_long.csv line 230,Y,NA,Y,Y,,unit not printed in paper
+13,Ghosh_2017,tables,"p5, Table 3",ORG,,20-40,,Non-labile Cfrac4,2.8,,2.8a,Ghosh_2017/tables_long.csv line 166,Y,NA,Y,Y,,unit not printed in paper
+14,Ghosh_2017,tables,"p6, Table 4",M–W–M–C,,40-60,,Labile Cfrac2,2.08,,2.08a,Ghosh_2017/tables_long.csv line 253,Y,NA,Y,Y,,unit not printed in paper
+15,Ghosh_2017,tables,"p5, Table 3",CT,,40-60,,TOC,6.29,,6.29a,Ghosh_2017/tables_long.csv line 194,Y,NA,Y,Y,,unit not printed in paper
+16,Ghosh_2017,methods,"p3, Methods",all,,,,SOC_method,modified Walkley and Black method,,organic C-fractions were analyzed through modified Walkley and Black method,Ghosh_2017/methods_long.csv line 37,Y,NA,Y,NA,,
+17,Ghosh_2017,methods,"p2, Methods",organic,,,,treatment_definition,organic,,"common nutrient management practices viz., (1) control (2) inorganic (NPKSZnB) and (3) organic",Ghosh_2017/methods_long.csv line 15,Y,NA,Y,NA,,Methods text uses the name organic (tables use ORG)
+18,Ghosh_2017,methods,"p3, Methods",organic,,,,manure_rate,5,Mg ha-1,Well decomposed FYM was spread uniformly at the rate of 5 Mg ha-1,Ghosh_2017/methods_long.csv line 28,Y,Y,Y,NA,,
+19,Ghosh_2017,methods,"p3, Methods",all,,20-40,,soil_sampling_depth,0.2–0.4,m,"Soil samples were collected from four soil depths (0–0.2, 0.2–0.4, 0.4–0.6, 0.6–0.8 m)",Ghosh_2017/methods_long.csv line 32,Y,Y,Y,Y,,
+20,Ghosh_2017,methods,"p2, Methods",all,chickpea,,,variety,DCP-92-3,,"The cultivar Azad Uttam (maize), PBW 343 (wheat), and DCP- 92-3 (chickpea) were used in the upland",Ghosh_2017/methods_long.csv line 18,Y,NA,Y,NA,,
+21,Sarkar_2011,tables,"p16, Table 5",t0 r1w0,,15-30,2002-03,Bulk density,1.69,Mg/m3,1.69,Sarkar_2011/tables_long.csv line 181,Y,Y,N,Y,treatment t0 r1w0 D,table has T and D columns (rice before wheat); 1.69 is the D column (T = 1.70); AI did not record T/D
+22,Sarkar_2011,tables,"p16, Table 5",t1 r1w0,,15-30,2002-03,Saturated hydraulic conductivity,6.65,cm/day,6.65,Sarkar_2011/tables_long.csv line 230,Y,Y,N,Y,treatment t1 r1w0 T,6.65 is the T column (D = 6.92); AI did not record T/D
+23,Sarkar_2011,tables,"p15, Table 4",T3 r0w1,,0-15,2003,Saturated hydraulic conductivity,9.64,cm/day,9.64,Sarkar_2011/tables_long.csv line 113,Y,Y,Y,Y,,
+24,Sarkar_2011,tables,"p22, Table 6A",T1,,,2001,Grain Yield,3983,kg/ha,"3,983",Sarkar_2011/tables_long.csv line 248,Y,Y,Y,Y,,
+25,Sarkar_2011,tables,"p14, Table 3",T1,,0-15,2003,Bulk density,1.66,Mg/m3,1.66,Sarkar_2011/tables_long.csv line 62,Y,Y,N,Y,treatment T1 r0w1,T1 0-15 has 4 residue rows (1.69/1.66/1.65/1.63); 1.66 is r0w1; AI dropped the residue code
+26,Sarkar_2011,methods,"p6, Methods",all,rice,,,manure_rate,4,tonnes/ha,chopped wheat straw (@ 0 and 4 tonnes/ha) was added to the rice crop,Sarkar_2011/methods_long.csv line 52,Y,Y,N,NA,variable residue rate; treatment w1 plots,"4 t/ha is chopped wheat straw (crop residue), not manure; applies to w1 residue treatments, not all"
+27,Sarkar_2011,methods,"p6, Methods",all,,0-15,,soil_sampling_depth,0–15,cm,"Soil samples were collected from 0–15, 150–30, and 30–45 cm depth",Sarkar_2011/methods_long.csv line 58,Y,Y,Y,Y,,
+28,Sarkar_2011,methods,"p4, Methods",all,,,,site_name,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,"A field investigation was carried out at the experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur, India",Sarkar_2011/methods_long.csv line 2,Y,NA,Y,NA,,
+29,Sarkar_2011,methods,"p6, Methods",all,,150-30,,soil_sampling_depth,150–30,cm,"Soil samples were collected from 0–15, 150–30, and 30–45 cm depth",Sarkar_2011/methods_long.csv line 59,Y,Y,Y,Y,,copied exactly as printed; 150-30 is a typo in the paper (QAQC depth_order FAIL)
+30,Sarkar_2011,methods,"p4, Methods",all,,,,soil_type,Haplustalf,,"The soil of the experimental site was taxonomically grouped under the great group Haplustalf, which is acid lateritic sandy loam in nature",Sarkar_2011/methods_long.csv line 7,Y,NA,Y,NA,,
