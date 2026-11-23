@@ -1,0 +1,713 @@
+﻿paper_name,Site_name,treatment,crop,depth_cm,variable,value,unit,Source,year,category,note,from
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,maize,,variety,Azad Uttam,,"p2, Methods",,crop_yield,upland,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,wheat,,variety,PBW 343,,"p2, Methods",,crop_yield,upland,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,chickpea,,variety,DCP-92-3,,"p2, Methods",,crop_yield,upland,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,rice,,variety,Pant Dhan 12,,"p2, Methods",,crop_yield,lowland,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,chickpea,,variety,KWR-108,,"p2, Methods",,crop_yield,lowland,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,0-20,Labile Cfrac2,2.98,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,0-20,Labile Cfrac2,3.41,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Labile Cfrac2,2.53,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Labile Cfrac2,3.46,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Labile Cfrac2,3.60,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,20-40,Labile Cfrac2,3.05,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,20-40,Labile Cfrac2,3.05,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Labile Cfrac2,2.81,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Labile Cfrac2,3.22,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Labile Cfrac2,3.12,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,40-60,Labile Cfrac2,1.5,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,40-60,Labile Cfrac2,1.49,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Labile Cfrac2,1.55,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Labile Cfrac2,1.45,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Labile Cfrac2,1.49,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,0-20,Labile Cfrac2,3.09,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,0-20,Labile Cfrac2,3.49,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Labile Cfrac2,2.97,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Labile Cfrac2,3.27,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Labile Cfrac2,3.63,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,20-40,Labile Cfrac2,1.4,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,20-40,Labile Cfrac2,1.54,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Labile Cfrac2,1.32,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Labile Cfrac2,1.69,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Labile Cfrac2,1.56,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,40-60,Labile Cfrac2,1.88,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,40-60,Labile Cfrac2,2.08,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Labile Cfrac2,1.43,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Labile Cfrac2,2.34,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Labile Cfrac2,2.18,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,0-20,Less-labile Cfrac3,5.48,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,0-20,Less-labile Cfrac3,5.37,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Less-labile Cfrac3,5.14,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Less-labile Cfrac3,5.32,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Less-labile Cfrac3,5.79,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,20-40,Less-labile Cfrac3,4.86,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,20-40,Less-labile Cfrac3,4.55,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Less-labile Cfrac3,4.62,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Less-labile Cfrac3,4.62,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Less-labile Cfrac3,4.68,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,40-60,Less-labile Cfrac3,1.43,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,40-60,Less-labile Cfrac3,1.54,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Less-labile Cfrac3,1.44,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Less-labile Cfrac3,1.47,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Less-labile Cfrac3,1.55,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,0-20,Less-labile Cfrac3,2.78,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,0-20,Less-labile Cfrac3,3.09,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Less-labile Cfrac3,2.64,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Less-labile Cfrac3,2.97,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Less-labile Cfrac3,3.21,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,20-40,Less-labile Cfrac3,3.37,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,20-40,Less-labile Cfrac3,2.84,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Less-labile Cfrac3,2.94,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Less-labile Cfrac3,3.18,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Less-labile Cfrac3,3.19,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,40-60,Less-labile Cfrac3,1.02,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,40-60,Less-labile Cfrac3,0.99,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Less-labile Cfrac3,0.89,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Less-labile Cfrac3,1.1,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Less-labile Cfrac3,1.03,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,0-20,Non-labile Cfrac4,5.24,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,0-20,Non-labile Cfrac4,4.79,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Non-labile Cfrac4,4.83,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Non-labile Cfrac4,4.98,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Non-labile Cfrac4,5.24,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,20-40,Non-labile Cfrac4,2.93,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,20-40,Non-labile Cfrac4,2.79,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Non-labile Cfrac4,2.88,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Non-labile Cfrac4,2.91,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Non-labile Cfrac4,2.8,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,40-60,Non-labile Cfrac4,1.88,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,40-60,Non-labile Cfrac4,1.82,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Non-labile Cfrac4,1.76,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Non-labile Cfrac4,1.86,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Non-labile Cfrac4,2.01,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,0-20,Non-labile Cfrac4,3.45,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,0-20,Non-labile Cfrac4,3.77,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Non-labile Cfrac4,3.35,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Non-labile Cfrac4,3.57,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Non-labile Cfrac4,3.91,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,20-40,Non-labile Cfrac4,2.8,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,20-40,Non-labile Cfrac4,2.85,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Non-labile Cfrac4,2.88,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Non-labile Cfrac4,2.71,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Non-labile Cfrac4,2.9,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,40-60,Non-labile Cfrac4,1.50,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,40-60,Non-labile Cfrac4,1.52,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Non-labile Cfrac4,1.39,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Non-labile Cfrac4,1.44,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Non-labile Cfrac4,1.69,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,SOC_method,wet oxidation method,,"p3, Methods",,end_soil,total organic C calculated as oxidizable organic carbon x 1.33,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,SOC_method,modified Walkley and Black method,,"p3, Methods",,end_soil,for organic C fractions in surface and sub-surface depths,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,0-20,TOC,17.29,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,0-20,TOC,18.42,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,TOC,16.08,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,TOC,18.09,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,TOC,19.57,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,20-40,TOC,14.73,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,20-40,TOC,14.47,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,TOC,13.38,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,TOC,15.50,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,TOC,15.74,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,40-60,TOC,6.34,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,40-60,TOC,6.30,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,TOC,6.29,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,TOC,6.33,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,TOC,6.43,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,0-20,TOC,14.69,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,0-20,TOC,16.67,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,TOC,13.32,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,TOC,15.99,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,TOC,17.73,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,20-40,TOC,11.18,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,20-40,TOC,10.78,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,TOC,10.42,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,TOC,11.17,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,TOC,11.53,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,40-60,TOC,6.05,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,40-60,TOC,6.13,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,TOC,5.3,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,TOC,6.37,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,TOC,6.6,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,0-20,Very-labile Cfrac1,3.59,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,0-20,Very-labile Cfrac1,4.85,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Very-labile Cfrac1,3.58,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Very-labile Cfrac1,4.33,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Very-labile Cfrac1,4.94,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,20-40,Very-labile Cfrac1,3.89,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,20-40,Very-labile Cfrac1,4.08,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Very-labile Cfrac1,3.07,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Very-labile Cfrac1,4.75,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Very-labile Cfrac1,5.14,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W,,40-60,Very-labile Cfrac1,1.53,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",R–W–R–C,,40-60,Very-labile Cfrac1,1.45,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Very-labile Cfrac1,1.54,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Very-labile Cfrac1,1.55,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Very-labile Cfrac1,1.38,,"p5, Table 3",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,0-20,Very-labile Cfrac1,5.37,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,0-20,Very-labile Cfrac1,6.32,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,0-20,Very-labile Cfrac1,4.36,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,0-20,Very-labile Cfrac1,6.18,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,0-20,Very-labile Cfrac1,6.98,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,20-40,Very-labile Cfrac1,3.61,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,20-40,Very-labile Cfrac1,3.55,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,20-40,Very-labile Cfrac1,3.28,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,20-40,Very-labile Cfrac1,3.59,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,20-40,Very-labile Cfrac1,3.88,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W,,40-60,Very-labile Cfrac1,1.65,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",M–W–M–C,,40-60,Very-labile Cfrac1,1.54,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",CT,,40-60,Very-labile Cfrac1,1.59,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,40-60,Very-labile Cfrac1,1.49,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,40-60,Very-labile Cfrac1,1.70,,"p6, Table 4",,end_soil,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,soil_sampling_date,after harvesting the last crop in the crop cycle,,"p3, Methods",,end_soil,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,0-20,soil_sampling_depth,0–0.2,m,"p3, Methods",,end_soil,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,20-40,soil_sampling_depth,0.2–0.4,m,"p3, Methods",,end_soil,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,40-60,soil_sampling_depth,0.4–0.6,m,"p3, Methods",,end_soil,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,60-80,soil_sampling_depth,0.6–0.8,m,"p3, Methods",,end_soil,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Crop residue,36.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Crop residue,43.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Crop residue,36.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Crop residue,43.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,K,142.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,K,146.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,K,122.3,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,K,142.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,N,240.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,N,103.6,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,N,190.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,N,107.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,N,240,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,N,91.6,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,N,190,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,N,109.9,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Nutrient rate (N–P–K),20–60–40,kg ha-1,"p3, Table 1",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Nutrient rate (N–P–K),20–60–40,kg ha-1,"p3, Table 1",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,P,25.9,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,P,26.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,P,18.9,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,P,22.3,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,S,20.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,S,24.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,S,20.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,S,28.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,S,20,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,S,10.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,S,20,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,S,16.1,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Total,43.3,Mg C ha-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Total,49.5,Mg C ha-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Total,42.7,Mg C ha-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Total,50.31,Mg C ha-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,Zn,4.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Zn,0.29,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,Zn,4.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Zn,0.40,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,Zn,4.20,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Zn,0.42,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RDF,,,Zn,4.20,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",ORG,,,Zn,0.50,kg ha-1 a-1,"p4, Table 2",,fertiliser,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,fertiliser_product,urea,,"p2, Methods",,fertiliser,N source,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,fertiliser_product,diammonium phosphate,,"p2, Methods",,fertiliser,P source,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,fertiliser_product,muriate of potash,,"p2, Methods",,fertiliser,K source,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,fertiliser_product,gypsum,,"p2, Methods",,fertiliser,S source,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,fertiliser_product,ZnSO4,,"p2, Methods",,fertiliser,Zn source,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,fertiliser_product,borax,,"p3, Methods",,fertiliser,B source,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",organic,,,fertiliser_timing,well in advanced before sowing of rainy season crops,,"p3, Methods",,fertiliser,FYM application timing,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",organic,,,manure_rate,5,Mg ha-1,"p3, Methods",,fertiliser,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",organic,,,manure_type,FYM,,"p3, Methods",,fertiliser,farmyard manure,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",organic,,,residue_management,"full crop residue of all component crops was chopped properly using a rotatory machine, then uniformly spread and mixed with the soil before sowing of the succeeding crop",,"p3, Methods",,fertiliser,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 8–10 25 DAT; 1/3 N at 45 DAT,,"p3, Table 1",,irrigation,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,irrigation,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,No of irrigation,N ? P ? K at basal 2,,"p3, Table 1",,irrigation,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 2 25 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,irrigation,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,irrigation,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,No of irrigation,N ? P ? K at basal 2,,"p3, Table 1",,irrigation,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Seed rate,40,kg ha-1,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Seed rate,100,kg ha-1,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Seed rate,70,kg ha-1,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Seed rate,18–20,kg ha-1,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Seed rate,100,kg ha-1,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Seed rate,70,kg ha-1,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Spacing,20,,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Spacing,22.5,,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Spacing,30,,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Spacing,50,,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Spacing,22.5,,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,,,Spacing,30,,"p3, Table 1",,site,,tables
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,climate,sub-humid tropical,,"p2, Methods",,site,annual rainfall 722 mm; mean annual max and min temperature 33.0 and 20.0 C,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,elevation,152.4,m above mean sea level,"p2, Methods",,site,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,experiment_start_year,2003,,"p2, Methods",2003,site,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,latitude,26°27'N,,"p2, Methods",,site,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,longitude,80°14'E,,"p2, Methods",,site,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,site_name,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",,"p2, Methods",,site,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",all,,,soil_type,Typic Ustochrept (Inceptisol) with sandy-loam texture,,"p2, Methods",,site,,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",MW,,,treatment_definition,MW,,"p2, Methods",,treatment,"maize–wheat rotation, upland",methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",MWMC,,,treatment_definition,MWMC,,"p2, Methods",,treatment,"maize–wheat–maize–chickpea rotation, upland",methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RW,,,treatment_definition,RW,,"p2, Methods",,treatment,"rice–wheat rotation, lowland",methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",RWRC,,,treatment_definition,RWRC,,"p2, Methods",,treatment,"rice–wheat–rice–chickpea rotation, lowland",methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",control,,,treatment_definition,control,,"p2, Methods",,treatment,control nutrient management,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",inorganic,,,treatment_definition,inorganic,,"p2, Methods",,treatment,inorganic NPKSZnB nutrient management,methods
+Ghosh_2017,"ICAR–Indian Institute of Pulses Research (ICAR–IIPR), Kanpur, India",organic,,,treatment_definition,organic,,"p2, Methods",,treatment,all crop residues incorporation + biofertilizers + farmyard manure (FYM) with 5 Mg ha-1,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,harvest_date,30th October,,"p3, Methods",2009,crop_yield,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,harvest_date,3rd November,,"p3, Methods",2010,crop_yield,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India","RNT-WCT, RNT-WNT",rice,,sowing_date,20th June,,"p3, Methods",,crop_yield,during both years,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India","RCT-WNT, RCT-WCT",rice,,transplanting_date,16th July,,"p3, Methods",2009,crop_yield,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India","RCT-WNT, RCT-WCT",rice,,transplanting_date,19th July,,"p3, Methods",2010,crop_yield,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,variety,PHB-71,,"p2, Methods",,crop_yield,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,wheat,,variety,HD 2824,,"p2, Methods",,crop_yield,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Available P,1.05,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Available P,1.43,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Available P,1.46,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Available P,1.87,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Clay,23.60,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Clay,23.10,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Clay,21.00,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Clay,22.30,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Dry bulk density,1.51,g/cm3,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Dry bulk density,1.63,g/cm3,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Dry bulk density,1.53,g/cm3,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Dry bulk density,2.53,g/cm3,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,SOC_method,Walkley and Black (1947),,"p4, Methods",,end_soil,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Sand,62.62,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Sand,64.61,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Sand,67.19,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Sand,60.47,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Silt,13.78,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Silt,12.29,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Silt,11.81,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Silt,17.23,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Soil organic C,0.33,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Soil organic C,0.62,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Soil organic C,0.79,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Soil organic C,0.99,%,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Texture,Sandy loam,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,Total N,0.38,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,Total N,0.62,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,Total N,0.53,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,Total N,0.58,mg/g,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,0-15,bulk_density_method,soil corer (6.5 cm diameter),,"p4, Methods",,end_soil,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,pH,7.39,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,pH,7.42,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,pH,7.26,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,pH,7.37,,"p3, Table 1",2009,end_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,0-15,soil_sampling_depth,15,cm,"p4, Methods",,end_soil,bulk density,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,K_rate,75,kg K2O,"p3, Methods",,fertiliser,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,N_rate,150,kg N,"p3, Methods",,fertiliser,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,P_rate,75,kg P2O5,"p3, Methods",,fertiliser,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,fertiliser_product,15:15:15 NPK complex,,"p3, Methods",,fertiliser,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,fertiliser_product,urea,,"p3, Methods",,fertiliser,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,fertiliser_timing,at the time of sowing or transplanting,,"p3, Methods",,fertiliser,P and K full dose and 50% of N,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,rice,,fertiliser_timing,critical tillering and panical initiation stages,,"p3, Methods",,fertiliser,two equal splits,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India","RNT-WCT, RNT-WNT",,,residue_management,20 cm straw standing,,"p2, Methods",,fertiliser,under no tillage,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India","RCT-WNT, RCT-WCT",,,residue_management,less than 5 cm shoot along with roots,,"p2, Methods",,fertiliser,conventional tillage,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Available P,1.23,mg/g,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Clay,26.30,%,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Dry bulk density,1.43,g/cm3,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Sand,58.49,%,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Silt,15.21,%,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Soil organic C,0.33,%,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Texture,Sandy loam,,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,Total N,0.32,mg/g,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,,,pH,7.30,,"p3, Table 1",2003,initial_soil,,tables
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,elevation,76.19,m above mean sea level,"p2, Methods",,site,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,experiment_end_year,2010,,"p2, Methods",,site,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,experiment_start_year,2003,,"p2, Methods",,site,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,latitude,25.14,°N,"p2, Methods",,site,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,longitude,82.03,°E,"p2, Methods",,site,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,site_name,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",,"p2, Methods",,site,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",all,,,soil_type,sandy loam,,"p2, Methods",,site,inceptisol,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WCT,wheat,,tillage_depth,30,cm,"p2, Methods",,tillage,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WCT,wheat,,tillage_implement,disk plough,,"p2, Methods",,tillage,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WCT,wheat,,tillage_implement,cultivator,,"p2, Methods",,tillage,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WNT,wheat,,tillage_implement,zero till drill,,"p2, Methods",,tillage,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT,rice,,tillage_implement,zero till drill,,"p2, Methods",,tillage,,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WCT,wheat,,tillage_passes,one,,"p2, Methods",,tillage,ploughing,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WCT,wheat,,tillage_passes,two,,"p2, Methods",,tillage,harrowings,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT,rice,,treatment_definition,RCT,,"p2, Methods",,treatment,transplanting of rice on puddle bed with repeated tillage,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT,rice,,treatment_definition,RNT,,"p2, Methods",,treatment,direct sowing of rice using zero till drill,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WCT,wheat,,treatment_definition,WCT,,"p2, Methods",,treatment,conventional tillage,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",WNT,wheat,,treatment_definition,WNT,,"p2, Methods",,treatment,zero till drill sowing,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WCT,,,treatment_definition,RCT-WCT,,"p2, Methods",,treatment,conventional tilling and puddling before transplanting of rice and conventional tilling before sowing of wheat,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RCT-WNT,,,treatment_definition,RCT-WNT,,"p2, Methods",,treatment,conventional tilling and puddling before rice transplanting and no tilling before sowing of wheat,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WCT,,,treatment_definition,RNT-WCT,,"p2, Methods",,treatment,no tilling before rice sowing and conventional tilling before wheat sowing,methods
+Pandey_2012,"agricultural research farm of the Institute of Agricultural Sciences, Banaras Hindu University, Varanasi, India",RNT-WNT,,,treatment_definition,RNT-WNT,,"p2, Methods",,treatment,no tilling before sowing of both rice and wheat,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,,Grain Yield,3983,kg/ha,"p22, Table 6A",2001,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,,Grain Yield,4069,kg/ha,"p22, Table 6A",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,,Grain Yield,4422,kg/ha,"p22, Table 6A",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,,Grain Yield,3914,kg/ha,"p22, Table 6A",2001,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,,Grain Yield,3871,kg/ha,"p22, Table 6A",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,,Grain Yield,4261,kg/ha,"p22, Table 6A",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Grain Yield,3778,kg/ha,"p22, Table 6A",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Grain Yield,4162,kg/ha,"p22, Table 6A",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Grain Yield,4038,kg/ha,"p22, Table 6A",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Grain Yield,4401,kg/ha,"p22, Table 6A",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Grain Yield,3919,kg/ha,"p22, Table 6A",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Grain Yield,4253,kg/ha,"p22, Table 6A",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Grain Yield,4146,kg/ha,"p22, Table 6A",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Grain Yield,4549,kg/ha,"p22, Table 6A",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3,,,Grain Yield,2022,kg/ha,"p22, Table 6B",2001,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3,,,Grain Yield,2128,kg/ha,"p22, Table 6B",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3,,,Grain Yield,2273,kg/ha,"p22, Table 6B",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4,,,Grain Yield,1688,kg/ha,"p22, Table 6B",2001,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4,,,Grain Yield,1455,kg/ha,"p22, Table 6B",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4,,,Grain Yield,1443,kg/ha,"p22, Table 6B",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Grain Yield,1496,kg/ha,"p22, Table 6B",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Grain Yield,1676,kg/ha,"p22, Table 6B",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Grain Yield,1839,kg/ha,"p22, Table 6B",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Grain Yield,1882,kg/ha,"p22, Table 6B",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Grain Yield,1770,kg/ha,"p22, Table 6B",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Grain Yield,1799,kg/ha,"p22, Table 6B",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Grain Yield,2061,kg/ha,"p22, Table 6B",2002,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Grain Yield,2075,kg/ha,"p22, Table 6B",2003,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1450,kg/ha,"p23, Table 7",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1698,kg/ha,"p23, Table 7",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1353,kg/ha,"p23, Table 7",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1554,kg/ha,"p23, Table 7",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1383,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1592,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1366,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1543,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0,,,Yield of Wheat,1398,kg/ha,"p23, Table 7",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1,,,Yield of Wheat,1629,kg/ha,"p23, Table 7",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Yield of Wheat,1419,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Yield of Wheat,1456,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Yield of Wheat,1481,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Yield of Wheat,1527,kg/ha,"p23, Table 7",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1705,kg/ha,"p24, Table 8",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1885,kg/ha,"p24, Table 8",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1556,kg/ha,"p24, Table 8",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1779,kg/ha,"p24, Table 8",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1680,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1932,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,,,Yield of Wheat,1589,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,,,Yield of Wheat,1696,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0,,,Yield of Wheat,1670,kg/ha,"p24, Table 8",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1,,,Yield of Wheat,1793,kg/ha,"p24, Table 8",2001–02,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Yield of Wheat,1679,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Yield of Wheat,1709,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Yield of Wheat,1721,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Yield of Wheat,1788,kg/ha,"p24, Table 8",2002–03,crop_yield,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,crop,Rice,,"p4, Methods",,crop_yield,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,crop,wheat,,"p4, Methods",,crop_yield,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,plant_spacing,20,cm apart,"p5, Methods",,crop_yield,direct-seeded rice,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,sowing_date,June,,"p5, Methods",,crop_yield,onset of monsoon,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,sowing_date,November,,"p6, Methods",,crop_yield,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,variety,IR36,,"p4, Methods",,crop_yield,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,variety,Sonalika,,"p4, Methods",,crop_yield,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Bulk density,1.69,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Bulk density,1.73,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Bulk density,1.75,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Bulk density,1.66,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Bulk density,1.72,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Bulk density,1.72,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Bulk density,1.65,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Bulk density,1.71,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Bulk density,1.73,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Bulk density,1.63,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Bulk density,1.72,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Bulk density,1.73,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Bulk density,1.68,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Bulk density,1.70,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Bulk density,1.71,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Bulk density,1.66,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Bulk density,1.7,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Bulk density,1.69,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Bulk density,1.67,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Bulk density,1.71,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Bulk density,1.72,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Bulk density,1.66,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Bulk density,1.72,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Bulk density,1.69,Mg/m3,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w0,,0-15,Bulk density,1.79,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w0,,15-30,Bulk density,1.78,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w0,,30-45,Bulk density,1.62,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w1,,0-15,Bulk density,1.75,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w1,,15-30,Bulk density,1.72,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w1,,30-45,Bulk density,1.63,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w0,,0-15,Bulk density,1.79,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w0,,15-30,Bulk density,1.78,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w0,,30-45,Bulk density,1.62,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w1,,0-15,Bulk density,1.75,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w1,,15-30,Bulk density,1.72,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w1,,30-45,Bulk density,1.63,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w0,,0-15,Bulk density,1.79,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w0,,15-30,Bulk density,1.78,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w0,,30-45,Bulk density,1.62,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w1,,0-15,Bulk density,1.75,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w1,,15-30,Bulk density,1.72,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w1,,30-45,Bulk density,1.63,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w0,,0-15,Bulk density,1.79,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w0,,15-30,Bulk density,1.78,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w0,,30-45,Bulk density,1.62,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w1,,0-15,Bulk density,1.75,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w1,,15-30,Bulk density,1.72,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w1,,30-45,Bulk density,1.63,Mg/m3,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,0-15,Bulk density,1.68,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,0-15,Bulk density,1.66,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,30-45,Bulk density,1.61,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,30-45,Bulk density,1.60,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,0-15,Bulk density,1.66,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,0-15,Bulk density,1.64,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,15-30,Bulk density,1.70,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,30-45,Bulk density,1.59,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,30-45,Bulk density,1.61,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,0-15,Bulk density,1.66,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,0-15,Bulk density,1.63,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,15-30,Bulk density,1.70,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,30-45,Bulk density,1.60,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,30-45,Bulk density,1.59,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,0-15,Bulk density,1.65,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,0-15,Bulk density,1.62,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,15-30,Bulk density,1.67,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,30-45,Bulk density,1.59,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,30-45,Bulk density,1.60,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,0-15,Bulk density,1.67,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,0-15,Bulk density,1.65,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,15-30,Bulk density,1.61,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,30-45,Bulk density,1.60,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,30-45,Bulk density,1.59,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,0-15,Bulk density,1.66,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,0-15,Bulk density,1.64,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,15-30,Bulk density,1.68,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,30-45,Bulk density,1.60,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,30-45,Bulk density,1.60,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,0-15,Bulk density,1.65,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,0-15,Bulk density,1.64,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,15-30,Bulk density,1.70,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,15-30,Bulk density,1.69,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,30-45,Bulk density,1.61,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,30-45,Bulk density,1.59,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,0-15,Bulk density,1.65,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,0-15,Bulk density,1.63,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,15-30,Bulk density,1.70,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,15-30,Bulk density,1.68,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,30-45,Bulk density,1.60,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,30-45,Bulk density,1.61,Mg/m3,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,SOC_method,modified Walkley-Black method,,"p6, Methods",,end_soil,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Saturated hydraulic conductivity,7.81,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Saturated hydraulic conductivity,6.68,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Saturated hydraulic conductivity,1.28,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Saturated hydraulic conductivity,7.85,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Saturated hydraulic conductivity,6.70,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Saturated hydraulic conductivity,1.26,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Saturated hydraulic conductivity,7.82,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Saturated hydraulic conductivity,6.72,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Saturated hydraulic conductivity,1.32,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,0-15,Saturated hydraulic conductivity,6.48,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,15-30,Saturated hydraulic conductivity,6.65,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,30-45,Saturated hydraulic conductivity,1.12,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Saturated hydraulic conductivity,8.24,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Saturated hydraulic conductivity,6.89,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Saturated hydraulic conductivity,1.40,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Saturated hydraulic conductivity,8.02,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Saturated hydraulic conductivity,6.94,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Saturated hydraulic conductivity,1.30,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Saturated hydraulic conductivity,8.15,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Saturated hydraulic conductivity,6.90,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Saturated hydraulic conductivity,1.42,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,0-15,Saturated hydraulic conductivity,7.96,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,15-30,Saturated hydraulic conductivity,6.82,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,30-45,Saturated hydraulic conductivity,1.25,cm/day,"p14, Table 3",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w0,,0-15,Saturated hydraulic conductivity,10.35,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w0,,15-30,Saturated hydraulic conductivity,6.72,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w0,,30-45,Saturated hydraulic conductivity,2.85,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w1,,0-15,Saturated hydraulic conductivity,9.64,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w1,,15-30,Saturated hydraulic conductivity,6.72,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r0w1,,30-45,Saturated hydraulic conductivity,2.26,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w0,,0-15,Saturated hydraulic conductivity,9.85,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w0,,15-30,Saturated hydraulic conductivity,6.85,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w0,,30-45,Saturated hydraulic conductivity,2.3,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w1,,0-15,Saturated hydraulic conductivity,8.92,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w1,,15-30,Saturated hydraulic conductivity,6.71,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3 r1w1,,30-45,Saturated hydraulic conductivity,2.36,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w0,,0-15,Saturated hydraulic conductivity,13.44,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w0,,15-30,Saturated hydraulic conductivity,7.95,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w0,,30-45,Saturated hydraulic conductivity,3.42,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w1,,0-15,Saturated hydraulic conductivity,12.89,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w1,,15-30,Saturated hydraulic conductivity,8.24,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r0w1,,30-45,Saturated hydraulic conductivity,3.55,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w0,,0-15,Saturated hydraulic conductivity,12.76,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w0,,15-30,Saturated hydraulic conductivity,8.36,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w0,,30-45,Saturated hydraulic conductivity,3.21,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w1,,0-15,Saturated hydraulic conductivity,10.68,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w1,,15-30,Saturated hydraulic conductivity,6.62,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4 r1w1,,30-45,Saturated hydraulic conductivity,1.57,cm/day,"p15, Table 4",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,0-15,Saturated hydraulic conductivity,12.82,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,0-15,Saturated hydraulic conductivity,13.52,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,15-30,Saturated hydraulic conductivity,7.52,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,15-30,Saturated hydraulic conductivity,7.64,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,30-45,Saturated hydraulic conductivity,2.85,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w0,,30-45,Saturated hydraulic conductivity,2.98,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,0-15,Saturated hydraulic conductivity,12.90,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,0-15,Saturated hydraulic conductivity,13.82,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,15-30,Saturated hydraulic conductivity,7.57,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,15-30,Saturated hydraulic conductivity,7.84,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,30-45,Saturated hydraulic conductivity,3.20,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r0w1,,30-45,Saturated hydraulic conductivity,3.27,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,0-15,Saturated hydraulic conductivity,12.95,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,0-15,Saturated hydraulic conductivity,13.89,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,15-30,Saturated hydraulic conductivity,7.96,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,15-30,Saturated hydraulic conductivity,8.12,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,30-45,Saturated hydraulic conductivity,3.20,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w0,,30-45,Saturated hydraulic conductivity,3.18,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,0-15,Saturated hydraulic conductivity,13.18,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,0-15,Saturated hydraulic conductivity,14.10,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,15-30,Saturated hydraulic conductivity,6.44,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,15-30,Saturated hydraulic conductivity,6.32,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,30-45,Saturated hydraulic conductivity,1.85,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0 r1w1,,30-45,Saturated hydraulic conductivity,1.24,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,0-15,Saturated hydraulic conductivity,12.51,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,0-15,Saturated hydraulic conductivity,12.40,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,15-30,Saturated hydraulic conductivity,7.44,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,15-30,Saturated hydraulic conductivity,7.31,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,30-45,Saturated hydraulic conductivity,1.26,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w0,,30-45,Saturated hydraulic conductivity,1.26,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,0-15,Saturated hydraulic conductivity,12.70,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,0-15,Saturated hydraulic conductivity,12.50,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,15-30,Saturated hydraulic conductivity,6.62,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,15-30,Saturated hydraulic conductivity,6.85,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,30-45,Saturated hydraulic conductivity,2.15,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r0w1,,30-45,Saturated hydraulic conductivity,1.95,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,0-15,Saturated hydraulic conductivity,12.82,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,0-15,Saturated hydraulic conductivity,12.62,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,15-30,Saturated hydraulic conductivity,6.65,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,15-30,Saturated hydraulic conductivity,6.92,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,30-45,Saturated hydraulic conductivity,2.60,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w0,,30-45,Saturated hydraulic conductivity,2.58,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,0-15,Saturated hydraulic conductivity,12.96,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,0-15,Saturated hydraulic conductivity,12.80,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,15-30,Saturated hydraulic conductivity,7.14,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,15-30,Saturated hydraulic conductivity,7.24,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,30-45,Saturated hydraulic conductivity,2.50,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1 r1w1,,30-45,Saturated hydraulic conductivity,2.54,cm/day,"p16, Table 5",2002-03,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,,,Soil organic carbon,3.41,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,,,Soil organic carbon,3.57,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3,,,Soil organic carbon,3.90,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4,,,Soil organic carbon,3.96,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Soil organic carbon,3.14,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Soil organic carbon,3.63,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Soil organic carbon,3.51,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Soil organic carbon,3.67,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,Soil organic carbon,3.28,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,Soil organic carbon,4.17,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,Soil organic carbon,4.00,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,Soil organic carbon,4.27,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N0,,,Soil organic carbon,3.16,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N40,,,Soil organic carbon,3.20,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N60,,,Soil organic carbon,3.40,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N80,,,Soil organic carbon,3.48,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N100,,,Soil organic carbon,3.78,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N120,,,Soil organic carbon,3.92,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N0,,,Soil organic carbon,3.70,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N40,,,Soil organic carbon,3.79,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N60,,,Soil organic carbon,3.87,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N80,,,Soil organic carbon,3.98,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N100,,,Soil organic carbon,4.08,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",N120,,,Soil organic carbon,4.16,g/kg,"p10, Table 2",2003,end_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,bulk_density_method,principles of Blake,,"p7, Methods",,end_soil,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,soil_sampling_date,October 2003,,"p6, Methods",2003,end_soil,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,0-15,soil_sampling_depth,0–15,cm,"p6, Methods",,end_soil,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,150-30,soil_sampling_depth,150–30,cm,"p6, Methods",,end_soil,as written in text,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,30-45,soil_sampling_depth,30–45,cm,"p6, Methods",,end_soil,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,K_rate,50,kg,"p5, Methods",,fertiliser,K2O,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,N_rate,0,kg N/ha,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,N_rate,40,kg N/ha,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,N_rate,60,kg N/ha,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,N_rate,80,kg N/ha,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,N_rate,100,kg N/ha,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,N_rate,120,kg N/ha,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,P_rate,50,kg,"p5, Methods",,fertiliser,P2O5,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,fertiliser_product,single super phosphate,,"p6, Methods",,fertiliser,P source,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,fertiliser_product,mureate of potash,,"p6, Methods",,fertiliser,K source,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,fertiliser_product,urea,,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,fertiliser_timing,two equal splits at active tillering and booting stages,,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,fertiliser_timing,crown root initiation and panicle initiation stages,,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,manure_rate,0,tonnes/ha,"p6, Methods",,fertiliser,wheat straw,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,manure_rate,4,tonnes/ha,"p6, Methods",,fertiliser,wheat straw,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,manure_rate,0,tonnes/ha,"p6, Methods",,fertiliser,rice straw,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,manure_rate,4,tonnes/ha,"p6, Methods",,fertiliser,rice straw,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,residue_management,incorporated,,"p6, Methods",,fertiliser,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Bulk density,1.62,Mg/m,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Bulk density,1.56,Mg/m,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Bulk density,1.59,Mg/m,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Cation exchange capacity,8.1,cmol./kg,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Cation exchange capacity,9.2,cmol./kg,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Cation exchange capacity,9.6,cmol./kg,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Clay,14.3,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Clay,21.0,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Clay,27.3,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Organic carbon,0.36,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Organic carbon,0.32,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Organic carbon,0.22,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Sand,59.5,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Sand,59.7,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Sand,52.5,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Saturated hydraulic conductivity,9.82,cm/day,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Saturated hydraulic conductivity,6.74,cm/day,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Saturated hydraulic conductivity,0.91,cm/day,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Silt,26.2,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Silt,19.3,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Silt,20.2,%,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Soil strength,9.8,kg/sq. cm,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Soil strength,12.9,kg/sq. cm,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Soil strength,14.0,kg/sq. cm,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,Total nitrogen,0.04,g/kg,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,Total nitrogen,0.05,g/kg,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,Total nitrogen,0.06,g/kg,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,0-15,pH,5.5,,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,15-30,pH,5.6,,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,,30-45,pH,5.8,,"p5, Table 1",,initial_soil,,tables
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,irrigation_amount,6,cm water,"p6, Methods",,irrigation,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,wheat,,irrigation_timing,IW/CPE ratios of 1.0,,"p6, Methods",,irrigation,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,climate,"subhumid, subtropical",,"p4, Methods",,site,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,elevation,48,m above the mean sea level,"p4, Methods",,site,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,experiment_end_year,2003,,"p4, Methods",,site,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,experiment_start_year,2001,,"p4, Methods",,site,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,latitude,22°19′N,,"p4, Methods",,site,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,longitude,87°19′E,,"p4, Methods",,site,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,site_name,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",,"p4, Methods",,site,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,,,soil_type,Haplustalf,,"p4, Methods",,site,acid lateritic sandy loam,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3,rice,0-15,tillage_depth,15,cm,"p5, Methods",,tillage,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4,rice,0-7.5,tillage_depth,7.5,cm,"p5, Methods",,tillage,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,wheat,0-15,tillage_depth,15,cm,"p6, Methods",,tillage,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,wheat,0-7.5,tillage_depth,7.5,cm,"p6, Methods",,tillage,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3,rice,,tillage_implement,tractor-drawn cultivator followed by disc harrow,,"p5, Methods",,tillage,intensive dry tillage,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4,rice,,tillage_implement,tractor-drawn cultivator,,"p5, Methods",,tillage,less intensive dry tillage,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,rice,,tillage_implement,tractor-drawn rotavator,,"p5, Methods",,tillage,intensive puddling,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,rice,,tillage_implement,power tiller,,"p5, Methods",,tillage,less intensive puddling,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,wheat,,tillage_implement,cultivator + disc harrow,,"p6, Methods",,tillage,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,wheat,,tillage_implement,cultivator,,"p6, Methods",,tillage,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",all,rice,,tillage_timing,onset of monsoon (in June),,"p5, Methods",,tillage,,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T3,rice,,treatment_definition,T3,,"p5, Methods",,treatment,"intensive dry tillage, up to 15 cm of depth",methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T4,rice,,treatment_definition,T4,,"p5, Methods",,treatment,"less intensive dry tillage, up to 7.5 cm of depth",methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T1,rice,,treatment_definition,T1,,"p5, Methods",,treatment,intensive puddling by tractor-drawn rotavator,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",T2,rice,,treatment_definition,T2,,"p5, Methods",,treatment,less intensive puddling by power tiller,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w0,,,treatment_definition,r0w0,,"p6, Methods",,treatment,no residue,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w0,,,treatment_definition,r1w0,,"p6, Methods",,treatment,rice residue,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r0w1,,,treatment_definition,r0w1,,"p6, Methods",,treatment,wheat residue,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",r1w1,,,treatment_definition,r1w1,,"p6, Methods",,treatment,both rice and wheat residues,methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t1,wheat,,treatment_definition,t1,,"p6, Methods",,treatment,"cultivator + disc harrow, up to 15 cm depth",methods
+Sarkar_2011,"experimental farm of Agricultural & Food Engineering Department, Indian Institute of Technology, Kharagpur",t0,wheat,,treatment_definition,t0,,"p6, Methods",,treatment,"cultivator, up to 7.5 cm depth",methods

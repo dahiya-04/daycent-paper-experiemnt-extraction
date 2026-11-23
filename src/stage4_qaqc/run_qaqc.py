@@ -21,6 +21,7 @@ Checks:
 Run: python src/stage4_qaqc/run_qaqc.py
 """
 import re
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -227,6 +228,9 @@ def unused_rules(rules):
 
 # ---------------------------------------------------------------- main
 def main():
+    global PAPERS
+    if len(sys.argv) > 1:              # paper names given by the pipeline
+        PAPERS = sys.argv[1:]
     data = load_data()
     rules = load_rules()
 

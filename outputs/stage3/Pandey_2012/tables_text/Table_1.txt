@@ -2,7 +2,7 @@
 Table 1
 Average soil properties at time of sowing/transplanting rice in 2003 and in 2009 (mean ± 1SE). Different letters in a row indicate that means of 2009 are different from each
 other in accordance with Duncan’s test (p < 0.5).
-2003 2009 2009 2009 2009 2009
+2003 2009
 RCT-WCT RCT-WCT RNT-WCT RCT-WNT RNT-WNT
 pH 7.30 ± 0.01 7.39 ± 0.08ns 7.42 ± 0.07ns 7.26 ± 0.10ns 7.37 ± 0.04ns
 Dry bulk density (g/cm3) 1.43 ± 0.01 1.51 ± 0.01c 1.63 ± 0.01b 1.53 ± 0.10c 2.53 ± 0.01a
