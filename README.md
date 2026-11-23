@@ -143,6 +143,18 @@ The `.env` file is in `.gitignore`, so the key is never uploaded. To test that t
 python test_api.py
 ```
 
+To use GPT-6 Astra on Azure instead (see section 5.4), add these lines to `.env`:
+
+```
+AZURE_OPENAI_API_KEY=your-azure-key
+AZURE_OPENAI_BASE_URL=https://your-resource.openai.azure.com/openai/v1/
+AZURE_OPENAI_DEPLOYMENT=your-deployment-name
+LLM_PROVIDER=azure
+```
+
+`LLM_PROVIDER=goedel` switches back to DeepSeek. The choice is made in `src/llm_client.py`.
+Test the Azure connection with `python test_azure.py`.
+
 ### 2.4 The papers
 
 The PDF files are not in this repository because they are copyrighted. Put them in
@@ -342,6 +354,49 @@ them with the PDFs. The check was done with help from an AI assistant, and I che
 | Whole row | 23 / 30 | 0 | 76.7 % | 59.1–88.2 % |
 
 All the numbers were correct. All the mistakes were in the treatment names.
+
+### 5.4 Trying a stronger model: GPT-6 Astra
+
+I built and tested the pipeline with DeepSeek v4.1 Flash because I had a cost limit:
+it is free on my student key, and it was good enough to try out every step. Later I ran
+the same pipeline with GPT-6 Astra on Microsoft Azure. I only changed one setting in
+`.env`. The prompts, the code checks, the QAQC rules and the hand-check method stayed the
+same. This shows that the pipeline design works: the model can be swapped without
+rewriting anything, and the same checks still find the problems.
+
+| Measure | DeepSeek v4.1 Flash | GPT-6 Astra |
+|---|---:|---:|
+| Pandey Fig. 8 (only rice yield) kept for extraction | no | yes |
+| Rows in the final data | 712 | 804 |
+| Rows from the Methods text | 139 | 207 |
+| Ghosh tillage rows (found in the Methods text) | 0 | 12 |
+| QAQC WARN | 85 | 40 |
+| QAQC FAIL | 16 | 13 |
+| Rows with a lost treatment name (duplicate check) | 54 | 6 |
+| Hand-check: values correct | 30 / 30 (100 %) | 30 / 30 (100 %) |
+| Hand-check: whole row correct | 23 / 30 (77 %, range 59–88 %) | 28 / 30 (93 %, range 79–98 %) |
+| Temperature 0 (repeatable answers) | yes | no (only the default) |
+| Cost | free (student key) | paid (Azure) |
+
+Both models copied every number correctly. The big difference is the treatment names:
+DeepSeek often lost them in tables with grouped rows, and GPT-6 Astra kept them
+(54 rows down to 6). GPT-6 Astra also took more detail from the Methods text.
+
+It was not perfect. It wrote some extra words into variable names (for example
+"Soil organic carbon under TWF"), so one of my QAQC rules did not match, and it copied the
+broken latitude text from the PDF ("26270N"). The QAQC checks caught both.
+
+So for this pilot I kept DeepSeek, because of the cost limit. To scale this to many
+papers, I would use GPT-6 Astra (or a similar stronger model), because fixing lost
+treatment names by hand would take much more time than the model costs.
+
+Two notes: the two hand-check ranges overlap, so with 30 rows the difference is likely but
+not proven; the duplicate count, which covers all rows, is the stronger evidence. Both
+hand-checks were done with help from an AI assistant.
+
+The `main` branch holds the DeepSeek run. The full GPT-6 Astra run (all outputs, the
+combined file `outputs/final/all_data_gpt6.csv` and its hand-check) is on the
+`azure-gpt6` branch.
 
 ---
 

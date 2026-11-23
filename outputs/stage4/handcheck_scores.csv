@@ -1,6 +1,6 @@
 ﻿group,field,correct,wrong,not_applicable,accuracy_%,95%_low,95%_high
 all 30 sampled rows,value_ok,30,0,0,100.0,88.6,100.0
 all 30 sampled rows,unit_ok,13,0,17,100.0,77.2,100.0
-all 30 sampled rows,treatment_ok,23,7,0,76.7,59.1,88.2
-all 30 sampled rows,depth_year_ok,17,0,13,100.0,81.6,100.0
-all 30 sampled rows,row_ok,23,7,0,76.7,59.1,88.2
+all 30 sampled rows,treatment_ok,28,2,0,93.3,78.7,98.2
+all 30 sampled rows,depth_year_ok,16,0,14,100.0,80.6,100.0
+all 30 sampled rows,row_ok,28,2,0,93.3,78.7,98.2

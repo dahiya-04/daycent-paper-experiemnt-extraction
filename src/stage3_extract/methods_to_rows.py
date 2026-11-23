@@ -23,9 +23,8 @@ import pymupdf
 from dotenv import load_dotenv
 from openai import OpenAI
 
-BASE_URL = "https://api.goedelmachines.com/v1"
-MODEL = "deepseek/deepseek-v4.1-flash"
-TEMPERATURE = 0
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))   # find src/llm_client.py
+from llm_client import MODEL, TEMPERATURE, make_client, model_kwargs   # model chosen in .env
 PROMPT_FILE = Path("prompts/methods_to_rows_v2.txt")
 
 # A value that is really a LIST: number, then ", " or " and " or "&", then a number.
@@ -94,8 +93,7 @@ def text_per_page(methods_text):
 
 def ask_ai(client, prompt):
     resp = client.chat.completions.create(
-        model=MODEL,
-        temperature=TEMPERATURE,
+        **model_kwargs(),
         messages=[{"role": "user", "content": prompt}],
         response_format={"type": "json_object"},
     )
@@ -156,8 +154,7 @@ def main():
 
     # --- Part 2: send it to the AI ---
     template = PROMPT_FILE.read_text(encoding="utf-8")
-    load_dotenv()
-    client = OpenAI(base_url=BASE_URL, api_key=os.environ["GOEDEL_API_KEY"])
+    client = make_client()
     try:
         rows = ask_ai(client, template.replace("{methods_text}", methods_text)).get("rows", [])
     except Exception as e:                                  # API down, bad JSON, answer cut off ...

@@ -9,9 +9,8 @@ import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
 
-BASE_URL = "https://api.goedelmachines.com/v1"
-MODEL = "deepseek/deepseek-v4.1-flash"
-TEMPERATURE = 0
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))   # find src/llm_client.py
+from llm_client import MODEL, TEMPERATURE, make_client, model_kwargs   # model chosen in .env
 PROMPT_FILE = Path("prompts/table_to_rows_v1.txt")
 
 ALLOWED_CATEGORIES = {"site", "initial_soil", "end_soil", "crop_yield",
@@ -23,8 +22,7 @@ NEEDED_KEYS = ["treatment", "depth_cm", "variable", "value", "unit",
 def ask_ai(client, prompt):
     """Send the prompt, return the AI answer as a Python dict."""
     resp = client.chat.completions.create(
-        model=MODEL,
-        temperature=TEMPERATURE,
+        **model_kwargs(),
         messages=[{"role": "user", "content": prompt}],
         response_format={"type": "json_object"},
     )
@@ -70,8 +68,7 @@ def main():
     files = sorted((folder / "tables_text").glob("*.txt"))
     template = PROMPT_FILE.read_text(encoding="utf-8")
 
-    load_dotenv()
-    client = OpenAI(base_url=BASE_URL, api_key=os.environ["GOEDEL_API_KEY"])
+    client = make_client()
 
     all_rows = []
     for file in files:

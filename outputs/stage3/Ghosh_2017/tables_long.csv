@@ -1,271 +1,251 @@
 ﻿paper_name,Site_name,treatment,depth_cm,variable,value,unit,Source,year,category,value_text,Check,Model,Temperature,Prompt file,Run date
-Ghosh_2017,,,,Seed rate,40,kg ha-1,"p3, Table 1",,site,40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Spacing,20,,"p3, Table 1",,site,20,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 8–10 25 DAT; 1/3 N at 45 DAT,,"p3, Table 1",,irrigation,1/3 N ? P ? K at basal; 1/3 N at 8–10 25 DAT; 1/3 N at 45 DAT,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Seed rate,100,kg ha-1,"p3, Table 1",,site,100,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Spacing,22.5,,"p3, Table 1",,site,22.5,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Seed rate,70,kg ha-1,"p3, Table 1",,site,70,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Spacing,30,,"p3, Table 1",,site,30,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Nutrient rate (N–P–K),20–60–40,kg ha-1,"p3, Table 1",,fertiliser,20–60–40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,No of irrigation,N ? P ? K at basal 2,,"p3, Table 1",,irrigation,N ? P ? K at basal 2,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Seed rate,18–20,kg ha-1,"p3, Table 1",,site,18–20,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Spacing,50,,"p3, Table 1",,site,50,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 2 25 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,irrigation,1/3 N ? P ? K at basal; 1/3 N at 2 25 DAS; 1/3 N at 45 DAS,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Seed rate,100,kg ha-1,"p3, Table 1",,site,100,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Spacing,22.5,,"p3, Table 1",,site,22.5,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,No of irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,irrigation,1/3 N ? P ? K at basal; 1/3 N at 5 21 DAS; 1/3 N at 45 DAS,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Seed rate,70,kg ha-1,"p3, Table 1",,site,70,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Spacing,30,,"p3, Table 1",,site,30,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,Nutrient rate (N–P–K),20–60–40,kg ha-1,"p3, Table 1",,fertiliser,20–60–40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,,,No of irrigation,N ? P ? K at basal 2,,"p3, Table 1",,irrigation,N ? P ? K at basal 2,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,N,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,P,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,K,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,S,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Zn,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,N,240.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,240.0,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,52.4,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,43.7,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,S,20.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,20.0,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Zn,4.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,4.2,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,N,103.6,kg ha-1 a-1,"p4, Table 2",,fertiliser,103.6,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,P,25.9,kg ha-1 a-1,"p4, Table 2",,fertiliser,25.9,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,K,142.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,142.5,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,S,24.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,24.4,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Zn,0.29,kg ha-1 a-1,"p4, Table 2",,fertiliser,0.29,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,6.5a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Crop residue,36.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,36.8b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Total,43.3,Mg C ha-1,"p4, Table 2",,fertiliser,43.3b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,N,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,P,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,K,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,S,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Zn,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,N,190.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,190.0,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,52.4,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,43.7,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,S,20.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,20.0,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Zn,4.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,4.2,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,N,107.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,107.0,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,P,26.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,26.8,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,K,146.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,146.0,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,S,28.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,28.2,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Zn,0.40,kg ha-1 a-1,"p4, Table 2",,fertiliser,0.40,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,6.5a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Crop residue,43.0,kg ha-1 a-1,"p4, Table 2",,fertiliser,43.0a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Total,49.5,Mg C ha-1,"p4, Table 2",,fertiliser,49.5a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,N,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,P,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,K,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,S,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Zn,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,N,240,kg ha-1 a-1,"p4, Table 2",,fertiliser,240,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,52.4,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,43.7,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,S,20,kg ha-1 a-1,"p4, Table 2",,fertiliser,20,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Zn,4.20,kg ha-1 a-1,"p4, Table 2",,fertiliser,4.20,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,N,91.6,kg ha-1 a-1,"p4, Table 2",,fertiliser,91.6,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,P,18.9,kg ha-1 a-1,"p4, Table 2",,fertiliser,18.9,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,K,122.3,kg ha-1 a-1,"p4, Table 2",,fertiliser,122.3,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,S,10.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,10.8,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Zn,0.42,kg ha-1 a-1,"p4, Table 2",,fertiliser,0.42,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,6.5a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Crop residue,36.2,kg ha-1 a-1,"p4, Table 2",,fertiliser,36.2b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Total,42.7,Mg C ha-1,"p4, Table 2",,fertiliser,42.7b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,N,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,P,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,K,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,S,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Zn,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,N,190,kg ha-1 a-1,"p4, Table 2",,fertiliser,190,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",,fertiliser,52. 4,NEEDS HUMAN REVIEW: value does not match the number in value_text,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",,fertiliser,43. 7,NEEDS HUMAN REVIEW: value does not match the number in value_text,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,S,20,kg ha-1 a-1,"p4, Table 2",,fertiliser,20,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Zn,4.20,kg ha-1 a-1,"p4, Table 2",,fertiliser,4.20,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,FYM,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Crop residue,,kg ha-1 a-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,,Total,,Mg C ha-1,"p4, Table 2",,fertiliser,-,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,N,109.9,kg ha-1 a-1,"p4, Table 2",,fertiliser,109.9,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,P,22.3,kg ha-1 a-1,"p4, Table 2",,fertiliser,22.3,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,K,142.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,142.5,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,S,16.1,kg ha-1 a-1,"p4, Table 2",,fertiliser,16.1,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Zn,0.50,kg ha-1 a-1,"p4, Table 2",,fertiliser,0.50,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,FYM,6.5,kg ha-1 a-1,"p4, Table 2",,fertiliser,6.5a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Crop residue,43.8,kg ha-1 a-1,"p4, Table 2",,fertiliser,43.8a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,,Total,50.31,Mg C ha-1,"p4, Table 2",,fertiliser,50.31a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,0-20,Very-labile Cfrac1,3.59,,"p5, Table 3",,end_soil,3.59b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,0-20,Very-labile Cfrac1,4.85,,"p5, Table 3",,end_soil,4.85a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Very-labile Cfrac1,3.58,,"p5, Table 3",,end_soil,3.58c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Very-labile Cfrac1,4.33,,"p5, Table 3",,end_soil,4.33b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Very-labile Cfrac1,4.94,,"p5, Table 3",,end_soil,4.94a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,0-20,Labile Cfrac2,2.98,,"p5, Table 3",,end_soil,2.98b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,0-20,Labile Cfrac2,3.41,,"p5, Table 3",,end_soil,3.41a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Labile Cfrac2,2.53,,"p5, Table 3",,end_soil,2.53b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Labile Cfrac2,3.46,,"p5, Table 3",,end_soil,3.46ab,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Labile Cfrac2,3.60,,"p5, Table 3",,end_soil,3.60a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,0-20,Less-labile Cfrac3,5.48,,"p5, Table 3",,end_soil,5.48a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,0-20,Less-labile Cfrac3,5.37,,"p5, Table 3",,end_soil,5.37a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Less-labile Cfrac3,5.14,,"p5, Table 3",,end_soil,5.14b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Less-labile Cfrac3,5.32,,"p5, Table 3",,end_soil,5.32ab,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Less-labile Cfrac3,5.79,,"p5, Table 3",,end_soil,5.79a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,0-20,Non-labile Cfrac4,5.24,,"p5, Table 3",,end_soil,5.24a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,0-20,Non-labile Cfrac4,4.79,,"p5, Table 3",,end_soil,4.79a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Non-labile Cfrac4,4.83,,"p5, Table 3",,end_soil,4.83b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Non-labile Cfrac4,4.98,,"p5, Table 3",,end_soil,4.98b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Non-labile Cfrac4,5.24,,"p5, Table 3",,end_soil,5.24a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,0-20,TOC,17.29,,"p5, Table 3",,end_soil,17.29b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,0-20,TOC,18.42,,"p5, Table 3",,end_soil,18.42a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,TOC,16.08,,"p5, Table 3",,end_soil,16.08c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,TOC,18.09,,"p5, Table 3",,end_soil,18.09b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,TOC,19.57,,"p5, Table 3",,end_soil,19.57a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,20-40,Very-labile Cfrac1,3.89,,"p5, Table 3",,end_soil,3.89a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,20-40,Very-labile Cfrac1,4.08,,"p5, Table 3",,end_soil,4.08a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Very-labile Cfrac1,3.07,,"p5, Table 3",,end_soil,3.07c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Very-labile Cfrac1,4.75,,"p5, Table 3",,end_soil,4.75b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Very-labile Cfrac1,5.14,,"p5, Table 3",,end_soil,5.14a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,20-40,Labile Cfrac2,3.05,,"p5, Table 3",,end_soil,3.05a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,20-40,Labile Cfrac2,3.05,,"p5, Table 3",,end_soil,3.05a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Labile Cfrac2,2.81,,"p5, Table 3",,end_soil,2.81a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Labile Cfrac2,3.22,,"p5, Table 3",,end_soil,3.22a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Labile Cfrac2,3.12,,"p5, Table 3",,end_soil,3.12a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,20-40,Less-labile Cfrac3,4.86,,"p5, Table 3",,end_soil,4.86a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,20-40,Less-labile Cfrac3,4.55,,"p5, Table 3",,end_soil,4.55a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Less-labile Cfrac3,4.62,,"p5, Table 3",,end_soil,4.62a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Less-labile Cfrac3,4.62,,"p5, Table 3",,end_soil,4.62a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Less-labile Cfrac3,4.68,,"p5, Table 3",,end_soil,4.68a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,20-40,Non-labile Cfrac4,2.93,,"p5, Table 3",,end_soil,2.93a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,20-40,Non-labile Cfrac4,2.79,,"p5, Table 3",,end_soil,2.79a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Non-labile Cfrac4,2.88,,"p5, Table 3",,end_soil,2.88a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Non-labile Cfrac4,2.91,,"p5, Table 3",,end_soil,2.91a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Non-labile Cfrac4,2.8,,"p5, Table 3",,end_soil,2.8a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,20-40,TOC,14.73,,"p5, Table 3",,end_soil,14.73a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,20-40,TOC,14.47,,"p5, Table 3",,end_soil,14.47a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,TOC,13.38,,"p5, Table 3",,end_soil,13.38b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,TOC,15.50,,"p5, Table 3",,end_soil,15.50a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,TOC,15.74,,"p5, Table 3",,end_soil,15.74a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,40-60,Very-labile Cfrac1,1.53,,"p5, Table 3",,end_soil,1.53a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,40-60,Very-labile Cfrac1,1.45,,"p5, Table 3",,end_soil,1.45a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Very-labile Cfrac1,1.54,,"p5, Table 3",,end_soil,1.54a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Very-labile Cfrac1,1.55,,"p5, Table 3",,end_soil,1.55a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Very-labile Cfrac1,1.38,,"p5, Table 3",,end_soil,1.38a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,40-60,Labile Cfrac2,1.5,,"p5, Table 3",,end_soil,1.5a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,40-60,Labile Cfrac2,1.49,,"p5, Table 3",,end_soil,1.49a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Labile Cfrac2,1.55,,"p5, Table 3",,end_soil,1.55a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Labile Cfrac2,1.45,,"p5, Table 3",,end_soil,1.45a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Labile Cfrac2,1.49,,"p5, Table 3",,end_soil,1.49a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,40-60,Less-labile Cfrac3,1.43,,"p5, Table 3",,end_soil,1.43a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,40-60,Less-labile Cfrac3,1.54,,"p5, Table 3",,end_soil,1.54a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Less-labile Cfrac3,1.44,,"p5, Table 3",,end_soil,1.44a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Less-labile Cfrac3,1.47,,"p5, Table 3",,end_soil,1.47a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Less-labile Cfrac3,1.55,,"p5, Table 3",,end_soil,1.55a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,40-60,Non-labile Cfrac4,1.88,,"p5, Table 3",,end_soil,1.88a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,40-60,Non-labile Cfrac4,1.82,,"p5, Table 3",,end_soil,1.82a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Non-labile Cfrac4,1.76,,"p5, Table 3",,end_soil,1.76a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Non-labile Cfrac4,1.86,,"p5, Table 3",,end_soil,1.86a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Non-labile Cfrac4,2.01,,"p5, Table 3",,end_soil,2.01a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W,40-60,TOC,6.34,,"p5, Table 3",,end_soil,6.34a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,R–W–R–C,40-60,TOC,6.30,,"p5, Table 3",,end_soil,6.30a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,TOC,6.29,,"p5, Table 3",,end_soil,6.29a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,TOC,6.33,,"p5, Table 3",,end_soil,6.33a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,TOC,6.43,,"p5, Table 3",,end_soil,6.43a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,0-20,Very-labile Cfrac1,5.37,,"p6, Table 4",,end_soil,5.37b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,0-20,Very-labile Cfrac1,6.32,,"p6, Table 4",,end_soil,6.32a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Very-labile Cfrac1,4.36,,"p6, Table 4",,end_soil,4.36c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Very-labile Cfrac1,6.18,,"p6, Table 4",,end_soil,6.18b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Very-labile Cfrac1,6.98,,"p6, Table 4",,end_soil,6.98a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,0-20,Labile Cfrac2,3.09,,"p6, Table 4",,end_soil,3.09b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,0-20,Labile Cfrac2,3.49,,"p6, Table 4",,end_soil,3.49a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Labile Cfrac2,2.97,,"p6, Table 4",,end_soil,2.97c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Labile Cfrac2,3.27,,"p6, Table 4",,end_soil,3.27b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Labile Cfrac2,3.63,,"p6, Table 4",,end_soil,3.63a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,0-20,Less-labile Cfrac3,2.78,,"p6, Table 4",,end_soil,2.78b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,0-20,Less-labile Cfrac3,3.09,,"p6, Table 4",,end_soil,3.09a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Less-labile Cfrac3,2.64,,"p6, Table 4",,end_soil,2.64b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Less-labile Cfrac3,2.97,,"p6, Table 4",,end_soil,2.97ab,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Less-labile Cfrac3,3.21,,"p6, Table 4",,end_soil,3.21a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,0-20,Non-labile Cfrac4,3.45,,"p6, Table 4",,end_soil,3.45a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,0-20,Non-labile Cfrac4,3.77,,"p6, Table 4",,end_soil,3.77a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,Non-labile Cfrac4,3.35,,"p6, Table 4",,end_soil,3.35c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,Non-labile Cfrac4,3.57,,"p6, Table 4",,end_soil,3.57b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,Non-labile Cfrac4,3.91,,"p6, Table 4",,end_soil,3.91a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,0-20,TOC,14.69,,"p6, Table 4",,end_soil,14.69b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,0-20,TOC,16.67,,"p6, Table 4",,end_soil,16.67a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,0-20,TOC,13.32,,"p6, Table 4",,end_soil,13.32c,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,0-20,TOC,15.99,,"p6, Table 4",,end_soil,15.99b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,0-20,TOC,17.73,,"p6, Table 4",,end_soil,17.73a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,20-40,Very-labile Cfrac1,3.61,,"p6, Table 4",,end_soil,3.61a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,20-40,Very-labile Cfrac1,3.55,,"p6, Table 4",,end_soil,3.55a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Very-labile Cfrac1,3.28,,"p6, Table 4",,end_soil,3.28b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Very-labile Cfrac1,3.59,,"p6, Table 4",,end_soil,3.59a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Very-labile Cfrac1,3.88,,"p6, Table 4",,end_soil,3.88a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,20-40,Labile Cfrac2,1.4,,"p6, Table 4",,end_soil,1.4a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,20-40,Labile Cfrac2,1.54,,"p6, Table 4",,end_soil,1.54a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Labile Cfrac2,1.32,,"p6, Table 4",,end_soil,1.32a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Labile Cfrac2,1.69,,"p6, Table 4",,end_soil,1.69a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Labile Cfrac2,1.56,,"p6, Table 4",,end_soil,1.56a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,20-40,Less-labile Cfrac3,3.37,,"p6, Table 4",,end_soil,3.37a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,20-40,Less-labile Cfrac3,2.84,,"p6, Table 4",,end_soil,2.84b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Less-labile Cfrac3,2.94,,"p6, Table 4",,end_soil,2.94a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Less-labile Cfrac3,3.18,,"p6, Table 4",,end_soil,3.18a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Less-labile Cfrac3,3.19,,"p6, Table 4",,end_soil,3.19a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,20-40,Non-labile Cfrac4,2.8,,"p6, Table 4",,end_soil,2.8a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,20-40,Non-labile Cfrac4,2.85,,"p6, Table 4",,end_soil,2.85a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,Non-labile Cfrac4,2.88,,"p6, Table 4",,end_soil,2.88a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,Non-labile Cfrac4,2.71,,"p6, Table 4",,end_soil,2.71a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,Non-labile Cfrac4,2.9,,"p6, Table 4",,end_soil,2.9a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,20-40,TOC,11.18,,"p6, Table 4",,end_soil,11.18a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,20-40,TOC,10.78,,"p6, Table 4",,end_soil,10.78a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,20-40,TOC,10.42,,"p6, Table 4",,end_soil,10.42a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,20-40,TOC,11.17,,"p6, Table 4",,end_soil,11.17a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,20-40,TOC,11.53,,"p6, Table 4",,end_soil,11.53a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,40-60,Very-labile Cfrac1,1.65,,"p6, Table 4",,end_soil,1.65a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,40-60,Very-labile Cfrac1,1.54,,"p6, Table 4",,end_soil,1.54a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Very-labile Cfrac1,1.59,,"p6, Table 4",,end_soil,1.59a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Very-labile Cfrac1,1.49,,"p6, Table 4",,end_soil,1.49a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Very-labile Cfrac1,1.70,,"p6, Table 4",,end_soil,1.70a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,40-60,Labile Cfrac2,1.88,,"p6, Table 4",,end_soil,1.88a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,40-60,Labile Cfrac2,2.08,,"p6, Table 4",,end_soil,2.08a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Labile Cfrac2,1.43,,"p6, Table 4",,end_soil,1.43a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Labile Cfrac2,2.34,,"p6, Table 4",,end_soil,2.34a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Labile Cfrac2,2.18,,"p6, Table 4",,end_soil,2.18a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,40-60,Less-labile Cfrac3,1.02,,"p6, Table 4",,end_soil,1.02a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,40-60,Less-labile Cfrac3,0.99,,"p6, Table 4",,end_soil,0.99a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Less-labile Cfrac3,0.89,,"p6, Table 4",,end_soil,0.89a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Less-labile Cfrac3,1.1,,"p6, Table 4",,end_soil,1.1a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Less-labile Cfrac3,1.03,,"p6, Table 4",,end_soil,1.03a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,40-60,Non-labile Cfrac4,1.50,,"p6, Table 4",,end_soil,1.50a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,40-60,Non-labile Cfrac4,1.52,,"p6, Table 4",,end_soil,1.52a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,Non-labile Cfrac4,1.39,,"p6, Table 4",,end_soil,1.39a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,Non-labile Cfrac4,1.44,,"p6, Table 4",,end_soil,1.44a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,Non-labile Cfrac4,1.69,,"p6, Table 4",,end_soil,1.69a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W,40-60,TOC,6.05,,"p6, Table 4",,end_soil,6.05a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,M–W–M–C,40-60,TOC,6.13,,"p6, Table 4",,end_soil,6.13a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,CT,40-60,TOC,5.3,,"p6, Table 4",,end_soil,5.3b,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,RDF,40-60,TOC,6.37,,"p6, Table 4",,end_soil,6.37a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
-Ghosh_2017,,ORG,40-60,TOC,6.6,,"p6, Table 4",,end_soil,6.6a,OK,deepseek/deepseek-v4.1-flash,0,prompts/table_to_rows_v1.txt,2026-11-21 14:59
+Ghosh_2017,,Lowland,,Crop,Rice,,"p3, Table 1",,site,Rice,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Cultivar,Pant Dhan12,,"p3, Table 1",,site,Pant Dhan12,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Seed rate,40,kg ha-1,"p3, Table 1",,tillage,40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Spacing (seed to seed),20 9 20,,"p3, Table 1",,tillage,20 9 20,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Crop season,June (2)– October (4),,"p3, Table 1",,site,June (2)– October (4),NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Time of fertilizer application,1/3 N ? P ? K at basal; 1/3 N at 25 DAT; 1/3 N at 45 DAT,,"p3, Table 1",,fertiliser,1/3 N ? P ? K at basal; 1/3 N at 25 DAT; 1/3 N at 45 DAT,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,No of irrigation,8–10,,"p3, Table 1",,irrigation,8–10,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Crop,Wheat,,"p3, Table 1",,site,Wheat,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Cultivar,PBW 343,,"p3, Table 1",,site,PBW 343,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Seed rate,100,kg ha-1,"p3, Table 1",,tillage,100,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Spacing (seed to seed),22.5,,"p3, Table 1",,tillage,22.5,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Crop season,November (3)– March (3),,"p3, Table 1",,site,November (3)– March (3),NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Time of fertilizer application,1/3 N ? P ? K at basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,fertiliser,1/3 N ? P ? K at basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,No of irrigation,5,,"p3, Table 1",,irrigation,5,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Crop,Chickpea,,"p3, Table 1",,site,Chickpea,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Cultivar,KWR 108,,"p3, Table 1",,site,KWR 108,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Seed rate,70,kg ha-1,"p3, Table 1",,tillage,70,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Spacing (seed to seed),30 9 10,,"p3, Table 1",,tillage,30 9 10,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Crop season,April (1)–June (1),,"p3, Table 1",,site,April (1)–June (1),NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Nutrient rate (N–P–K),20–60–40,kg ha-1,"p3, Table 1",,fertiliser,20–60–40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,Time of fertilizer application,N ? P ? K at basal,,"p3, Table 1",,fertiliser,N ? P ? K at basal,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Lowland,,No of irrigation,2,,"p3, Table 1",,irrigation,2,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Crop,Maize,,"p3, Table 1",,site,Maize,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Cultivar,Azad Uttam,,"p3, Table 1",,site,Azad Uttam,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Seed rate,18–20,kg ha-1,"p3, Table 1",,tillage,18–20,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Spacing (seed to seed),50 9 20,,"p3, Table 1",,tillage,50 9 20,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Crop season,June (3)– October (3),,"p3, Table 1",,site,June (3)– October (3),NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Time of fertilizer application,1/3 N ? P ? K at basal; 1/3 N at 25 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,fertiliser,1/3 N ? P ? K at basal; 1/3 N at 25 DAS; 1/3 N at 45 DAS,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,No of irrigation,2,,"p3, Table 1",,irrigation,2,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Crop,Wheat,,"p3, Table 1",,site,Wheat,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Cultivar,PBW 343,,"p3, Table 1",,site,PBW 343,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Seed rate,100,kg ha-1,"p3, Table 1",,tillage,100,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Spacing (seed to seed),22.5,,"p3, Table 1",,tillage,22.5,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Crop season,November (3)– March (3),,"p3, Table 1",,site,November (3)– March (3),NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Nutrient rate (N–P–K),120–60–40,kg ha-1,"p3, Table 1",,fertiliser,120–60–40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Time of fertilizer application,1/3 N ? P ? K at basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,,"p3, Table 1",,fertiliser,1/3 N ? P ? K at basal; 1/3 N at 21 DAS; 1/3 N at 45 DAS,NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,No of irrigation,5,,"p3, Table 1",,irrigation,5,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Crop,Chickpea,,"p3, Table 1",,site,Chickpea,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Cultivar,DCP-92-3,,"p3, Table 1",,site,DCP-92-3,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Seed rate,70,kg ha-1,"p3, Table 1",,tillage,70,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Spacing (seed to seed),30 9 10,,"p3, Table 1",,tillage,30 9 10,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Crop season,April (1)–June (1),,"p3, Table 1",,site,April (1)–June (1),NEEDS HUMAN REVIEW: value_text not found in table (AI may have invented it); text value not found in table,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Nutrient rate (N–P–K),20–60–40,kg ha-1,"p3, Table 1",,fertiliser,20–60–40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,Time of fertilizer application,N ? P ? K at basal,,"p3, Table 1",,fertiliser,N ? P ? K at basal,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,Upland,,No of irrigation,2,,"p3, Table 1",,irrigation,2,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W RDF,,N,240.0,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,240.0,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,52.4,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,43.7,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W RDF,,S,20.0,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,20.0,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W RDF,,Zn,4.2,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,4.2,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,N,103.6,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,103.6,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,P,25.9,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,25.9,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,K,142.5,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,142.5,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,S,24.4,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,24.4,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,Zn,0.29,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,0.29,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,FYM,6.5,Mg C ha-1,"p4, Table 2",,fertiliser,6.5a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,Crop residue*,36.8,Mg C ha-1,"p4, Table 2",,fertiliser,36.8b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W ORG,,Total,43.3,Mg C ha-1,"p4, Table 2",,fertiliser,43.3b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C RDF,,N,190.0,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,190.0,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,52.4,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,43.7,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C RDF,,S,20.0,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,20.0,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C RDF,,Zn,4.2,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,4.2,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,N,107.0,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,107.0,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,P,26.8,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,26.8,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,K,146.0,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,146.0,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,S,28.2,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,28.2,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,Zn,0.40,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,0.40,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,FYM,6.5,Mg C ha-1,"p4, Table 2",,fertiliser,6.5a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,Crop residue*,43.0,Mg C ha-1,"p4, Table 2",,fertiliser,43.0a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C ORG,,Total,49.5,Mg C ha-1,"p4, Table 2",,fertiliser,49.5a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W RDF,,N,240,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,240,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,52.4,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,43.7,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W RDF,,S,20,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,20,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W RDF,,Zn,4.20,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,4.20,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,N,91.6,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,91.6,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,P,18.9,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,18.9,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,K,122.3,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,122.3,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,S,10.8,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,10.8,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,Zn,0.42,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,0.42,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,FYM,6.5,Mg C ha-1,"p4, Table 2",,fertiliser,6.5a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,Crop residue*,36.2,Mg C ha-1,"p4, Table 2",,fertiliser,36.2b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W ORG,,Total,42.7,Mg C ha-1,"p4, Table 2",,fertiliser,42.7b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C RDF,,N,190,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,190,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C RDF,,P,52.4,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,52. 4,NEEDS HUMAN REVIEW: value does not match the number in value_text,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C RDF,,K,43.7,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,43. 7,NEEDS HUMAN REVIEW: value does not match the number in value_text,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C RDF,,S,20,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,20,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C RDF,,Zn,4.20,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,4.20,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,N,109.9,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,109.9,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,P,22.3,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,22.3,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,K,142.5,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,142.5,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,S,16.1,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,16.1,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,Zn,0.50,kg ha-1 a-1,"p4, Table 2",2009–2010 and 2010–2011,fertiliser,0.50,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,FYM,6.5,Mg C ha-1,"p4, Table 2",,fertiliser,6.5a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,Crop residue*,43.8,Mg C ha-1,"p4, Table 2",,fertiliser,43.8a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C ORG,,Total,50.31,Mg C ha-1,"p4, Table 2",,fertiliser,50.31a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,0-20,Very-labile Cfrac1,3.59,,"p5, Table 3",,end_soil,3.59b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,0-20,Labile Cfrac2,2.98,,"p5, Table 3",,end_soil,2.98b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,0-20,Less-labile Cfrac3,5.48,,"p5, Table 3",,end_soil,5.48a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,0-20,Non-labile Cfrac4,5.24,,"p5, Table 3",,end_soil,5.24a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,0-20,TOC,17.29,,"p5, Table 3",,end_soil,17.29b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,0-20,Very-labile Cfrac1,4.85,,"p5, Table 3",,end_soil,4.85a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,0-20,Labile Cfrac2,3.41,,"p5, Table 3",,end_soil,3.41a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,0-20,Less-labile Cfrac3,5.37,,"p5, Table 3",,end_soil,5.37a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,0-20,Non-labile Cfrac4,4.79,,"p5, Table 3",,end_soil,4.79a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,0-20,TOC,18.42,,"p5, Table 3",,end_soil,18.42a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Very-labile Cfrac1,3.58,,"p5, Table 3",,end_soil,3.58c,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Labile Cfrac2,2.53,,"p5, Table 3",,end_soil,2.53b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Less-labile Cfrac3,5.14,,"p5, Table 3",,end_soil,5.14b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Non-labile Cfrac4,4.83,,"p5, Table 3",,end_soil,4.83b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,TOC,16.08,,"p5, Table 3",,end_soil,16.08c,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Very-labile Cfrac1,4.33,,"p5, Table 3",,end_soil,4.33b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Labile Cfrac2,3.46,,"p5, Table 3",,end_soil,3.46ab,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Less-labile Cfrac3,5.32,,"p5, Table 3",,end_soil,5.32ab,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Non-labile Cfrac4,4.98,,"p5, Table 3",,end_soil,4.98b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,TOC,18.09,,"p5, Table 3",,end_soil,18.09b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Very-labile Cfrac1,4.94,,"p5, Table 3",,end_soil,4.94a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Labile Cfrac2,3.60,,"p5, Table 3",,end_soil,3.60a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Less-labile Cfrac3,5.79,,"p5, Table 3",,end_soil,5.79a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Non-labile Cfrac4,5.24,,"p5, Table 3",,end_soil,5.24a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,TOC,19.57,,"p5, Table 3",,end_soil,19.57a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,20-40,Very-labile Cfrac1,3.89,,"p5, Table 3",,end_soil,3.89a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,20-40,Labile Cfrac2,3.05,,"p5, Table 3",,end_soil,3.05a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,20-40,Less-labile Cfrac3,4.86,,"p5, Table 3",,end_soil,4.86a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,20-40,Non-labile Cfrac4,2.93,,"p5, Table 3",,end_soil,2.93a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,20-40,TOC,14.73,,"p5, Table 3",,end_soil,14.73a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,20-40,Very-labile Cfrac1,4.08,,"p5, Table 3",,end_soil,4.08a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,20-40,Labile Cfrac2,3.05,,"p5, Table 3",,end_soil,3.05a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,20-40,Less-labile Cfrac3,4.55,,"p5, Table 3",,end_soil,4.55a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,20-40,Non-labile Cfrac4,2.79,,"p5, Table 3",,end_soil,2.79a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,20-40,TOC,14.47,,"p5, Table 3",,end_soil,14.47a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Very-labile Cfrac1,3.07,,"p5, Table 3",,end_soil,3.07c,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Labile Cfrac2,2.81,,"p5, Table 3",,end_soil,2.81a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Less-labile Cfrac3,4.62,,"p5, Table 3",,end_soil,4.62a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Non-labile Cfrac4,2.88,,"p5, Table 3",,end_soil,2.88a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,TOC,13.38,,"p5, Table 3",,end_soil,13.38b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Very-labile Cfrac1,4.75,,"p5, Table 3",,end_soil,4.75b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Labile Cfrac2,3.22,,"p5, Table 3",,end_soil,3.22a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Less-labile Cfrac3,4.62,,"p5, Table 3",,end_soil,4.62a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Non-labile Cfrac4,2.91,,"p5, Table 3",,end_soil,2.91a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,TOC,15.50,,"p5, Table 3",,end_soil,15.50a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Very-labile Cfrac1,5.14,,"p5, Table 3",,end_soil,5.14a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Labile Cfrac2,3.12,,"p5, Table 3",,end_soil,3.12a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Less-labile Cfrac3,4.68,,"p5, Table 3",,end_soil,4.68a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Non-labile Cfrac4,2.8,,"p5, Table 3",,end_soil,2.8a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,TOC,15.74,,"p5, Table 3",,end_soil,15.74a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,40-60,Very-labile Cfrac1,1.53,,"p5, Table 3",,end_soil,1.53a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,40-60,Labile Cfrac2,1.5,,"p5, Table 3",,end_soil,1.5a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,40-60,Less-labile Cfrac3,1.43,,"p5, Table 3",,end_soil,1.43a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,40-60,Non-labile Cfrac4,1.88,,"p5, Table 3",,end_soil,1.88a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W,40-60,TOC,6.34,,"p5, Table 3",,end_soil,6.34a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,40-60,Very-labile Cfrac1,1.45,,"p5, Table 3",,end_soil,1.45a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,40-60,Labile Cfrac2,1.49,,"p5, Table 3",,end_soil,1.49a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,40-60,Less-labile Cfrac3,1.54,,"p5, Table 3",,end_soil,1.54a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,40-60,Non-labile Cfrac4,1.82,,"p5, Table 3",,end_soil,1.82a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,R–W–R–C,40-60,TOC,6.30,,"p5, Table 3",,end_soil,6.30a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Very-labile Cfrac1,1.54,,"p5, Table 3",,end_soil,1.54a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Labile Cfrac2,1.55,,"p5, Table 3",,end_soil,1.55a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Less-labile Cfrac3,1.44,,"p5, Table 3",,end_soil,1.44a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Non-labile Cfrac4,1.76,,"p5, Table 3",,end_soil,1.76a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,TOC,6.29,,"p5, Table 3",,end_soil,6.29a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Very-labile Cfrac1,1.55,,"p5, Table 3",,end_soil,1.55a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Labile Cfrac2,1.45,,"p5, Table 3",,end_soil,1.45a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Less-labile Cfrac3,1.47,,"p5, Table 3",,end_soil,1.47a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Non-labile Cfrac4,1.86,,"p5, Table 3",,end_soil,1.86a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,TOC,6.33,,"p5, Table 3",,end_soil,6.33a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Very-labile Cfrac1,1.38,,"p5, Table 3",,end_soil,1.38a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Labile Cfrac2,1.49,,"p5, Table 3",,end_soil,1.49a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Less-labile Cfrac3,1.55,,"p5, Table 3",,end_soil,1.55a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Non-labile Cfrac4,2.01,,"p5, Table 3",,end_soil,2.01a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,TOC,6.43,,"p5, Table 3",,end_soil,6.43a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,0-20,Very-labile Cfrac1,5.37,,"p6, Table 4",,end_soil,5.37b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,0-20,Labile Cfrac2,3.09,,"p6, Table 4",,end_soil,3.09b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,0-20,Less-labile Cfrac3,2.78,,"p6, Table 4",,end_soil,2.78b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,0-20,Non-labile Cfrac4,3.45,,"p6, Table 4",,end_soil,3.45a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,0-20,TOC,14.69,,"p6, Table 4",,end_soil,14.69b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,0-20,Very-labile Cfrac1,6.32,,"p6, Table 4",,end_soil,6.32a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,0-20,Labile Cfrac2,3.49,,"p6, Table 4",,end_soil,3.49a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,0-20,Less-labile Cfrac3,3.09,,"p6, Table 4",,end_soil,3.09a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,0-20,Non-labile Cfrac4,3.77,,"p6, Table 4",,end_soil,3.77a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,0-20,TOC,16.67,,"p6, Table 4",,end_soil,16.67a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Very-labile Cfrac1,4.36,,"p6, Table 4",,end_soil,4.36c,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Labile Cfrac2,2.97,,"p6, Table 4",,end_soil,2.97c,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Less-labile Cfrac3,2.64,,"p6, Table 4",,end_soil,2.64b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,Non-labile Cfrac4,3.35,,"p6, Table 4",,end_soil,3.35c,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,0-20,TOC,13.32,,"p6, Table 4",,end_soil,13.32c,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Very-labile Cfrac1,6.18,,"p6, Table 4",,end_soil,6.18b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Labile Cfrac2,3.27,,"p6, Table 4",,end_soil,3.27b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Less-labile Cfrac3,2.97,,"p6, Table 4",,end_soil,2.97ab,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,Non-labile Cfrac4,3.57,,"p6, Table 4",,end_soil,3.57b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,0-20,TOC,15.99,,"p6, Table 4",,end_soil,15.99b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Very-labile Cfrac1,6.98,,"p6, Table 4",,end_soil,6.98a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Labile Cfrac2,3.63,,"p6, Table 4",,end_soil,3.63a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Less-labile Cfrac3,3.21,,"p6, Table 4",,end_soil,3.21a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,Non-labile Cfrac4,3.91,,"p6, Table 4",,end_soil,3.91a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,0-20,TOC,17.73,,"p6, Table 4",,end_soil,17.73a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,20-40,Very-labile Cfrac1,3.61,,"p6, Table 4",,end_soil,3.61a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,20-40,Labile Cfrac2,1.4,,"p6, Table 4",,end_soil,1.4a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,20-40,Less-labile Cfrac3,3.37,,"p6, Table 4",,end_soil,3.37a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,20-40,Non-labile Cfrac4,2.8,,"p6, Table 4",,end_soil,2.8a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,20-40,TOC,11.18,,"p6, Table 4",,end_soil,11.18a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,20-40,Very-labile Cfrac1,3.55,,"p6, Table 4",,end_soil,3.55a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,20-40,Labile Cfrac2,1.54,,"p6, Table 4",,end_soil,1.54a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,20-40,Less-labile Cfrac3,2.84,,"p6, Table 4",,end_soil,2.84b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,20-40,Non-labile Cfrac4,2.85,,"p6, Table 4",,end_soil,2.85a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,20-40,TOC,10.78,,"p6, Table 4",,end_soil,10.78a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Very-labile Cfrac1,3.28,,"p6, Table 4",,end_soil,3.28b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Labile Cfrac2,1.32,,"p6, Table 4",,end_soil,1.32a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Less-labile Cfrac3,2.94,,"p6, Table 4",,end_soil,2.94a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,Non-labile Cfrac4,2.88,,"p6, Table 4",,end_soil,2.88a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,20-40,TOC,10.42,,"p6, Table 4",,end_soil,10.42a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Very-labile Cfrac1,3.59,,"p6, Table 4",,end_soil,3.59a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Labile Cfrac2,1.69,,"p6, Table 4",,end_soil,1.69a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Less-labile Cfrac3,3.18,,"p6, Table 4",,end_soil,3.18a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,Non-labile Cfrac4,2.71,,"p6, Table 4",,end_soil,2.71a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,20-40,TOC,11.17,,"p6, Table 4",,end_soil,11.17a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Very-labile Cfrac1,3.88,,"p6, Table 4",,end_soil,3.88a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Labile Cfrac2,1.56,,"p6, Table 4",,end_soil,1.56a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Less-labile Cfrac3,3.19,,"p6, Table 4",,end_soil,3.19a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,Non-labile Cfrac4,2.9,,"p6, Table 4",,end_soil,2.9a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,20-40,TOC,11.53,,"p6, Table 4",,end_soil,11.53a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,40-60,Very-labile Cfrac1,1.65,,"p6, Table 4",,end_soil,1.65a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,40-60,Labile Cfrac2,1.88,,"p6, Table 4",,end_soil,1.88a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,40-60,Less-labile Cfrac3,1.02,,"p6, Table 4",,end_soil,1.02a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,40-60,Non-labile Cfrac4,1.50,,"p6, Table 4",,end_soil,1.50a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W,40-60,TOC,6.05,,"p6, Table 4",,end_soil,6.05a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,40-60,Very-labile Cfrac1,1.54,,"p6, Table 4",,end_soil,1.54a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,40-60,Labile Cfrac2,2.08,,"p6, Table 4",,end_soil,2.08a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,40-60,Less-labile Cfrac3,0.99,,"p6, Table 4",,end_soil,0.99a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,40-60,Non-labile Cfrac4,1.52,,"p6, Table 4",,end_soil,1.52a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,M–W–M–C,40-60,TOC,6.13,,"p6, Table 4",,end_soil,6.13a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Very-labile Cfrac1,1.59,,"p6, Table 4",,end_soil,1.59a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Labile Cfrac2,1.43,,"p6, Table 4",,end_soil,1.43a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Less-labile Cfrac3,0.89,,"p6, Table 4",,end_soil,0.89a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,Non-labile Cfrac4,1.39,,"p6, Table 4",,end_soil,1.39a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,CT,40-60,TOC,5.3,,"p6, Table 4",,end_soil,5.3b,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Very-labile Cfrac1,1.49,,"p6, Table 4",,end_soil,1.49a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Labile Cfrac2,2.34,,"p6, Table 4",,end_soil,2.34a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Less-labile Cfrac3,1.1,,"p6, Table 4",,end_soil,1.1a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,Non-labile Cfrac4,1.44,,"p6, Table 4",,end_soil,1.44a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,RDF,40-60,TOC,6.37,,"p6, Table 4",,end_soil,6.37a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Very-labile Cfrac1,1.70,,"p6, Table 4",,end_soil,1.70a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Labile Cfrac2,2.18,,"p6, Table 4",,end_soil,2.18a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Less-labile Cfrac3,1.03,,"p6, Table 4",,end_soil,1.03a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,Non-labile Cfrac4,1.69,,"p6, Table 4",,end_soil,1.69a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
+Ghosh_2017,,ORG,40-60,TOC,6.6,,"p6, Table 4",,end_soil,6.6a,OK,gpt-6-astra,default (1),prompts/table_to_rows_v1.txt,2026-11-23 22:34
