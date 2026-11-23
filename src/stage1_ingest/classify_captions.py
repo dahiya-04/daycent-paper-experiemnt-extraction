@@ -8,9 +8,8 @@ import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
 
-BASE_URL = "https://api.goedelmachines.com/v1"
-MODEL = "deepseek/deepseek-v4.1-flash"
-TEMPERATURE = 0                      # 0 = repeatable answers
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))   # find src/llm_client.py
+from llm_client import MODEL, TEMPERATURE, make_client, model_kwargs   # model chosen in .env
 PROMPT_FILE = Path("prompts/caption_classifier_v3.txt")   # v3: input / not_needed only
 
 # ---- The only answers we accept from the AI ----
@@ -22,8 +21,7 @@ def ask_ai(client, prompt_template, caption_text):
     """Send one caption to the AI and return its answer as a Python dict."""
     prompt = prompt_template.replace("{caption}", caption_text)
     resp = client.chat.completions.create(
-        model=MODEL,
-        temperature=TEMPERATURE,
+        **model_kwargs(),
         messages=[{"role": "user", "content": prompt}],
         response_format={"type": "json_object"},   # force JSON (tested OK)
     )
@@ -59,8 +57,7 @@ def main():
     captions = pd.read_csv(folder / "captions.csv")
     prompt_template = PROMPT_FILE.read_text(encoding="utf-8")
 
-    load_dotenv()
-    client = OpenAI(base_url=BASE_URL, api_key=os.environ["GOEDEL_API_KEY"])
+    client = make_client()
 
     results = []
     for _, row in captions.iterrows():
